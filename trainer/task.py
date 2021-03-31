@@ -36,8 +36,8 @@ def get_args():
                         action='store_true',
                         dest='corrupt_test')
     parser.add_argument('--pos',
-                        type=list,
-                        default=['NOUN'])
+                        type=str,
+                        default='NOUN')
     parser.add_argument('--weight-decay',
                         default=0,
                         type=float)

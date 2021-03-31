@@ -32,15 +32,15 @@ def corrupt_data(sentences, pos):
         tokenized_sent = nltk.word_tokenize(line)
         tagged_sent = nltk.pos_tag(tokenized_sent, tagset='universal')
 
-        sents = []
+        sent = []
         
         for pair in tagged_sent:
-            if pair[1] not in pos:
-                sents.append(pair[0])
+            if pair[1] not in [pos]:
+                sent.append(pair[0])
             else:
                 count = count + 1
 
-    processed.append((TreebankWordDetokenizer().detokenize(sents)))
+        processed.append((TreebankWordDetokenizer().detokenize(sent)))
     
     return processed, count
 
@@ -66,23 +66,36 @@ def load_data(args):
     val_labels = dev_dataset['label']
     test_labels = test_dataset['label']
 
+    counts = dict()
     if args.corrupt_train == True:
-        train_prem = corrupt_data(dev_dataset['premise'], args.pos)
-        train_hypo = corrupt_data(dev_dataset['hypothesis'], args.pos)
+        train_prem, train_prem_count = corrupt_data(train_dataset['premise'], args.pos)
+        train_hypo, train_hypo_count = corrupt_data(train_dataset['hypothesis'], args.pos)
+        counts['train_prem_count'] = train_prem_count
+        counts['train_hypo_count'] = train_hypo_count
     else:
         train_prem = train_dataset['premise']
         train_hypo = train_dataset['hypothesis']
+        counts['train_prem_count'] = 0
+        counts['train_hypo_count'] = 0
     
     if args.corrupt_test == True:
-        dev_prem = corrupt_data(dev_dataset['premise'], args.pos)
-        dev_hypo = corrupt_data(dev_dataset['hypothesis'], args.pos)
+        dev_prem, dev_prem_count = corrupt_data(dev_dataset['premise'], args.pos)
+        dev_hypo, dev_hypo_count = corrupt_data(dev_dataset['hypothesis'], args.pos)
         test_prem = dev_prem
         test_hypo = dev_hypo
+        counts['dev_prem_count'] = dev_prem_count
+        counts['dev_hypo_count'] = dev_hypo_count
+        counts['test_prem_count'] = dev_prem_count
+        counts['test_hypo_count'] = dev_hypo_count
     else:
         dev_prem = dev_dataset['premise']
         dev_hypo = dev_dataset['hypothesis']
         test_prem = dev_prem
         test_hypo = dev_hypo
+        counts['dev_prem_count'] = 0
+        counts['dev_hypo_count'] = 0
+        counts['test_prem_count'] = 0
+        counts['test_hypo_count'] = 0
 
     train_encodings = tokenizer(train_prem, train_hypo, truncation=True, padding=True)
     val_encodings = tokenizer(dev_prem, dev_hypo, truncation=True, padding=True)
@@ -96,7 +109,7 @@ def load_data(args):
     dev_loader = DataLoader(val_dataset, batch_size=args.batch_size, shuffle=True)
     test_loader = DataLoader(test_dataset, batch_size=args.batch_size, shuffle=True)
 
-    return train_loader, dev_loader, test_loader
+    return train_loader, dev_loader, test_loader, counts
 
 
 def save_model(args):

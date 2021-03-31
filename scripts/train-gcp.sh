@@ -5,7 +5,7 @@ BUCKET_NAME=nlu-dataset-diagnostics-001
 IMAGE_URI=gcr.io/cloud-ml-public/training/pytorch-gpu.1-4
 
 # JOB_NAME: the name of your job running on AI Platform.
-JOB_NAME=nli_diagnostics_job_$(date +%Y%m%d_%H%M%S)
+JOB_NAME=nli_diagnostics_job_mnli_both_$(date +%Y%m%d_%H%M%S)
 
 echo "Submitting AI Platform Training job: ${JOB_NAME}"
 
@@ -27,5 +27,6 @@ gcloud ai-platform jobs submit training ${JOB_NAME} \
     --epochs 2 \
     --batch_size 16 \
     --learning_rate 2e-5 \
+    --corrupt_train \
     --corrupt_test \
-    --pos ['NOUN']
+    --pos 'NOUN'

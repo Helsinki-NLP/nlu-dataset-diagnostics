@@ -32,8 +32,7 @@ def train(args, model, dataloader, optimizer, device):
 
 
 def evaluate(model, dataloader, device):
-      """Create the evaluation loop.
-
+    """Create the evaluation loop.
     Args:
       model: The transformer model that you are training, based on
       nn.Module
@@ -79,7 +78,16 @@ def run(args):
     torch.manual_seed(args.seed)
 
     # Open our dataset
-    train_loader, eval_loader, test_loader = inputs.load_data(args)
+    train_loader, eval_loader, test_loader, counts = inputs.load_data(args)
+
+    # Print counts
+    print("Number of tokens removed:")
+    print(f"- Training prem: {counts['train_prem_count']}")
+    print(f"- Training hypo: {counts['train_hypo_count']}")
+    print(f"- Dev prem: {counts['dev_prem_count']}")
+    print(f"- Dev hypo: {counts['dev_hypo_count']}")
+    print(f"- Test prem: {counts['test_prem_count']}")
+    print(f"- Test hypo: {counts['test_hypo_count']}")
 
     # Create the model, loss function, and optimizer
     bert_model, optimizer = model.create(args, device)
