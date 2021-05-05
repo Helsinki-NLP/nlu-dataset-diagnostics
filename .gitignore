@@ -7,3 +7,4 @@ output
 key.json
 *.egg-info
 .vscode
+.idea
