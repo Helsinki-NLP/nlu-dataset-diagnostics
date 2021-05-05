@@ -98,16 +98,6 @@ class DataTrainingArguments:
     corrupt_dataset: Optional[str] = field(
         default = None
     )
-
-    # corrupt_train: bool = field(
-    #     default=False
-    # )
-    # corrupt_dev: bool = field(
-    #     default=False
-    # )
-    # corrupt_test: bool = field(
-    #     default=False
-    # )
     overwrite_cache: bool = field(
         default=False, metadata={"help": "Overwrite the cached preprocessed datasets or not."}
     )
