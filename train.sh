@@ -4,13 +4,6 @@ export TASK=${1}
 export DATASET=${2}
 export POS=${3}
 
-if [ "$TASK_NAME" = "mrpc" ]
-then
-    export EPOCHS=5
-else
-    export EPOCHS=3
-fi
-
 python3 run_corrupt_glue.py \
     --model_name_or_path roberta-base \
     --do_eval \
@@ -23,5 +16,5 @@ python3 run_corrupt_glue.py \
     --max_seq_length 128 \
     --per_device_train_batch_size 32 \
     --learning_rate 2e-5 \
-    --num_train_epochs $EPOCHS \
+    --num_train_epochs 3 \
     --output_dir output/$TASK/$DATASET/$POS/
