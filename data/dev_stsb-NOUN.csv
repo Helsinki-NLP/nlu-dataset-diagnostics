@@ -1,0 +1,1501 @@
+,sentence1,sentence2,label
+0,A with a hard is dancing.,A wearing a hard is dancing.,5.0
+1,A young is riding a.,A is riding a.,4.75
+2,A is feeding a to a.,The is feeding a to the.,5.0
+3,A is playing the.,A is playing.,2.4000000953674316
+4,A is playing the.,A is playing a.,2.75
+5,A is cutting an.,A is cutting.,2.615000009536743
+6,A is erasing a.,The is erasing the.,5.0
+7,A is carrying a.,A is carrying her.,2.3329999446868896
+8,Three are playing.,Three are on.,3.75
+9,A peels a.,A is peeling a.,5.0
+10,are playing.,are playing.,3.200000047683716
+11,A is playing a.,A is playing a.,1.5829999446868896
+12,The is chasing the.,A is chasing a.,5.0
+13,The cut down a with an.,A chops down a with an.,5.0
+14,The is playing the.,A is playing a.,4.908999919891357
+15,A is finding.,A is slicing.,0.800000011920929
+16,The sang into a.,The into the.,2.4000000953674316
+17,A is climbing a.,A climbs a.,5.0
+18,are eating.,are eating from.,4.0
+19,A is speaking.,A is spitting.,0.6359999775886536
+20,A is cooking.,A is cooking.,3.0
+21,A is playing a.,A is playing a.,1.7139999866485596
+22,An is chewing on.,An is chewing on a.,3.200000047683716
+23,A is playing a.,A is playing.,2.1670000553131104
+24,A is playing.,A is playing.,1.0
+25,A is riding a.,A is riding a.,1.9170000553131104
+26,A is lifting in a.,A is lifting.,4.25
+27,An is biting a.,A slow is biting a.,3.0
+28,A is reading.,A is kneading.,1.0
+29,A is crying.,A is dancing.,0.6000000238418579
+30,The cracked an into a.,The is cracking into a.,2.5999999046325684
+31,A is performing on a.,A is playing.,5.0
+32,are walking down a.,A of are walking along a.,4.599999904632568
+33,A is playing a.,A plays the.,5.0
+34,A sitting on the plays a.,A sitting on the in a is strumming a.,4.800000190734863
+35,A puppy with a plastic.,The is playing with a plastic.,3.799999952316284
+36,A plays the.,A is playing.,5.0
+37,A plays the.,A is playing a.,5.0
+38,A is eating.,A is eating.,4.199999809265137
+39,A is playing a.,A is playing a.,1.399999976158142
+40,A walks down a.,A little is walking down a.,3.5999999046325684
+41,A is landing.,A animated is landing.,2.799999952316284
+42,A is climbing.,A is climbing a.,1.600000023841858
+43,are dancing on.,Some are dancing on.,3.0
+44,A plays a.,A plays the.,1.399999976158142
+45,A is slicing a.,A is singing on.,0.25
+46,A is taking a.,A is playing a.,0.25
+47,The is riding a.,A is using a.,0.0
+48,A is drilling a in a.,is drilling a in a of.,4.0
+49,A is fitting on a.,A is adding a to a.,4.5
+50,Two little are talking on the.,A little is walking down the.,0.5
+51,is stirring in a.,is stirring a of with a.,3.799999952316284
+52,The is cracking into a.,The broke raw into a.,4.800000190734863
+53,A puts flour on a of.,A is putting flour onto some.,5.0
+54,A is talking on a.,A is singing to a.,0.25
+55,A is playing an electronic.,A is playing a.,1.2000000476837158
+56,A is playing a.,A is eating a.,0.6000000238418579
+57,A is jumping into.,A is cutting.,0.800000011920929
+58,A is playing a.,A is playing an.,3.799999952316284
+59,A young is playing the.,A is peeling a.,0.0
+60,A is mixing.,A is mixing in a.,3.5
+61,is shredding leaves with a.,is chopping some leaves.,4.5
+62,A slow around.,A is walking around.,2.799999952316284
+63,A little is vacuuming the.,A is vacuuming.,3.799999952316284
+64,A is applying to her eyelid using an.,A is applying to her.,3.799999952316284
+65,A is making a.,A is playing a.,0.0
+66,A plays a.,A is playing the.,4.0
+67,A is playing with a toy.,A is playing with a stuffed.,4.25
+68,A rides on a.,An along a.,2.812000036239624
+69,A shoots a.,A with a pistol another.,4.25
+70,A plays the.,The and played his.,3.0
+71,A is playing,A is playing a.,1.0
+72,One is breaking on another's.,A breaks on another.,3.75
+73,A is talking with other on the.,A is walking down the.,0.0
+74,The is dicing.,A is dancing in.,0.4000000059604645
+75,A is preparing some.,A prepared a.,4.0
+76,The talked to a over the.,A to a over a.,2.799999952316284
+77,A turtle over the.,A large in the.,3.75
+78,The cracked an for the.,The sliced up the.,1.1540000438690186
+79,Five are eating out of five.,are eating on.,2.75
+80,A is slicing some.,A is cutting raw.,2.799999952316284
+81,A playing the.,A is painting her.,0.0
+82,A is playing a.,A is barking at a.,0.0
+83,A is walking around his with his.,A is following an.,3.4000000953674316
+84,The used a to slice a plastic.,A sliced a plastic with a.,5.0
+85,A is cleaning a on a.,A is playing a.,0.800000011920929
+86,A is chopping.,A is slicing up some green.,2.25
+87,A is pressing microwave.,A turns on the.,2.75
+88,A is riding a.,The trotted the.,4.5
+89,and fly a over.,A flies over.,2.5999999046325684
+90,A pours into a from a plastic while she is talking.,An older is pouring into a on the.,3.799999952316284
+91,A is cutting some.,A is chopping.,2.799999952316284
+92,The put the skewered in the hot.,The fried the breaded in hot.,1.600000023841858
+93,A is riding on a.,A is shooting off.,0.0
+94,The is playing the.,A is playing on.,1.3329999446868896
+95,The is kneading the.,A is kneading.,2.5999999046325684
+96,A is riding a along a.,A is riding a.,0.6000000238418579
+97,A is putting her in a.,The is poking in the.,0.0
+98,A is pouncing on a.,A is slicing a.,0.0
+99,A and are eating at a.,A are eating a and talking.,3.0
+100,A is riding on a.,A is turning over in.,0.0
+101,A is screwing to a.,A is giving a a.,0.20000000298023224
+102,A is playing a.,A plays a.,3.200000047683716
+103,A small is playing a.,"A sits on a, and plays a.",2.0
+104,A is chopping.,A is doing a.,0.0
+105,A and a through the.,The and are walking.,3.0
+106,A is playing a.,A is playing a on a.,3.0910000801086426
+107,are jumping into from a.,in a.,2.75
+108,A is peeling some.,A is pouring a yellow on a.,1.2000000476837158
+109,are playing.,The hit the.,0.5
+110,A is boiling.,A is placing into a.,0.25
+111,A is dancing.,A breaks a.,0.0
+112,A is performing on.,The is being petted.,0.0
+113,A shoots a.,A is playing a.,0.5
+114,The are bathing.,Two are singing.,0.0
+115,The cut up an.,A is dancing.,0.6000000238418579
+116,A puts on her.,The is pencilling on.,4.0
+117,A and are riding in a.,A driving a is talking to the seated beside her.,3.4000000953674316
+118,A is dancing in a.,A is being chopped.,0.0
+119,A is on a.,A is eating.,0.0
+120,The stirred up raw in the.,A is pouring into a.,1.0
+121,A is eating.,A is pulling a down a.,0.0
+122,The stirred the for the.,The is stirring.,2.4000000953674316
+123,A jumping,A is talking.,0.4000000059604645
+124,A is peeling an.,A cuts off a small of lemon.,1.7999999523162842
+125,is beating an.,A stirs in a.,2.5
+126,A is cutting a.,A plays an electric.,0.08299999684095383
+127,A is buttering a of.,A slow hanging on a.,0.0
+128,A cuts up some.,A is placing skewered onto a.,1.0
+129,The cut the and of a.,A is cleaning a.,4.5
+130,A plays an acoustic.,A and are walking together.,0.0
+131,A is peeling.,A is preparing.,3.5999999046325684
+132,A is cutting.,A is slicing.,5.0
+133,A small laying on the.,A small is laying on a.,5.0
+134,The is slicing a.,A is slicing.,5.0
+135,The is slicing a.,A is slicing.,5.0
+136,A is peeling.,A is peeling.,3.799999952316284
+137,A is putting on.,A puts on.,5.0
+138,A is slicing a.,A is slicing.,2.5
+139,are running.,Two are running.,3.8239998817443848
+140,A is playing a.,A is playing a.,1.600000023841858
+141,A dives into a.,A dives into a swimming.,5.0
+142,The is smashing garlic.,A is smashing some.,5.0
+143,A is cutting up a.,A is cutting up.,2.375
+144,A is slicing an.,A slices an.,5.0
+145,A is dancing.,A is singing.,1.25
+146,A is running.,A is singing.,1.25
+147,The is hiking in the.,A is tracking in the.,3.0
+148,A is playing a.,A is playing.,2.1670000553131104
+149,A is riding a.,A is riding a.,1.399999976158142
+150,A is playing the.,A is playing a.,4.0
+151,A is eating a.,A is eating a.,3.5999999046325684
+152,A is playing.,A plays a.,4.85699987411499
+153,The is buttering the.,The is stirring the.,0.4000000059604645
+154,A is hitting a.,A is taking a.,0.20000000298023224
+155,Three are dancing.,are dancing.,1.2999999523162842
+156,A is speaking.,A is dancing.,1.2000000476837158
+157,A is dancing.,A is speaking.,1.2000000476837158
+158,A is combing a.,A is brushing a.,4.400000095367432
+159,A is playing the.,A is playing.,1.7999999523162842
+160,A is peeling a.,A is peeling a.,1.399999976158142
+161,A is riding a.,A is riding a.,0.4000000059604645
+162,The puppy tried to get out of the.,A puppy is trying to get out of a.,4.400000095367432
+163,A is peeling an.,The is slicing green.,3.25
+164,A is mixing a of.,A is peeling a.,0.777999997138977
+165,A is playing a.,The is playing the.,2.25
+166,A to climb a.,A tries to climb over a.,2.75
+167,A is talking on a.,A is talking into a.,2.0
+168,A is playing a.,A is cleaning a.,0.8330000042915344
+169,is pouring chicken into a.,The is pouring broth into the.,3.75
+170,A is chopping an.,A is chopping garlic with a.,1.7999999523162842
+171,The is shaking with other.,A is shaking another.,4.333000183105469
+172,A is being hit with gun.,The was being shot with.,4.214000225067139
+173,A is applying.,A is playing a.,0.0
+174,A is slicing a big.,A is cutting a green.,3.4000000953674316
+175,A puts some on a.,A is sprinkling shredded on a.,4.199999809265137
+176,A is staring at a.,A is slicing a.,0.800000011920929
+177,A is picking a and putting it in a.,A is placing a into a.,4.199999809265137
+178,A drops a down an.,A tosses a down an.,2.75
+179,The is playing the.,A is playing.,2.200000047683716
+180,A is applying.,A is washing a.,1.2000000476837158
+181,A is playing the.,A is playing a.,1.0
+182,A is riding on a.,A is riding an.,1.5329999923706055
+183,A is playing.,A is dancing.,0.20000000298023224
+184,A is walking around his.,A walks around aimlessly.,3.0
+185,A pours cooking into a.,A is pouring olive into a on the.,3.799999952316284
+186,A is cutting.,A is riding a.,0.75
+187,A is talking.,A is talking into a.,3.0
+188,A is singing into a.,A is dancing in the.,0.4000000059604645
+189,A is exercising.,A lifts.,3.4000000953674316
+190,A runs into and out of the.,A young is running toward and from the.,3.799999952316284
+191,A is playing the.,A is playing a wooden.,1.399999976158142
+192,A is riding a.,A is riding a in the.,3.4000000953674316
+193,A is stealing from a.,The took out of the.,3.200000047683716
+194,A uses a on two.,A is burning.,2.3329999446868896
+195,A is putting a in a.,A is getting into a in a.,0.800000011920929
+196,A is cooking.,A is speaking.,0.0
+197,A puppy is trying to come out from the.,The puppy tried to get out of the.,3.0
+198,A is folding a square.,A folds a of.,3.75
+199,The is playing the.,The is pouring into the.,0.0
+200,A is cutting a.,A is climbing a.,0.0
+201,A is feeding a.,A is adding to pan.,0.0
+202,A is playing a.,A is riding a.,0.5
+203,A is mixing.,The is eating.,0.5
+204,A is riding on a.,A is tying in the.,0.4000000059604645
+205,A is serving.,A seasoning.,0.75
+206,is greating a.,A is grating an.,2.5
+207,A is standing on a top playing a.,A is on a.,1.7999999523162842
+208,A is karate kicking a.,A monkey martial.,2.5
+209,A shappens a.,A carries a.,0.5
+210,A is brushing her.,A is chopping an.,0.4000000059604645
+211,A is removing from some.,A is slicing a.,1.2000000476837158
+212,A is stirring in a.,A is beating two in a with a.,2.75
+213,A is relaxing in a.,A is stabbing a with a.,0.4000000059604645
+214,A is adding on.,The is cutting.,0.6000000238418579
+215,A is writing.,A is chopping green.,0.800000011920929
+216,A eats his.,A is being fed.,3.0
+217,A is slicing a by a.,A is standing in the.,0.4000000059604645
+218,A is playing a and on a.,A is playing the electric.,3.200000047683716
+219,A is playing a.,A is singing and playing a.,1.25
+220,The is starting a.,A makes.,5.0
+221,A is riding a on the.,A is washing a.,0.20000000298023224
+222,A is chopping an.,A is finely chopping a green.,3.0
+223,A is collecting tap in a.,A is filling a with.,1.399999976158142
+224,A is whisking in a.,A is beating two in a using a.,3.799999952316284
+225,The could not figure out how to get a out the doggy.,A is trying to get through his.,2.75
+226,A is mixing in the.,A is doing push.,0.0
+227,The made some on the.,A is slicing a.,2.799999952316284
+228,is mixing a.,A is playing a.,0.0
+229,A is slicing big.,A is playing an.,0.0
+230,The with the big is eating.,A slow is eating.,2.5999999046325684
+231,A is crawling happily.,A is walking on.,0.10000000149011612
+232,A is playing with a.,A is chopping with a.,0.0
+233,A is slicing.,Two are slicing some.,2.0
+234,The was moving in the.,A is waving.,3.75
+235,The laughed in his.,A is laughing.,3.0999999046325684
+236,A knocks a into the twice.,A pushes a into a.,2.691999912261963
+237,The is taking a under the.,A is bathing in a.,4.428999900817871
+238,A plays the and.,A is singing and playing a.,5.0
+239,are holding each other and dancing together.,Two are playing table.,0.0
+240,The is trying to feed the with a.,A is working on his.,0.800000011920929
+241,A is playing with his.,A attacks a.,1.3329999446868896
+242,A is playing with a on a.,A is pouring into a.,0.0
+243,A retrieves an out of a of.,The tried to eat the on the.,0.6000000238418579
+244,A is slicing.,A is drawing a.,0.0
+245,A is adding some and to a.,A young is playing the.,0.0
+246,A is passionately playing a in of an.,A is peeling a.,0.0
+247,drew on's on the.,A draws on a.,3.4000000953674316
+248,The is slicing an.,A is chopping an into small.,2.200000047683716
+249,The is aiming a.,A is playing on a.,0.0
+250,A standing on tree.,A black and white is high up on tree.,3.5999999046325684
+251,The is looking at the.,A small standing on a at the edge.,0.0
+252,A in the.,A brown stands in a lush green.,1.399999976158142
+253,The black and white in of the.,A black and a brown stands in a in of an uprooted.,2.200000047683716
+254,A of four in a having.,Four eating around a.,3.799999952316284
+255,A of eat at a table.,A of elderly pose around a.,2.5999999046325684
+256,Older wearing beret with in.,A in the with in the.,0.4000000059604645
+257,The feed in the.,The and white are eating in the.,4.0
+258,A small red and gray perched amongst the of a.,A red and brown is perched on.,2.25
+259,A black and colored dining set in a small.,and brown in.,3.200000047683716
+260,A of in of a.,sitting on in of a.,0.0
+261,Two standing in a with in the.,A black and white on a of with in the.,0.4000000059604645
+262,double driving down a.,A red two driving along the.,3.799999952316284
+263,The is looking at the.,A looking at the.,0.800000011920929
+264,A red double on a crowded.,A double on a.,4.199999809265137
+265,A riding a in a.,A rides a at a.,3.5999999046325684
+266,The of a that is standing in a near a large.,The black and brown is standing on the green.,2.0
+267,A by a with a.,"a is standing by a where``u2""is written.",4.199999809265137
+268,One Asian and one in smiling with their up.,Two are posing for the and giving the up.,3.4000000953674316
+269,A black down the.,A mostly black on a.,3.0
+270,The brown is resting his on a white.,A tan is lying on a and has its on a white.,3.4000000953674316
+271,The black and brown is looking at the.,The black and white is looking at the.,3.5999999046325684
+272,A smiling holding a small.,Two smiling holding a.,3.0
+273,Two in the.,A in the.,2.4000000953674316
+274,A traveling down the.,An old idle on the.,2.0
+275,A looking at the.,"A, black, and white looking at the.",4.0
+276,displayed on a large.,A dressed for a.,0.0
+277,Two posing with a.,Two smiling holding a.,4.0
+278,A red and white flying on a sunny.,Red and white flying through the.,4.199999809265137
+279,A black and white of an old.,A black and white of a sitting on a.,0.800000011920929
+280,A in of some.,A is in of a.,2.200000047683716
+281,double on of.,A red double on a crowded.,3.799999952316284
+282,A drives down a busy.,A green down a.,3.200000047683716
+283,An elderly Asian pose with a at a.,An older Asian with a newborn at the.,4.400000095367432
+284,and white walking on green.,A red and white flying on a sunny.,0.0
+285,ride in an urban.,riding in a fenced.,1.399999976158142
+286,Large silver locomotive in a.,The is parked in a.,2.5999999046325684
+287,Two sitting on a large.,Two sitting on a long.,0.4000000059604645
+288,A scantily clad is standing next to a.,A yellow and orange on to the of a.,0.0
+289,Several are on the and stacked up on of one another.,"Three, on on the, the other two on a.",3.200000047683716
+290,are grazing in a grassy near a of.,are grazing in the in of a of.,4.599999904632568
+291,The small protects its.,The of the is adorned with.,0.0
+292,looking a.,milking a outside.,0.6000000238418579
+293,A black-and-white of a.,A black and white of an old.,1.2000000476837158
+294,the of a stop with many on it.,The of a with on.,3.799999952316284
+295,Living or with large screen.,Living with tan and flat.,3.200000047683716
+296,Two sitting in.,Two are sitting in a.,2.5999999046325684
+297,A red driving down the.,A red double driving down a.,5.0
+298,The black is sitting on the.,The of a under a with a in the.,0.0
+299,A on the.,A parked on a.,3.200000047683716
+300,A cat on purple.,A black and white on a purple.,4.0
+301,A of a on a.,A of a.,1.2000000476837158
+302,A with and dining.,A with wooden and.,4.400000095367432
+303,A is parked near a covered with a graffiti of a.,A is parked by a of a in the.,3.4000000953674316
+304,Two sit facing one another at a and one at the other.,Two sit facing each other at a as one at the other.,4.400000095367432
+305,Two white are swimming in the.,The are swimming in the.,0.800000011920929
+306,Large white floating on.,Large floating on the.,4.599999904632568
+307,Two perched on a.,Two are perched on a.,4.199999809265137
+308,A standing beside a.,A social of in a.,0.0
+309,The is sitting on the.,A red and brown is perched on.,3.200000047683716
+310,A of posing in fur.,A of in green and white with looking on.,0.0
+311,domestic lying on brown.,A grey laying on a.,1.399999976158142
+312,Four looking at.,looking a.,3.200000047683716
+313,A black and white with a.,A black and white lying on a.,1.7999999523162842
+314,Two on floating on the.,A wooden on the.,1.7999999523162842
+315,A doing a on a.,A by a with a.,0.0
+316,A equestrian riding a.,The is riding on the brown.,3.799999952316284
+317,going down the.,A black traveling on the.,3.799999952316284
+318,A white on the.,A white Swiss approaches the.,4.0
+319,The white are standing on the.,A in a black is standing by the.,0.0
+320,A of eat at a table.,A of sitting at a.,3.200000047683716
+321,sitting on.,A with a smiling sitting on the.,1.600000023841858
+322,Two are close together and black and white.,"Two are sitting inside a cow-schemed, fur-covered.",3.5999999046325684
+323,A of sitting on a small next to a.,A of standing near a small sitting on a.,1.0
+324,A jumping his.,A on a through the.,3.5999999046325684
+325,A black and white of a sitting atop a in of a of.,A of sitting on a with other and a in the.,2.0
+326,A black and white is sitting on a brown looking up.,and white sitting on looking up.,3.5999999046325684
+327,A black and white horned cow in a.,A large black and white in a.,4.0
+328,"A long-haired with a standing between two large, half-empty.",A with a and walking between two large.,3.5999999046325684
+329,An taxing along a.,A sitting on the.,3.200000047683716
+330,A red and four other sitting in the.,Five on the.,2.799999952316284
+331,An older Asian with a newborn at the.,A of elderly pose around a.,2.4000000953674316
+332,Domestic looking out.,A white looking out of a.,3.5999999046325684
+333,Two graze in a.,A brown in a green.,1.7999999523162842
+334,A is standing underneath an near a.,A walks a along the's.,0.20000000298023224
+335,A and down the.,A and a young walking along the.,3.4000000953674316
+336,A white flying up onto a.,A white laying on a.,1.2000000476837158
+337,"A at the dining with, , and.",Four and two sit at a long in a.,1.399999976158142
+338,A laptop and a.,A and a at a.,2.5999999046325684
+339,A white laying on an.,A white laying on a.,2.4000000953674316
+340,A small yellow sitting on a tropical.,A small on a near a white.,0.0
+341,Two are sheering a white sheep of a wooden.,Two shearing a white in a wooden.,4.0
+342,A with and two in the.,A talking with two sitting in of him.,3.0
+343,A of a brown.,A of a.,4.0
+344,An with multiple and green.,with bright green.,4.0
+345,A leading a white.,A in a on a white.,2.0
+346,A on a performing a.,performing a next to a.,4.0
+347,of a.,A of a black.,2.200000047683716
+348,and in a.,A and wooden in a.,2.200000047683716
+349,A white on a.,parked on.,3.4000000953674316
+350,A eating from a.,A yellow eating on a.,3.200000047683716
+351,sitting on a concrete.,standing on.,4.0
+352,colored dog standing in grassy.,A standing in a grassy.,3.200000047683716
+353,A young wearing a and a.,A young wearing a with a in the.,3.799999952316284
+354,Two brown standing in grassy.,standing in of grassy.,3.0
+355,lying on couch with small white.,A small laying on a with a.,4.0
+356,A is laying down on the and holding a up above her.,A is laying on the holding a up above him.,2.200000047683716
+357,A with a red.,with a red.,3.4000000953674316
+358,A with a white.,A leading a white.,3.799999952316284
+359,Depressed sitting on.,Older holding newborn.,0.0
+360,An elderly catches a on the of the.,The are on the located in of the.,0.0
+361,The and white are eating in the.,and white are eating from a.,4.800000190734863
+362,"A young with outstretched stands in of a``Going"".",is standing in of the open of the.,3.0
+363,and white in grassy.,A black and white of a standing next to a.,0.800000011920929
+364,A of having a outside.,A of eat at a table.,4.199999809265137
+365,Two sitting together on the looking out the.,Two sit on the of a couch looking out the.,4.199999809265137
+366,A sitting on a looking at a on a sitting on.,A holds a small while sitting on a.,0.0
+367,A blue parked on a.,A moped parked on the.,4.199999809265137
+368,Two gray run together over the green.,Two grey running in green.,4.599999904632568
+369,Two are running in a grassy,Two running through a grassy.,5.0
+370,The is sitting near the in.,The hops from one to the other in the.,0.0
+371,German through black while watch,A jumps through a.,3.200000047683716
+372,A of standing in the,A addressing a diverse of standing in the.,2.5999999046325684
+373,A runs on brown.,A wet runs through the yellow holding a.,2.200000047683716
+374,The and two young on a.,A and two jump on a.,4.599999904632568
+375,"A eating an, sitting in public.",A sits in a public eating an.,5.0
+376,two young hug each other in the.,two young holding each other on the,4.599999904632568
+377,Two white are walking through deep white.,Two white walk through a huge of.,4.599999904632568
+378,Four in are playing at the.,Four in are playing on the.,4.800000190734863
+379,playing in the.,Two playing by the.,0.6000000238418579
+380,A in a is riding a down the paved.,A is using a large to remove from a.,0.20000000298023224
+381,A black and white is running in a grassy surrounded by a white.,A black and white is jumping over a.,2.200000047683716
+382,The of is resting in of a.,Several rest with their in of a.,4.800000190734863
+383,Two in blue and teal and large are standing next to a large tree.,"A, a little, and a tiny are standing in of a.",1.2000000476837158
+384,A is sitting up asleep with her resting on her.,A who is resting his on his.,2.200000047683716
+385,A young jumping into a.,The is jumping into a.,4.599999904632568
+386,A black is chasing two on the of the.,A is running along the beside the.,2.5999999046325684
+387,A and a on a.,A and on a.,3.5999999046325684
+388,The brown is laying down on a blue.,A brown and two black in an overgrown grassy.,0.800000011920929
+389,Two fighting in the.,Two standing in the.,2.4000000953674316
+390,The and two young on a.,A and two are bouncing on a.,4.800000190734863
+391,A practicing,A boxing,5.0
+392,The with the beneath the.,The in the is walking near the.,0.4000000059604645
+393,A of stand in the looking out at the.,A of are standing on the in of some.,3.200000047683716
+394,A black is running after a white in the.,chasing brown through,1.7999999523162842
+395,A small white running across a.,A small white running,3.200000047683716
+396,The white and brown is running quickly through the.,The big white is running in the.,3.4000000953674316
+397,A black is running in the.,The black is running through the.,4.800000190734863
+398,A black and white in clear.,A small black and white is swimming in.,4.199999809265137
+399,and white running through.,A black and white is running through.,2.5999999046325684
+400,two running in the,A in the.,2.200000047683716
+401,A golden is running through the.,A of sled pulling a sled through a.,1.399999976158142
+402,A on a.,"A in the at a big, outdoor.",2.5999999046325684
+403,A in a.,A girl like a in,1.2000000476837158
+404,A and white is catching a while standing on its.,the and white is carrying a in his.,1.7999999523162842
+405,a wet black with a red is in the,A black with a red wading through the.,4.0
+406,Two are walking by the.,Two in and looking at the.,0.4000000059604645
+407,Two little in are dancing.,Two jogging on a near the.,0.0
+408,A in plays a in of a large.,A and a are posing for a in of a yellow.,0.4000000059604645
+409,Two walking along the at.,Two walking along the at towarn a of.,3.0
+410,A black is running through the.,The black and brown is running through the.,4.0
+411,A in a is laying on a that is covered with a.,A in a white and black on a.,1.399999976158142
+412,Three stand in an outdoor.,A stands high on an.,0.4000000059604645
+413,A of are at a waving American.,A of at an outdoor,2.4000000953674316
+414,A down the of some,A is jumping over an in of a white.,2.799999952316284
+415,A white is running through the at a,A white is running through the onto the.,4.599999904632568
+416,A and.,A and a in blow.,4.199999809265137
+417,a performs a off a.,A to do a over a.,3.200000047683716
+418,A and a are amused by.,A and a resting after.,1.2000000476837158
+419,Two walking in the.,two walking in the,1.7999999523162842
+420,in rough.,A is kayaking in rough.,2.5999999046325684
+421,Three are playing in the white.,Two are playing in the.,1.600000023841858
+422,A in red swim playing.,A and sitting on a.,0.0
+423,Two in laying in the making snow,Two lying in the making snow,3.799999952316284
+424,A little blonde is standing in of a.,A young standing in of a,4.0
+425,A riding on a.,A young riding in a.,4.800000190734863
+426,A black running through the.,A black runs through the.,2.4000000953674316
+427,A black walking beside a.,A black is walking along the of a.,5.0
+428,The is wearing a black and and.,A is lifting a little above his.,0.0
+429,A and a are riding on a.,A and are riding across a in the.,3.5999999046325684
+430,Two in the,Two play in the.,2.4000000953674316
+431,Three playing in the.,Three run in the.,4.199999809265137
+432,The in the is throwing the.,The black and white muzzled is leaping above the.,0.20000000298023224
+433,Several are sitting around a at.,A of sit around a at.,4.199999809265137
+434,Two fighting in the.,Two play in the.,3.200000047683716
+435,A of are in the.,A of ride in a,0.6000000238418579
+436,Two are sniffing in the.,Two running down a in the.,1.600000023841858
+437,A black in the.,play in the,0.0
+438,A dressed in black wearing a and in of a red.,A in a white in of a.,1.399999976158142
+439,A helps a a.,The helps the ride a.,4.800000190734863
+440,The two are playing in the.,The play in the.,4.0
+441,Two are playing on the together.,Two black are playing in a.,3.0
+442,Two and white and one racing down the near the.,in a stands next to the and looks out at the.,0.20000000298023224
+443,A is riding a on a dirt.,Two running along dirt.,1.600000023841858
+444,A seated young in a is reading at a.,a enjoying her at a,4.400000095367432
+445,A black and white is running through the.,The black and white is running on the.,4.800000190734863
+446,A stands with her out at her while another takes a.,A stands in a holding a white.,0.4000000059604645
+447,"Many are on the, near a with flying.",A busy has scattered on it watching the.,2.4000000953674316
+448,and white running through.,A and white through.,3.0
+449,"Three in bright, multi-colored.",Three in brightly colored.,2.0
+450,Two beige play in the.,two tan play in the,4.599999904632568
+451,A and a red in the.,A digs a in a.,1.0
+452,A through the.,a through the.,5.0
+453,of little and a standing on the.,a of white in a.,1.399999976158142
+454,A in a in of a in a white.,A in red with a followed by a in white.,0.0
+455,A and white with a in it's is humping over a's.,"a with a in its, jumps over a.",3.0
+456,A and laying down together.,Two grey are carrying a in the.,0.6000000238418579
+457,A is playing on the with their.,A naked little being thrown into the.,0.0
+458,a runs through the long.,A lays down in the long green.,2.5999999046325684
+459,A of are camping out on some.,A of are standing beside a fire.,1.2000000476837158
+460,There is a black jumping into a swimming.,A black is leaping into a swimming.,5.0
+461,Three playing in the while one wears a.,"Three playing in the, with a in the.",3.4000000953674316
+462,A of in racing towards the.,A of stand together and pose in of a.,0.800000011920929
+463,"A of stand on a rural, a behind them, a in.",A of standing next to a with it's trunk open.,0.800000011920929
+464,A Japanese jumps into the.,A is getting her to jump in the.,1.0
+465,A wearing US flag is standing on a.,A wearing a white on the.,0.0
+466,A of seven are rafting in the in a green.,A of are standing and sitting around on the at.,0.0
+467,A with long is looking through a.,A with looking straight ahead.,2.0
+468,The black and brown is playing in the.,The black and tan is chasing he has spotted.,2.4000000953674316
+469,A is jumping into the with a in his.,A little boy swimming with a in his.,2.200000047683716
+470,A wearing is swimming underwater.,A is scuba diving in very clear blue.,3.799999952316284
+471,This is jumping through the.,Two running through the on a.,2.200000047683716
+472,a young smiling with her upside down,A poses with her upside down.,4.599999904632568
+473,Two holding checkered near an.,Two in skimpy pose next to an old fashioned.,2.799999952316284
+474,A looks intently downward.,A during a.,2.0
+475,Two brown chase each other in the.,Two brown are playing with each other in the.,4.199999809265137
+476,are playing on a in the.,Several and jumping on a in the.,4.5
+477,A with a follows another through the.,A four is driving through the.,0.0
+478,A black and brown is chewing on a large.,A black and white in the.,1.7999999523162842
+479,Two black playing in the.,Two play in the.,4.199999809265137
+480,Two are jumping into a.,Two are in jumping into an inground.,4.199999809265137
+481,A of walk and hang onto.,A of play a.,1.399999976158142
+482,A black in black and red is sleeping on a with an open black.,A sitting up taking a on a with an open protecting him from the.,3.5999999046325684
+483,A with a grey rides his on the of the.,A spotted stands on his to catch a on the.,0.6000000238418579
+484,A jumping off a.,A golden is jumping off a wooden,5.0
+485,A is skating down a of.,The is skiing down a.,0.800000011920929
+486,A with a yellow is in the above the in a yellow.,A with a red still attached over the toward a.,0.0
+487,A is jumping in the over a near a.,A is sitting near a overlooking a.,0.0
+488,The are playing in the.,Two playing on the.,1.7999999523162842
+489,A young in red is jumping into a.,A is being squirted with a as it jumps into a paddling.,0.800000011920929
+490,Two are running on the in of the.,A brown is running on the in of some.,2.799999952316284
+491,a young climbing on a,Five are racing on a.,0.0
+492,A jumps off the.,A jumps off the.,0.800000011920929
+493,Two running together and one has a in its.,a black and white walking through the with a long in his.,1.7999999523162842
+494,The black and white is running on the.,A black and white in blue.,1.399999976158142
+495,A runs on the.,a runs across the.,1.7999999523162842
+496,A golden colored around in the while holding a in its.,A black is running through the carrying red in its.,2.4000000953674316
+497,A white is playing with a on the.,A black and white is playing with a tan.,1.600000023841858
+498,in black with red is walking down the.,in a black walking on the.,3.799999952316284
+499,Two approach each other in the.,Two face off of each other on the.,4.800000190734863
+500,Our current will be in when has their own.,The needs to some,0.20000000298023224
+501,A is instructing the male.,A is working as a.,1.0
+502,The has very little to no.,"This might be ready for, or just watching the, above.",0.4000000059604645
+503,The young barefoot outside in the front.,The teen his around the walking in the.,0.4000000059604645
+504,There are in the.,The are alone in the.,4.0
+505,Some stop near a.,Two stop to talk near a outside.,3.4000000953674316
+506,These in the white are busy in the for their.,The are preparing in their.,3.0
+507,A is carrying a with a.,A is carrying a in a.,1.7999999523162842
+508,a watches a live,An watches a.,2.200000047683716
+509,A dancing on a sandy.,A is on a sandy.,3.5999999046325684
+510,The is drinking and watching.,The is sitting drinking.,0.4000000059604645
+511,The young are cold,Asian are playing with a.,0.20000000298023224
+512,A sad is jumping over a small to meet his on the other.,A is jumping over a to meet his on the other.,3.799999952316284
+513,A is bungee.,A is bungee.,4.199999809265137
+514,A clown for and as the of the.,A blond-haired performing on the in of a while his younger.,1.2000000476837158
+515,Four happily walk down a.,Three young walk down a.,3.4000000953674316
+516,a of navy are singing,A of military are playing in a.,2.4000000953674316
+517,A playing the in the.,A playing the in the.,3.200000047683716
+518,The are leaving the.,The are entering the.,2.200000047683716
+519,The are chasing a.,The are chasing a black.,4.400000095367432
+520,the is playing with the red out in the,A yellow is playing in the.,2.5999999046325684
+521,a with in the inside her,The is standing as the other with on her.,0.20000000298023224
+522,A sitting in an takes a.,A is sitting in an.,3.200000047683716
+523,rock jumping into while fish in the.,Two watching the.,2.200000047683716
+524,A blonde looks for medical for in a.,The is searching for medical in a.,5.0
+525,A is at taking a.,The is taking a at.,5.0
+526,An old wearing a stands outside a.,a in an oversized at a,2.200000047683716
+527,The is drawn by a.,A riding on a by of.,0.4000000059604645
+528,A looks at a as she walks behind it.,A is going on a with her.,1.0
+529,sitting on a from a surrounded by.,A is sitting on one of two red and staring into a.,2.200000047683716
+530,A small head first down a blue toward another.,"A young with his standing up, is sliding down a blue",2.0
+531,The four are practicing for a upcoming.,The are in a,1.2000000476837158
+532,on,A sits on.,4.0
+533,There is a young.,There is a young with the.,1.0
+534,A paints a of a large which can be seen in the.,A paints a of a large which can be seen in the.,4.199999809265137
+535,Two are playing a of.,The are playing a with each other.,3.4000000953674316
+536,The is in a deserted.,The is outside in the.,4.0
+537,A little is drinking from a.,A is drinking from a.,4.800000190734863
+538,A has his ready for the to get iced out,A on a getting ready to pull in his to see what he caught.,0.4000000059604645
+539,The is doing dangerous.,A is doing.,4.400000095367432
+540,A is smearing on his white at a.,playing the her in a for a.,0.4000000059604645
+541,A of young in are hiding in the with one looking.,Two smiling little playing in a with other.,0.0
+542,A of playing on a in of a.,A of playing in a full of.,3.0
+543,A is enjoying watching three asian.,A is watching three asian.,4.599999904632568
+544,A walking down the of a.,A is standing on one on a.,0.4000000059604645
+545,A calling for a at the on a sunny.,A is outside on a.,1.399999976158142
+546,A young has a red.,A young stands over a with a.,3.0
+547,A bounces a.,A catching a.,1.600000023841858
+548,competing in a.,Two compete in a.,2.4000000953674316
+549,The is outdoor.,A in printed is doing a on the.,0.0
+550,A young in a is playing a.,A in a.,1.600000023841858
+551,A smiling Caucasian wearing a and black striped shirt it about to take a.,A in a white and black is smiling.,1.600000023841858
+552,A is scaling a.,A and a are above a.,0.20000000298023224
+553,Two are playing a of Scrabble.,The two are playing a.,2.200000047683716
+554,The is very skilled and a.,The is very skilled.,2.0
+555,Many are standing in of the starting of a.,Two in are standing by the of a.,0.4000000059604645
+556,A at a.,A is at a.,4.800000190734863
+557,four walk toward a,Two walk toward a dome-shaped.,2.0
+558,A little and are reading.,An older is playing with a while gazing out the.,0.20000000298023224
+559,The would like to swim.,The want to swim.,3.799999952316284
+560,are fighting after a.,The are playing a of.,2.200000047683716
+561,are sitting around dimly lit while smiling and laughing.,are sitting on.,2.0
+562,A is chasing.,A white is chasing.,4.0
+563,One to tackle a on the opposing.,A attempts a.,4.599999904632568
+564,Three are drying to pull a out of a along a.,Two are waiting for a on the of a.,1.399999976158142
+565,A doesn't have her up because she's paralyzed from the down,A is sitting on the because she tripped and hurt her.,0.800000011920929
+566,Five are standing in of a.,are out sitting in of a.,0.6000000238418579
+567,in a engaged in with another in a tan.,"A in a blue and another in a purple, both smiling.",1.2000000476837158
+568,playing a at the.,"A, playing in the coming.",1.600000023841858
+569,They are preparing for a at.,Two medical in green on at.,0.0
+570,Some smiling are standing in of an ocean.,walking in the.,0.6000000238418579
+571,Two try to untangle their large fishing on the of the on a.,Several pull a up on to the.,3.0
+572,The had brown.,The has gray.,2.4000000953674316
+573,and white of a in the.,a small black in the with some in the,0.6000000238418579
+574,A and her through a.,A and a both looking through a.,4.599999904632568
+575,A does a on the.,a is running on the,0.6000000238418579
+576,Three are walking a.,Three are walking a.,4.800000190734863
+577,There are out on the.,are out on the.,5.0
+578,Two are lost and calling for.,Two Asian are gathering for their and their had to come with them.,0.20000000298023224
+579,A is throwing a into a.,A little is throwing a in.,0.6000000238418579
+580,Two are playing inside their.,The two are walking with their.,0.800000011920929
+581,A of wearing on their run in a.,Several running down a wearing on the of their.,3.5999999046325684
+582,The should be eaten with lemon in to prevent in your.,three growling On one another,0.0
+583,A prescribes to a.,A prescribes a.,4.400000095367432
+584,A is in the.,The is in a.,4.599999904632568
+585,taking of a.,A of watching down the.,2.799999952316284
+586,The and are resting on a.,A and are asleep on the.,4.0
+587,The in the green goalie on the.,The in is playing a against the in white,1.0
+588,are near,are near.,5.0
+589,walk into a,a walks along walkway to the,0.4000000059604645
+590,The are moving.,Two are going towards the.,0.800000011920929
+591,There is a older near a.,A is near some.,0.4000000059604645
+592,A and a are climbing with on.,Two are riding on a with a blonde running long of them.,0.0
+593,In the is one of the premier public shopping.,A busy in an asian.,1.600000023841858
+594,A pregnant is in,a has a.,1.600000023841858
+595,The religious are enjoying the.,The of are enjoying the.,3.5999999046325684
+596,A in without or a swimming.,"A in, with and swimming.",3.0
+597,A is performing a.,A young on a is performing skateboard.,2.799999952316284
+598,There was stranded on the.,The was on the.,0.20000000298023224
+599,There are four going off a and that are in the.,Two are coming to a.,1.0
+600,"A makes the 5th of the ,",A in the of a.,1.399999976158142
+601,A is getting ready to take off.,The is getting ready to take off.,2.799999952316284
+602,A doing a surrounded by.,A riding a green over some.,3.0
+603,Three in have their up on the of a getting a.,A few on the are dropping another into the,1.600000023841858
+604,A wading across a,A wading across a,2.799999952316284
+605,A and for the.,A poses for the.,4.0
+606,A is on a,A is holding a in a.,0.800000011920929
+607,There are two near a.,Three are sitting near a.,2.0
+608,The two are wearing.,The two are wearing.,4.400000095367432
+609,The without a is jumping.,The is not wearing a.,4.599999904632568
+610,The is holding the of the.,The is checking the of the.,2.4000000953674316
+611,A walks his on the.,A with his on the.,4.400000095367432
+612,The is the's.,There is a and a.,0.800000011920929
+613,A is kicking the.,The gave the a high.,3.799999952316284
+614,Two in black are holding another by his and on a.,in white flipping young in the with four other surrounding them.,1.399999976158142
+615,The shoots the.,The is about to score for his.,2.799999952316284
+616,A going by during a,A in the of his.,3.0
+617,The is blue.,The is yellow.,1.600000023841858
+618,A walks along a with breaking.,A with an walks out of the and onto a.,1.0
+619,A of walk along the.,Two standing in the on a.,2.5999999046325684
+620,in a.,The is near a.,1.600000023841858
+621,The droned as is hopped along the.,The skinny with the long is traveling through the.,0.20000000298023224
+622,the is catching a,A is kicking a.,3.0
+623,Two are sitting in the.,Two are standing in a.,3.0
+624,The is waiting for her.,The is on her to a.,3.200000047683716
+625,You'll need to check the particular of each to see what is allowed and what is not allowed.,If you need to publish the and you have found one that allows it.,3.0
+626,I am not aware of any run.,"At the I've worked in, human-subject (.",0.6000000238418579
+627,"Apart from (which normally should not be related to), there is that's related to your.","is not a in the continental, too.",1.0
+628,"This to in the, and may not be applicable to other.",This is about my in I found that reading for was the more important.,0.6000000238418579
+629,"If you don't want to pay for, as @, can do this with embedded.","If you don't mind hosting your online, is a good.",0.800000011920929
+630,I don't think there are likely to be any that address this specifically.,"You're going to find all over the for this one (, there probably aren't ``"").",2.4000000953674316
+631,My would be depending on which are you referring to?,The I see with the is that the is highly compressed.,1.0
+632,"If you have to it, you can very easily do that with of.","You can have a at the website at: , which however searches in on the.",0.20000000298023224
+633,In general there are a of different distinct that lead to a.,"For ,'s has quite a few nice.",0.6000000238418579
+634,It is perfectly okay to ask for the knowing well that the other may not give.,"You can always ask, then it is the of the to accept or not.",3.5999999046325684
+635,The academic does start around in the and I think most European.,"I would not accelerate, to avoid getting worse that you want.",0.20000000298023224
+636,I will advise exactly the of what just said in another: go for A!,"You could defer, but it's a little unusual to defer for a.",0.20000000298023224
+637,", again: The seems to have changed, yet again.",I can think of three why a might reveal how a performed on a qualifying.,0.0
+638,"I agree with completely, ``""is a very broad.",I would say you are approaching it in the wrong.,0.0
+639,Supporting an in an ostentatious (rather than privately or discreetly) is a.,I think for an appropriate I'd need to know exactly what the' is.,1.2000000476837158
+640,"This does not fully answer your, but it is certainly one.","I am a in, which is an interdisciplinary major spanning, , and engineerning.",0.0
+641,A few possible : 1) Such an seems a little intrusive.,"In, we already have a of this - two them, in, with in and.",0.4000000059604645
+642,"As an to the other, let me address the of why tend tidal.",The other here are fantastic at explaining in a technical.,0.4000000059604645
+643,"are rotating, but that's not the for their.",rotate due to the angular of the they formed from.,3.0
+644,It indeed appears the () and The () are en to a.,"In a few billion, the and will collide.",4.400000095367432
+645,"The short is: we are made from the ``""contributed by many.",It is highly unlikely that we're made out of from only one.,3.200000047683716
+646,All we know is this: Distant are receding from us at a to their from us.,The of means that in cosmological are receding away from each other.,3.4000000953674316
+647,"Like said above, rotate to conserve their angular.","are rotating, but that's not the for their.",3.4000000953674316
+648,According to this website the visible will be about 10.5 around 2nd.,"The seems to indicate that it might have already peaked, at around 10.5 (visual).",3.5999999046325684
+649,All of these are related to the 11 solar.,I will be specific to answering the regarding the of solar.,0.800000011920929
+650,"We are moving ``...to the comoving cosmic...at some 371 towards the"".",There is no' that is not relative to some other.,0.800000011920929
+651,"Yes, it's true that the apparent of the is 30.","When you gaze at the``live"", you are not seeing a still.",1.0
+652,Let us assume the for a globular to be equivalent to that of.,Globular occupy an interesting in the of composite stellar.,1.600000023841858
+653,"Why is the of light 299,792,458, and not (for) 3,1 or 4,3 x 10^44?",of light being finite is one of the of our.,1.0
+654,"As per your, a formed in a binary (near some gravitating) is a generalised.","The main with your of a``generalised""would be the boundary between and.",3.200000047683716
+655,A used to calculate the between is 3 Dimensional.,You only need two-dimensional if you know the to the two and their angular.,2.0
+656,"The farther away, the faster the move away from us.",Here is my to a similar posted on the stack.,0.0
+657,"form in, which itself develop from molecular.",It may be possible for a solar like to exist outside of a.,0.6000000238418579
+658,"A black (), is more than a dead whose was more than 3 solar.","I think you mean to ask,``What is the local of? ``.",0.0
+659,"Yes, but it does not stay in the same.",are human to make of the.,1.399999976158142
+660,are what are called minor - small solar rocky.,The you are refering to are actually two different: and.,2.0
+661,Here is a lexical I wrote ago using and (github).,"Just for, I ended up writing simple web-based lexical myself.",2.5999999046325684
+662,It's pretty difficult to imagine a with being an.,"On the, it does seem like social and shouldn't both exist in the same.",4.199999809265137
+663,"It is hard to delineate completely from or, because can contain both.","Technically speaking, an is not different from thought the it is processed in, both involve.",2.799999952316284
+664,I've found an additional that may be related to the original :.,"According to current of human, the to your is both.",0.0
+665,"There are who possess extraordinary, sometimes called eidetic.",There are many for why this is not the.,0.0
+666,"is a specific or you could say a of, and.","There's the naïve of triggered, and the sophisticated.",2.0
+667,"As mentioned in the other, is problematic when mixing of.",I like to think of multitasking as rapid.,0.0
+668,: What is the for to implicitly trust their in (or not)?,One human-being on other (s) is defined by the of between the.,2.5999999046325684
+669,Intrinsic is the emotional that you get by completing an.,"According to's of, intrinsic are (.",2.5999999046325684
+670,Presumably the of to slow down in to work is influenced by many.,"This short with of``cheating slightly"": Ariely: Our buggy moral.",0.0
+671,"When studying, general are often used.","Basically, what you do is you compare each to the.",2.5999999046325684
+672,"Some ancient historical for preferring $10 $, but also for $6 $, so that's mixed from on perfect.","This is indeed possible, but I haven't seen it done experimentally for other than.",0.0
+673,"These are interesting, but the bottom is: yes, cognitive.","I'm not sure what you mean by cognitive, but I absolutely believe that shapes the we think.",1.600000023841858
+674,"Since this is a relatively new for behavioral, I don't know that there is a common.","I'll address just the first of your three, the have been answered by.",0.0
+675,"If non-human do have too, why is their not as advanced as?",Your own is bad because it seems to follow from a Lamarkian of evolutionary.,0.6000000238418579
+676,The is often used to assess in clinical.,From an entitled You Call a 9-Year-Old a?,1.7999999523162842
+677,"I wrap individually in freezer, then put them into.",well in (individually) and then put in a.,3.799999952316284
+678,"In to, make sure the is nice and hot before you start cooking.","I'd been using to the, and I just discovered that work a better.",1.600000023841858
+679,The best I have found is to soak the in for several before grilling.,whole in the in a of.,3.200000047683716
+680,There are actually quite a few between the different of.,The is the of contained in the which can range from 5 to 15.,2.5999999046325684
+681,I've never adjusted the of based on of.,I don't boil enough to keep a for the ...,3.0
+682,I just hold the cheese to the away from the.,"By the of the, I'm pretty you're using one of those pyramidal or a ``"".",1.399999976158142
+683,I've stored in the for over two and not had any freezer.,Its going to depend on the of and also the.,1.600000023841858
+684,"Break the into, breaking off the and the dry that goes up the.",lay down a on the and hit it.,1.600000023841858
+685,"I managed to find this, I think this is where I got the.","I've only made a of, but they've always come out really well.",1.0
+686,I believe one cannot taste the between minced (canned) and fresh once it is cooked.,"In my, fresh is great for when you want, or to slow down the flavour.",1.7999999523162842
+687,I grill salmon that I get with the on.,is a great and it's readily available pretty much everywhere.,1.7999999523162842
+688,"The I work from has you put the in the, then pan sear it.","Starting with a chilled of, I quickly pour boiling over all the outside.",1.399999976158142
+689,"They don't taste identical at all, and even more important, they don't smell the same.",and white are differing of the of the.,2.5999999046325684
+690,This depends on the of the of you purchased.,"will last longer if kept in the, but I actually recommend against keeping them there.",2.0
+691,Coagulated in with gluten give baked the supporting they need.,There are basically two of: and (or).,1.0
+692,A common one is and is in pretty much.,"are, as a, more delicately flavored than fleshed.",1.399999976158142
+693,Good has little of on/in it - could it be that?,"I have two: One, you're undercooking your, the and, and not fully incorporating the.",0.6000000238418579
+694,"can be useful for certain due to the its (quickly, distributes evenly, etc.","Probably subjective, but...will give you much better cooking per than.",1.399999976158142
+695,"She obviously has a legit, although she could have been more responsible and``have""told you in.",The first have both been more responsible and told you in that.,0.4000000059604645
+696,In some the could even be that does not love her.,There is no about whatsoever in such a.,1.7999999523162842
+697,I agree with (and yourself) in that I have never heard this in.,I have never heard or seen the you mention.,4.0
+698,"The is false, at least as you've restated it here.","\"" I had mainly been""is fine, in the you're using it.",0.6000000238418579
+699,I'd suggest you look to the of the native (s) of your.,"As said, you can learn a by looking at' native.",2.799999952316284
+700,"I see some to as uncountable as well, but that doesn't make much to me.","There are some ``""may be accounted of countable.",2.5999999046325684
+701,"If I understand you correctly, you are looking for a of and.",is the of including and is the of excluding.,2.5999999046325684
+702,"Firstly, you should be aware that there are two different of: the and the em.","is used to join that can stand alone, but are joined to emphasize their.",0.6000000238418579
+703,"Pardon the of this, but I would say``named""is preferred within the of your.","Named is preferred in your, since you are formally giving a to your.",4.400000095367432
+704,"In standard, I think``don't got""has the same as``ain't"".",I'd say the I don't got...is generally rare in spoken.,2.200000047683716
+705,"The``more""are usually (occasionally) in.","As pointed out, vulgar exist in every.",1.0
+706,"I'm American, and I've never heard the referred to as's.","In like these, I tend to lengthen out the.",0.0
+707,The used for is almost always referred to by.,"I'm English, and would probably use' most of the, and always in the of a private.",1.600000023841858
+708,I can only think of using insofar as or insofar that.,The is American; the standard in British and other is 'in so far'.,1.7999999523162842
+709,"As have said,``of six"", though not used in many English speaking, would be understood as 5:50.","\"" Ten of six""probably means 5:50 but I have not heard it before.",3.799999952316284
+710,"Certainly many have advised against of this``singular they""on various``logical"".","Second one (for writing), if I believe the``()"".",3.0
+711,"This may be overly obvious, but in American, saying``you're welcome""is certainly polite and standard.","I'm not sure how``Not at all""in to``thank you"".",1.399999976158142
+712,"Back in the, ``""was used to describe sent abroad.","The ``""has its in the of the.",3.0
+713,Those could have slightly different especially when talking about.,I suspect the originated in the of drawing the as a on.,0.4000000059604645
+714,"In the, are operated by and (or).","is a municipal, is on a state/federal/provincial/territory.",3.5999999046325684
+715,"Yes, your will be clearer if you write the actual instead of the.","Most recommend against using the in like and/or, as well as this is hard/impossible to do.",3.4000000953674316
+716,"If you understand yourself and your, you will be far more likely to win any.",Another behind this quote aside from of winning a theoretical is the of knowing/understanding.,2.799999952316284
+717,There are a of up you can do and they all stress different.,There are several different out there and most of them provide a unique.,4.199999809265137
+718,You definitely do want to be supporting your with your on the for normal.,"No, don't support your on your Your simply aren't really made for supporting all that.",4.199999809265137
+719,"Yes, you should stretch before running, but not the down and reach of.",Neuromuscular and Here is an excellent on a dynamic for running.,1.7999999523162842
+720,"I feel your - I absolutely pour with with any vigorous, even in cool.","is sweat, you can't really control it.",1.0
+721,Running is the to strengthen your.,"Additionally often will think a is easier, but in, is often harder than an uphill.",2.0
+722,I recently stumbled on a great that talks about for the of (included).,Low with high don't add because the of the is kept short.,1.0
+723,"through, and doing each until you feel a little.",", forward and side, ,, and and of.",1.600000023841858
+724,"If you're doing a full workout 6 a, you absolutely need the.",There are both physiological and neurological to build in.,2.5999999046325684
+725,I've noticed a remarkable when I run on the when I run on the.,A won't prepare you for the of running for real.,3.200000047683716
+726,for has whole of which you can use.,"As says, this is for a to diagnose properly.",0.4000000059604645
+727,"Since you're being of here, I can only give you a vague.","In general, warming up your only requires performing the with lower.",0.0
+728,"of all, as a general of you suppose to change your in every 3-4.","You can mix those, but in my, it will be very difficult at first.",0.0
+729,"Properly executed will increase, not decrease, your and.",I've seen that are still very flexable while lifting.,2.200000047683716
+730,I think it is still feasible to store until the next.,"I haven't tried storing myself, but I have tried to store (and they are closely related).",1.5
+731,It is not recommended to use on that you will eat directly.,Adding to allows the to dissolve.,0.6000000238418579
+732,"Yes, you can add coffee with their to your.",Absolutely ok; we have incorporated into our and many of those included the.,4.0
+733,There are no that specifically kill without killing.,I brought an that kla and you can use it below 90.,1.7999999523162842
+734,Pick them as soon as they are as ripe as you want them.,I live in and have already harvested my and.,0.6000000238418579
+735,is classified as a noxious in most and must be controlled.,"I've got the same, where there are of just beyond the of my.",1.600000023841858
+736,is good for as the may become heavy and can even break the.,"Some won't hurt, especially if it is a large fruited.",2.4000000953674316
+737,"To paraphrase a common,``One's is another's"".","First, let me say I've no doing with.",1.0
+738,Just about can be grown without natural.,We have quite a few here who have grown and small and in.,2.0
+739,are picking the once it's gone to isn't going to actually encourage new.,The longer you can leave the on the the better ().,1.600000023841858
+740,"So you know, I do not have personal with this.","Since you've already accepted a nicely sourced, I'll contribute some unsubstatiated (.",0.20000000298023224
+741,In the it has grown almost like a in our on our here in.,"to the other, basil famously doesn't like to be damp.",0.20000000298023224
+742,There is a very full of the various of rooting here.,It is meant to stimulate - in particular to stimulate the of.,2.0
+743,I found it difficult to mark just one as because all are.,"I reccomend ``""because it is like a slow growing that reproduces slowly and looks nice!",0.0
+744,"Simple is yes, flower on is a sure of.",It appears as though it has likely started to bolt.,3.200000047683716
+745,"can mean pretty much, from good to poor.",- It's an organic derived from for and which is Eco-friendly.,1.0
+746,"If you can get over the``ick ,""you have an easily-applied of organic close at.","The on the represents the, by, of, and, respectively.",2.0
+747,The of aerating your is to get to the that break down the organic.,"Your will compost without turning it, but it goes faster if you turn it.",2.4000000953674316
+748,"I bought a, which talks about this, so here's an to my own.","Well I wouldn't risk it, not in a cold.",0.0
+749,", like most, are very hardy and will withstand considerable.",Some of the at my have potted aloe.,1.600000023841858
+750,This looks a like an to a.,"I concur with; the is a``no"".",3.799999952316284
+751,Some had and thus going back to.,"Many and took their from the ruling, the of the.",1.2000000476837158
+752,The is the's strongest because of its military.,The is one of the five largest in the by.,2.0
+753,Nearly all grew quickly in the 1950s and 1960s for pretty much the same.,The during the 50's was not exceptionally high.,1.0
+754,"While may refer to both () or Queen, the has always been the.","There is a very good not to refer to the's as ``""- because they aren't the.",2.0
+755,To no at all is the in the middle caused by making the heterogeneous.,"They had a in 1941, after a few along the in.",0.6000000238418579
+756,"\"" What I am really looking for is an of the ...""@ and, an overall, general.",The is taken from my dog-eared of the of.,0.0
+757,In and there is of and an to not be materialistic.,"This relates to the ``""of, and other non-European by.",0.0
+758,I guess those are greek () for or.,That is indeed Greek like a to a or.,3.4000000953674316
+759,These are to the archaeological of (which includes the still in) and.,I guess those are greek () for or.,2.5999999046325684
+760,like you've rediscovered's of the.,There was no from to the of.,0.4000000059604645
+761,"Yes, I can tell you from personal that they certainly did whistle.",It is true that in would make a as they fell.,2.799999952316284
+762,"By the that had totally collapsed, was's.","The came after the, after the under collapsed.",2.0
+763,"There were indeed some serious surrounding's in 1960, one of the closest in.",As per your original: The does not claim that bought's.,1.600000023841858
+764,"\"" The is one of the most widely distributed and abundant of on.","As noted on the, was imported to the new to improve for.",1.399999976158142
+765,: //en.wikipedia.org/wiki/History_of_Delhi #that the was called (or) at least since the 12/13th.,"I am not exactly sure but I remember the (in) addressing as ``"".",1.2000000476837158
+766,", plural, in ancient, , ” or “, particularly of.","A greek-speaking (δούλος ,) I think would call his (:;, ,; vocative :).",2.200000047683716
+767,"The of then was not controlled by, but by the, centered at.","I believe lost after his, , died from a received in the against.",0.6000000238418579
+768,"Yes, this is true and yes, in most indefinite indeed developed from, as @ already said.","developed from, and the definite developed from.",2.5999999046325684
+769,Preserving and preserving of the are two different.,"In, you can remove pretty much and preserve if you don't care about preserving.",3.0
+770,In some Indo-European you can still see of base-20 numeral.,"Modern, and many other well-known , 10 (ie) of.",2.200000047683716
+771,The arises not from the various linguistic of the as many here suggest.,It depends on generally syntactic of two and -yes- some pragmatic.,1.7999999523162842
+772,"In, certainly the most common of is.","In traditional, the doing is a in all your.",0.6000000238418579
+773,A: I'm experiencing the tail of a three.,I agree with the that your is a little.,0.0
+774,The for this is that Russian is a much more tonal than.,"Although I am quite fluent in Russian, I wouldn't say English particularly 'cold' to me.",1.600000023841858
+775,"of before front happens all over the: Russian, , ,.",", one of the spoken in has a four.",0.800000011920929
+776,All the same of that are used with spoken apply successfully to signed.,One that's been going around at least since the 80s is that you can distinguish between and.,0.20000000298023224
+777,", a``deliberately impoverished""designed to prevent from communicating and thinking about subversive.",Every is permeated by the cultural in which it is immersed.,1.0
+778,"In, for, is not clear-cut in the.","As in, animate nouns by having a genitive-accusative vs. the nominative-accusative of inanimate.",2.799999952316284
+779,"As you can see from this on the, there are many.",This is an I always find is helpful for first.,0.6000000238418579
+780,", as I understand it, is not really about, but about and.","As with all natural ,'s is an.",2.799999952316284
+781,A of the unattended is whether the of has always been contentious.,"\""""is a theoretical which probably can't go away.",1.600000023841858
+782,"If you arecomming from the non-linguistics, the best is to start with, to.",This is what they recommend at as introductory to starting a' in.,1.399999976158142
+783,From what I'm seeing it's generally accepted that most English have a vocabulary of 15000 to 20000.,According to a statistical I know roughly 7000 in.,1.399999976158142
+784,"A may give you slightly more than sleeping out in the open, but not much.","No, a will not give you any from that want what's.",3.0
+785,A few to add here: are not know to be aggressive.,In general they are not considered dangerous because they rarely attack.,3.200000047683716
+786,"fast, is resistant to ripping and, and fairly breathable.",", among other, is an ideal for for most outdoor for several.",2.799999952316284
+787,() is based on orbiting and so is accurate.,"can, and do, work everywhere you can get.",3.4000000953674316
+788,"Different of have different, so you should probably narrow the.","black They are somewhat common in some wilderness of, mostly in the.",2.0
+789,So it's important to have a basic before you even get on.,is a where taking pays off very quickly.,2.799999952316284
+790,"In a, the will be wrapped over a cylindrical.",", there are several different here that we must be sure to address.",0.0
+791,I visit every and include some in the when I'm there.,"Apart from what has been said, your of also depends on what you eat.",0.20000000298023224
+792,A wonderful I know has the by ().,If you can settle on purple and have good in those.,0.800000011920929
+793,An in a medical to any large moving or in the.,Here is an interesting on to give of related.,0.0
+794,It would be unusual for a to attack a stationary.,"I'm no, but in my, are in the``you don't bug me, I won't bug you"".",4.199999809265137
+795,"As I wrote above, it's hard to this.","Unlike, I think the is pretty well described.",0.20000000298023224
+796,"Once you open it up to, the is clearly no, is not enough.",Boiling eliminates only a certain of that can make you ill.,3.200000047683716
+797,"Different of have different, so you should probably narrow the.",You can get a rough from using an online.,0.0
+798,"If you wear a on your, your fellow will kill you for being annoying.","The above is quite good, just wanted to add on to consider regarding in bear.",0.6000000238418579
+799,"Oh, I have been down this miserable just like you.","Yes, it is accepted to wash new Semi-Static (or as it is known by).",0.0
+800,My is to wait for the to ask for it.,My is to wait until the itself expresses a for this.,4.800000190734863
+801,You are safe to use the as long as they have been properly sterilised.,I would say it's completely safe so long as the have been adequately rinsed to remove any.,3.799999952316284
+802,He is taking the off because he is uncomfortable.,You can try putting the on which may only work for a little.,1.7999999523162842
+803,I would recommend asking in a that doesn't require a or no.,Would you be concerned with the changing if he wasn't shouting and/or?,0.4000000059604645
+804,"Yes, can develop their own, but it's not a given.","Here's what I saw with my fraternal: While learning to speak, all develop some of their own.",2.5999999046325684
+805,"Whatever you do, don't bite him back to show him that it hurts.","We always lightly bopped our on the, therefore showing him that his is what you.",1.600000023841858
+806,"A of that I've heard is``for small, big"".",Any of can be perfectly safe or extremely dangerous.,1.399999976158142
+807,I know of no firm indicating that is either helpful or detrimental in.,", when used correctly is beneficial to speech.",2.0
+808,A is to have a with the stated of working out the () for.,"Many, instead of being motivated by are motivated by being in.",1.7999999523162842
+809,The is to get the out that the sucks into the while feeding.,"I've found with my that it's more accurate to go by his than by ``"".",1.2000000476837158
+810,You should have a with the which can lead to direct with a.,It is always difficult when refuse to see what seems obvious to a.,0.800000011920929
+811,You will be hard pressed to find scientific that answer these with any.,The you mention are very broad and not closely related in the scientific.,2.200000047683716
+812,"Although is very healthy and also good during, some might contain, which can cause serious.","As was mentioned, the with is the potential for.",3.200000047683716
+813,"Both of our slept in a portable for at least their first, and there were no.",looks like the one we used for my (same and).,1.399999976158142
+814,I have never read that said were bad--where did you read that?,We used a clean or wrapped around an with our and.,1.399999976158142
+815,I'm facing a similar; being and in ().,An would be to expose her solely or additionally to in.,0.0
+816,My didn't become potty trained until about his 4th.,Here are some that worked with my who started around 2.5.,1.600000023841858
+817,"her how much is - that's what we did, and made a of it.",You can put her near her or give he toys to her.,0.800000011920929
+818,"Our has always loved her, but coming out...not so much.",My and I originally had the same with our newborn fussing when was over.,2.799999952316284
+819,Playing is all want to try at some.,I have been in a simular with my and a female when they were 5 and 4.,1.7999999523162842
+820,"Most do recommend as the first, as there is almost no of allergic.",Eating off a has to be an unusual for them.,0.6700000166893005
+821,"Most of the I can find about infant has to do primarily with waking, not eating.","In my, tend to wake up by themselves when they get hungry.",2.5999999046325684
+822,Here is my based on my personal pumping for for a full.,"I understand that the first 3 are the most important, so much so it is vital you do it then.",0.4000000059604645
+823,"It is possible, but it will have to be a docile and a bigish.",We tried putting a in a once.,2.4000000953674316
+824,love eating and of that fit into their.,"First, the are eating the because are, not.",2.799999952316284
+825,"Given that the of shedding is normal, I don't think there's you can do to lessen it.",To reduce the of a over your and you could try a.,2.0
+826,"My with has that they always have been``bossy"".","are extremely hardy, they are almost difficult to kill.",3.0
+827,I have seen not like using the for a of.,"I think has some good.... A can change its ``""in litter.",2.5999999046325684
+828,( and all in general) do not understand the of or.,They don't intend to leave those around the or untidy the.,1.7999999523162842
+829,"It does sound like your is upset about, and trying to communicate it to you.",Something is bothering your and he does not like it.,3.799999952316284
+830,I have noticed most don't lick a great.,may or may not lick a based on all of.,3.0
+831,How could be you so sure that the died a natural.,"In my 200 fresh, which is an aggressive, fish occasionally get harassed to.",1.399999976158142
+832,"First, double-check the's to make sure that it is truly aggressive.","First, you should realize that this is not you or your's.",1.600000023841858
+833,"The appropriate pH of the does vary a by fish, but too acidic can definitely kill them.",The you've been given in the previous is good.,0.0
+834,My is that means your only marginally likes the you're feeding him.,Some believe domestic never really mentally grow up completely and they always look at you like their.,0.6000000238418579
+835,Cover the to the with a old and use a to secure it.,I started to dig into this because you caught my with the ...,0.0
+836,Try switching to; weanling if you need smaller.,"As mentioned in previous, and can be offered instead of or in a with.",3.4000000953674316
+837,You should take this to a right away.,"As covered in the other, your only is to see a in to have done.",3.5999999046325684
+838,The main of the is in the.,"to, particularly furry, can be across the rather than specific.",2.200000047683716
+839,There are a few to help your a of.,has some reasonable and appropriate for increasing a in his.,3.0
+840,Stocking is very subjective to the specific as well as the and your.,You'll always want to add fish into a slowly.,1.7999999523162842
+841,The best is play with your each in the before.,A I did was to grab and hold my close if they disturbed me during the.,2.4000000953674316
+842,"I don't have direct with, but I've never heard that will work long-term in any male/female.",are highly territorial and no what sexes you keep together they will fight.,2.5999999046325684
+843,We always put it crushed up in a of or on a.,"We had a that required daily, and it was a to give the a.",1.399999976158142
+844,The biggest I can think of is that you're taking away a for the.,"don't usually like to have their held, touched, or like that.",1.600000023841858
+845,"are extremely hardy, they are almost difficult to kill.",Supposedly need to which mean you need at least 5-8 in your.,1.600000023841858
+846,Clean the urinated with (I used to do that when my was a).,have made some good about how to neutralize the in the.,1.399999976158142
+847,didn't put the at the of the universe per.,Why did the at the of an infinite?,2.799999952316284
+848,I don't think that is a of mostly leftist.,I am not convinced that is routinely asociated to a leftist.,3.799999952316284
+849,Well for one a being could have a non-physical and yet not even be in your.,"The is huge, as not all non-physical exist in.",3.4000000953674316
+850,who are good at the of are and not.,My is that I like to look at from their and go up.,0.0
+851,"The between``necessary""and``sufficient""is the of the logical.","is an upper, necessary is a lower.",2.0
+852,"I have no why it is voted up, but's begs the.","It's a, but the between and the English-language is wrong.",0.0
+853,"It's true that, under one of ``""and``determining"", your is determined by your.",is determined by the of the you're working within.,3.799999952316284
+854,I once met a who held the strong.,"Although I believe is mistaken, I don't think you have found the.",0.20000000298023224
+855,If a is not provable an or may or will develop that invalidates the.,Should arrival at this be the for of any?,0.6000000238418579
+856,The is (from); do you exist because of?,The least that can be said is that we must be born with the and' to learn.,1.7999999523162842
+857,"I think that for an understanding's ``"", you must take in the original (historical).",is alluding to how himself solved the - the of ramified.,1.7999999523162842
+858,"for a that you ever learned about so-called``complex""or``imaginary"".","As have already mentioned, are of.",1.2000000476837158
+859,"The of is an incredibly difficult one, which has been treated of from to.",", as much as it is a supposedly self correcting, is not necessarily a definitive of.",0.0
+860,Not all negative can be validly reformulated into positive.,I don't think the of is on positive or negative.,1.0
+861,"As I understand it, that can be changed, or broken down into smaller is inherently real.",Our are merely depends on where we put our.,0.4000000059604645
+862,I can imagine a where a single all powerful god create the that we know of.,It is the same as what called the unmoved.,0.800000011920929
+863,"When I needed a, I also opted for a.",An alternative that may serve your is the.,3.0
+864,has an extensive for the low of $9.99 and it appears to cover them all.,is $9.99 and works just fine on 64-bit 7 (I'm using it myself).,3.799999952316284
+865,There are many compact with underwater available from and.,"There are waterproof that go to 10, such as some of the.",3.200000047683716
+866,"Apart from and focal, of also decreases with camera-subject.","The wider your, the smaller your focal will be.",2.5999999046325684
+867,When printed on a lens the f-stop is usually expressed as a with a (.,It refers to the maximum (which is defined as the of focal to effective).,3.0
+868,"You need to be embedding a in you, as also using a that supports.","In my, when the final will be in, that from to finish.",2.5999999046325684
+869,"I have a few, and a 10-20mm for super-wide.","If your is primarily the, you need to look at individual, not brands as a.",1.7999999523162842
+870,I have found there is no single best to increase.,There are a very wide of for resizing and sharpening for on the.,2.5999999046325684
+871,I've used and on.,"In I use Bibble, which is has some but which is the only serious.",0.800000011920929
+872,A 6 in should be more than enough for (1080) for the 550D (48).,"Some are too slow to accept an, so you need one that is fast enough.",1.600000023841858
+873,"Here are many: of the 16k there, I'm sure some are with a.","It's a 1:1, so that means that the of the will be the same on the.",0.6000000238418579
+874,"here, I've the 50mm, and as my fastest I couldn't live without it for and low-light.","I have the 18-55 , 50/1.8 and 50/1.4 as well as the 20D - superseded by a 50D.",2.5999999046325684
+875,"I use Elinchrom, but if is not an then go for.","Or just go with the ultra-cheap, which give you a of for the.",1.2000000476837158
+876,"The short is that yes, you can do this.","Speaking from my own, I would rather carry different that combine two.",0.0
+877,"The is usually called ``"".",nondestructive are reversible and would entail transforming and/or appending the in a that could be reversed.,2.4000000953674316
+878,"For what it's worth, on the might not be as detrimental as you would think.","Regular washing is great for removing, as it not only dissolves it but also binds it.",0.4000000059604645
+879,"Large-format are very much used; they're often extremely well-cared-for, if not coddled.","If I had to pick, would be my.",0.6000000238418579
+880,", there certainly is a in, mainly in.","If you want to learn, almost any will do to start with.",1.0
+881,"Freezing generally requires one, maybe two: fast, and at the right.","In to's, you can use (either the or better yet, an extarnal) to freeze the.",2.5999999046325684
+882,Federal does not test the full and so much as the 9th and 10th to the.,as a congressional could not violate the and of the.,4.0
+883,Public can unionize because the allows them to.,The legal why public can unionize have been elsewhere described.,3.5999999046325684
+884,The appears to have a smaller shadow for a few in no particular.,There are three main that drive the low in the.,2.5999999046325684
+885,"Leaving aside, you are working from a flawed that waging doesn't save.",They would probably reject your implied that's will save.,1.600000023841858
+886,The is not really all that important for German.,The of the german is almost just representative.,4.0
+887,"In a ``"", it is difficult to sustain more than two.","While the 'first-past-the-post favours two, it certainly doesn't guarantee the of third.",3.0
+888,The of that is most like is called.,first: I don't think that always agree on their and.,0.6000000238418579
+889,"Let me my as Ukrainian, from, eastern.",I am sure this is more phylosophical and ethical than it seems.,0.0
+890,"Most want not only to be off, but to become off as goes by.","To start, the main of economic are, , and.",0.4000000059604645
+891,I'm not yet able to answer if the has an official.,"There are 2 with the you presented in the, which explain the.",0.4000000059604645
+892,"No, in the and grants the transitional.","There is always``transitional""by of the of.",2.0
+893,Russian is actually quite specific on this one and not as arbitrary as.,"The last of presidential in was held on 4th , 2012 and 4th , 2011 for the.",0.6000000238418579
+894,This has already been widely discussed and answered on.,"Minimum hurt the least skilled, least productive the most.",0.0
+895,According to specially and a called does not exist.,"As with the of, the of depending on whom you ask.",3.200000047683716
+896,Because there are more effective for Her to change or veto.,They do not veto because will ever adopt a which is contrary to the expressed's will.,2.799999952316284
+897,"always defined by the, or the.","In like, when you have 2/3 of the of all, you have absolute.",2.5999999046325684
+898,has done extensive on who is hurt by higher.,"Minimum hurt the least skilled, least productive the most.",2.799999952316284
+899,The are modelled on the in in in 1922 when became independent.,"This is still a representational of, but with a unique.",0.20000000298023224
+900,"Before you want to start the of a, out what you want to achieve.","As suggests, try to figure out what you want to achieve.",3.200000047683716
+901,are of which I use almost everyday.,"To train yourself to use, unplug your for a few.",0.6000000238418579
+902,"As have mentioned, the is an excellent of a which does meaningful.",I've been happy with the for.,3.5999999046325684
+903,The important I try to remember is just to pay.,I have been reading on this since I have asked this.,0.0
+904,I think you need to apply a little statistical to this.,One general to not feeling dejected is to avoid comparing yourself to.,0.0
+905,"A quick (1 , 2) showed me that the of seems to peak about after.",The is that it never becomes useful in its true.,0.0
+906,Here's a I've developed without being aware of it: Multiple.,I agree with that tracking your is fundamental to the.,0.0
+907,I have a at and really like it.,"As mentioned by other, it turns out that using a isn't necessarily a perfect.",2.200000047683716
+908,Even though the has been answered I would like to add my.,"I don't know if I should say this, but if your is making you anxious.",0.0
+909,Your is already beginning to wind down as you see the in.,I'm writing here a few that can help you with.,0.4000000059604645
+910,To stick with the traditional this is considered an.,There is actually functionality in most already in to do just this.,0.0
+911,I think 90 is the most you can plan out in a single.,Definitely a ahead - it's totally OK for your to change - just amend them as they do.,2.5999999046325684
+912,"The needs to evaluate for his/herself the of an``obvious"", such as.",Instead of trying to force specific or's on them.,0.800000011920929
+913,I like the previous regarding setting a and fulfilling the of going to a.,Buy a 3 and use it to separate the from the sleeping.,0.4000000059604645
+914,I'd start by reading's: Getting.,I'm considering spending the $48 per on the (Getting done) advertised by.,3.0
+915,The best to clear your after a is by taking on a vigorous physical (.,What works for me is to switch the and take frequent.,2.200000047683716
+916,I disagree with on some of his.,does indicate that sleeping after studying is a pretty good.,0.6000000238418579
+917,"Currently I've got a fairly close to purely digital, although this could do with some and.",My is effectively 100 electronic--as described in here.,3.4000000953674316
+918,Feel the...And do it anyway The recommends to feel the.,13 To and the seems interesting.,2.200000047683716
+919,I've recently bought two from and I'm quite happy with them.,: There is also the hand-made/DIY for which you could obtain for.,1.7999999523162842
+920,I would say the best for me is to have a proper and consistent.,"There's also for, which makes you solve simple before the will turn off.",0.800000011920929
+921,"Some suggest lower working with 2-10 due to, and.",There's an called which might be helpful.,0.0
+922,: you must have noticed in you project/office that other who are more experience understand quickly.,I think a learning is the founding of a self-taught.,1.600000023841858
+923,There is a relatively narrow of who are eligible to be wandering in the restricted.,The severely punishes who head out to the restricted (.,2.799999952316284
+924,I disagree that the “ most extensive should be applied to s.,"The most extensive Vulcan was made by in the 60's, especially by linguist.",1.6699999570846558
+925,I'd be more inclined to believe that it's some of ring.,"It is not hollow, it is round just as our.",1.7999999523162842
+926,"On the one, there ’ in to suggest that the could go in.",were explicitly mentioned for in going back in.,2.799999952316284
+927,I was invited in to pitch to Ron at :.,It's obviously possible for it to leave the without harm - it occurred.,0.0
+928,"of all, let me say that there seems to be 3 main to casting a.",I always thought that seemed to learn from the better than he did from other.,0.6000000238418579
+929,I started watching the by watching first!,"Without delving into an in-depth of and, I'll try and be as succinct as possible.",1.7999999523162842
+930,I voted for the sphere as being the biggest.,"'s describes a, but made of , 1000 (?",0.4000000059604645
+931,It was before the began because saw the before the took her.,"The exact hasn't been listed yet, but there are a few we can make.",0.20000000298023224
+932,We have two parallel in or maybe more.,Our intrepid also didn't pursue the who was in the.,0.0
+933,"was an and a, not a.",Most of's aren't hard in the least.,1.399999976158142
+934,"First, we must consider that ``""is less Hard and more soft, , and such.","\""""on real are usually for one of two: solar or thermal.",0.0
+935,"According to, was an in, especially shooting (this is from).","In, most is used to suppress the, not kill them.",0.6000000238418579
+936,I don't think we have a solid of mammal.,The short is that couldn't create in.,0.800000011920929
+937,"Here is the 2006, in your is the 2006.",'s of is a good to check about this.,0.20000000298023224
+938,"maybe, since there is no to convey, or.",It is safe to say that plays a big in all.,2.200000047683716
+939,", from the's of, the of the is what's moving and experiencing.","Well, it really depends on how long he was there, and the exact of the.",1.7999999523162842
+940,This has been around since the of and.,The behind might shed some on this.,0.20000000298023224
+941,Is it possible for a to get tie even after applying?,"Yes, it's possible for a to get tie after applying the.",4.0
+942,Yes a can use the same for both and in a over.,There's no that decides which can be picked for bowling/batting in the.,4.199999809265137
+943,It is simply the of bowled divided by the of taken.,Bowling is defined for a as the average of bowled per taken.,4.400000095367432
+944,"Yes, absolutely - the receiving must allow the to bounce before returning the - or any, actually.","Yes, the needs to wait until the touches his playing, otherwise it counts as being obstructed.",3.0
+945,"We only used as a, and as a of.",is not more effective than any proper training - just more fun!,2.5999999046325684
+946,If the of hit by two are also equal then both will get 1 each.,This is the if the scored by two in is equal ...,0.6000000238418579
+947,first appeared in the modern in at the 1900.,"In 1900, the second modern , 22 competed in 5: ,, , equestrian, and.",3.200000047683716
+948,"It is hard to speak for a, know what their is going into a.",Drafting has changed dramatically with the new collective.,2.5999999046325684
+949,"To play, the first you need is a of.","Having fairly recently taken up the myself, I feel your.",1.2000000476837158
+950,"Yes, (in the) can change the of a.",Another of the is that it makes hitting difficult.,3.0
+951,"Reading your, made me think of my younger!!",I'd say you need to distract yourself from the bigger.,0.0
+952,There is NO good for the to implement in professional.,There is another with applying instant beyond just interrupting the of the.,2.5999999046325684
+953,"Basically, the is that you must play the, and not the, until catches the.","It is fairly simple to understand, somewhat harder to referee.",1.2000000476837158
+954,"At the highest, a helps ensure they meet their for the exactly.",From personal I found that a to be incredibly helpful.,2.799999952316284
+955,I can think of three key that are quite logical.,There have been quite a few in discussing.,0.20000000298023224
+956,The of the in the is called swing.,Both of these of are performed by who are medium or fast.,1.7999999523162842
+957,"Actually, it's much more easier to count the one on the same.","That is also the recommended for, if you are going for.",0.0
+958,Red under yellow takes on a brownish which is very similar to the of the.,I am too a hobby but as of my.,0.0
+959,"No, there is no specific for giving the of the.","As per the, is decide by the.",3.0
+960,"I can't think of the, but I seem to remember this from many ago.","The of say that you can declare any, no what the agreed is.",0.0
+961,"As per's``Equipment"", 22, only the is permitted to wear a.","Although is allowed to be worn, it is not advised for other than the.",2.4000000953674316
+962,"to hear you've started playing, its a great!",A general of is every 5-6 of skating.,0.4000000059604645
+963,I prefer to run the second 1-2 faster then the first.,I would definitely go for a slightly slower first.,2.5999999046325684
+964,It was that she faced in the first - not because she's seeded/ranked #127.,"This was too long for a, so I am posting it as a.",0.0
+965,For the most you can apply at any.,Generally you're supposed to apply at the at your of.,3.5999999046325684
+966,"There is one, , which is trying to copy with super cheap and aggressively bad.",There are a few which operate at lower.,1.7999999523162842
+967,"I'd suggest you find a in your local, and consider opening a denominated with them.",I am not sure if you can open a in if you are not a.,1.600000023841858
+968,"As I remember, in at least, there are open on a weekly.",This all the big in.,2.0
+969,My is that a normal is always cheaper.,When using a regular make sure it's with a reputable or you agree upon the.,2.0
+970,I had a similar but in what seemed to be a simpler.,I'm actually about to do the same when transferring at.,0.0
+971,A technical is for the of the.,"Usually it's a, and you just sit on the.",2.5999999046325684
+972,", at least does, as described here :.",are a of most in.,0.4000000059604645
+973,"There's a geek to this, and a practical to this.",It's pretty ridiculous that I've seen ask for these to be turned off at.,0.0
+974,"I visited in, starting from and touring for three.",: High : 70F : 40F This is just before the () and are general less.,0.20000000298023224
+975,"Generally, almost I go, I find it's easiest to get out of the.","There are of and all around the, especially in.",1.7999999523162842
+976,The most obvious is the oldest long in: The.,at this: : You could do it in.,1.600000023841858
+977,The will depend significantly on what you're traveling to.,"As who has always travelled with a of, I always declare it.",1.0
+978,"There are via, which means a large (there just isn't a coastal).",As have said if you want to get to Split the best public is by.,0.6000000238418579
+979,Would going on a as a?,"offer a 29 of, starting and finishing in.",1.0
+980,English everywhere with buying and selling and in the and.,I traveled around (including) and and I had no getting by with just.,2.799999952316284
+981,I think the dual have a to do with the of the.,I think it's going to depend on what the are.,2.5999999046325684
+982,"There is wrong with the``simple"".","The minimal needed to avoid disconcerting is to just call it a``simple"".",3.4000000953674316
+983,I've started my own since I didn't like yWriter and.,"I've tried many of the mentioned above, but they never really worked for me.",1.600000023841858
+984,"Yes, this is OK, as it allows you to emphasise certain, that you want the to.",I believe this is perfectly acceptable and does a good of emphasising your.,4.0
+985,"For, I have little to show of being published as.","To answer your, yes, I think blogging your will hurt your to be traditionally published later.",1.7999999523162842
+986,'s The's has some lengthy in it which he does quite well.,One that should be used as a in is the of the false.,0.20000000298023224
+987,You have to define the before attempting a.,"Whenever I start reading the same over and over again, I start skimming.",0.0
+988,Your is a valid one; the could be frustrated by this.,I don't believe not knowing a's would be confusing unless you make it so.,1.399999976158142
+989,"No, you don't need to have taken or earned a in your.",I have done quite a of technical for healthcare.,0.0
+990,"One you seem to be forgetting regarding, is they are extremely prevalent.","I noticed you said ``""enjoy mythological in a, but do?",1.2000000476837158
+991,"We just addressed this recently, and the excellent suggested was.",", as suggested by, is a good.",3.5999999046325684
+992,"The I absolutely hate are selfish and self-serving, but they are also.","A you want to take down is, at his/her, who does not care about the of.",3.0
+993,"You can write the in any you choose, as long as it works for you.",a only in (sometimes you have to go back and) the not has is.,1.2000000476837158
+994,"Yes, dull should be removed completely (or transformed to interesting).",I agree with's: You need and in any.,1.7999999523162842
+995,The to your is: It depends on how the works.,"At first, I thought this is a of a tricky.",0.800000011920929
+996,'s :'s Updated This is the rhyming dictionary I turn to first.,": You just type in a, then select one of the.",1.2000000476837158
+997,Keep in that you can easily swear without swearing.,I think's are helpful in this.,0.0
+998,"In these of, it's sloppy to not find the of a.","I agree with, you should be able to attribute most these by simple.",3.200000047683716
+999,I have been doing a of my outlining/pre-writing in.,I allowed to beat the for again?,0.20000000298023224
+1000,"The technology-laced inched down 1, or 0.11, to 1,650.","The broad &'s 500 inched up 3, or 0.32, to 970.",0.800000011920929
+1001,"\"" It's a huge black ,""said, whose has controlled the since 1896.","\"" It's a huge black ,"", the's, said of the.",3.5999999046325684
+1002,He later learned that the was caused by the's sonic.,He later found out the alarming had been caused by's powerful sonic.,5.0
+1003,said was``the we were all pulling for.,"He has a very good ,""said of.",1.399999976158142
+1004,"A key was whether, which infuriated by leading the against for the, would vote ``""or abstain.",", which infuriated by leading the against for the, also sought.",2.5999999046325684
+1005,"'s passion-stirring``The of""will open in the on 25 - on the.","is negotiating with to distribute his embattled``The of""in the.",2.0
+1006,say that finding a seasoned chief merchandising will perhaps be the trickiest of all because there is such a of good.,say that finding a seasoned chief merchandising perhaps will be the trickiest of all.,3.75
+1007,"The decades-long has killed more than 10,000 in the resource-rich, most of them.","More than 10,000, most of them, have been killed in three of.",4.0
+1008,", a 14-year-old from, , got a that sounded like ``""during's.","The 14-year-old national who attends in, , got a that sounded like ``""during.",3.75
+1009,The comes as between the and the up.,between the and the are entering high.,3.200000047683716
+1010,"Also at increased are those whose immune suppressed by or by such as, and.",Also at increased are those with suppressed immune due to illness or.,4.0
+1011,of closed at $44.01.,"In on the, were down 34 at $43.67.",2.4000000953674316
+1012,"\"" I feel that that are sending these are infringing on my and else's to use their ,""said.","The who are sending these are infringing on my and else's to use your ,""said.",4.400000095367432
+1013,"\"" Generally unwanted - and often pornographic or with fraudulent - is a and a ,""Gates, warming us up for the.","Generally unwanted—and often pornographic or with fraudulent is a and a ,""Gates.",4.199999809265137
+1014,The said it came to the after hearing the of and.,"The came after``listening to our and ,"", a for, said.",3.200000047683716
+1015,"hailed the as``a new as far as the, and are concerned"".","\"" It's a new as far as the, and are concerned, making the criminal better . ''",3.0
+1016,"The technology-laced jumped 26, or 1.78, to 1,516.","The broad &'s 500 was up 8.79, or 0.96, at 929.06.",0.800000011920929
+1017,'s online reported on that and the could announce a as early as.,"has learned that the could come as early as , 19.",3.200000047683716
+1018,"\"" I started crying and yelling at him, 'What do you mean, what are you saying, why did you lie to me?' ''","Gulping for, I started crying and yelling at him, 'What do you mean?",3.799999952316284
+1019,It was the third in four that wildfires forced the to close.,"For the third in four wildfires closed, the ’ s only dedicated to ancient.",3.0
+1020,", the's largest, has 115,000 active and another 340,000 and.","They cover more than 300,000 UAW and 500,000 and.",2.4000000953674316
+1021,The claims it's the largest single to.,The claimed it is the largest of by an.,5.0
+1022,North American finished mixed in directionless as begins to slow and economic move into the.,"North American grabbed early, as begins to slow and economic take the.",3.799999952316284
+1023,"The &'s 500 ended the up 120, a of 14, the best for that broad since 1998.","The and's 500-stock, a broad of representing leading, finished its best since the last three of 1998.",3.200000047683716
+1024,"\"" I know of no ,""said, the under of for.","\"" I know of who pressured ,"", undersecretary of for, said at a.",3.799999952316284
+1025,"\"" She was crying and scared ,' said, the of the.","\"" She was crying and she was really scared ,""said.",3.799999952316284
+1026,"\"" is innocent ,""said in a.",Quattrone said his is innocent.,3.75
+1027,"The was at 116.92 against the, flat on the, and at 1.2891 against the Swiss, also flat.","The was at 116.78, virtually flat on the, and at 1.2871 against the Swiss, down 0.1.",3.200000047683716
+1028,account for more than 40 of foreign coming to.,represent more than a of all foreign to and 40 of.,3.4000000953674316
+1029,"Also in, rebel on assassinated a tribal who backed the.","Near a in the northern of, also assassinated a tribal who backed the.",4.599999904632568
+1030,"had sought to store his in his's presidential, where they would have stayed secret for a.","In, public opposed's to his at his's presidential, where they would have remained secret for a.",3.3329999446868896
+1031,"This integrates with and allows to work in supported of, #and.","said the Rational were also integrated with, which allows to work in, #and.",3.5
+1032,"'s civil may be, on the, about a's.",said not having a has been a.,1.75
+1033,had been calling for an to the's hard-line and for supreme's.,"The denounced the's supreme, hard-liner.",3.0
+1034,"Another million, bought by Spanish, was to be loaded onto a Spanish, the.","A Spanish, , was to be loaded with another million, bought by Spanish, in the.",4.400000095367432
+1035,"is already the' 12th-largest, with two-way totaling more than $34 billion.","Although a small, is the 12th-largest of the, with of $33.4 billion last.",3.799999952316284
+1036,"After 9/11, said, spent of investigating.",said in and abroad spent of investigating.,3.0
+1037,"'s, , has repeatedly said his had no with the that owned and operated.","The for, , has said his had no to the that owned and operated.",4.5
+1038,& were up 39 or 2.6 at $15.59 on the on.,&'s gained 24 to $15.44 during's on the.,2.200000047683716
+1039,"\"" This is clearly incorrect ,""said in a written.","The is``clearly incorrect ,""said.",4.0
+1040,", an, said the was being targeted because it was treating.",said the was targeted because it was handling.,4.599999904632568
+1041,He claims it may seem unrealistic only because little has been devoted to the.,"\"" This is modest compared with the, and may seem unrealistic only because little has been devoted to it.",3.5
+1042,YES filed in the of in.,The was filed in the of.,3.0
+1043,"He will be paid $395,000 per, up from's current of $361,400.","will be paid $395,000 a ;'s is $361,400.",4.0
+1044,"His, , told The that he died in his, apparently of.","died in his of, said his ,.",4.333000183105469
+1045,"in accounted for 82 of the of in 2002, the says.","in accounted for 82 of the in 2002, said.",3.25
+1046,"The also made against the, reached fresh three-year at $1.6789.","The British flexed its against the, last up 1 at $1.6672.",3.25
+1047,The of says it plans to sue the next.,"That is, if the of has to say about it.",1.75
+1048,"The broader &'s 500 eased 7.57, or 0.76, at 990.94.","The technology-laced was down 25.36, or 1.53, at 1,628.26.",0.800000011920929
+1049,"Earlier, formally rejected the unsolicited from.",",'s rejected the.",4.400000095367432
+1050,Both are being published in the of.,The appears in the of.,3.0
+1051,The didn't say how many in were in rural.,"has reported 191 and eight, though the did not say how many were in rural.",3.0
+1052,"\"" I do not wish to be present during this ,""he told.","\"" Yes, I do not wish to be present during this ,"", 31, calmly told the as he was returned to his.",3.25
+1053,They are being held on as the is investigated.,Both are being held for of administrative.,4.400000095367432
+1054,The shows that sold in Canadian are manufactured in approved by - the's in.,"The shows that sold in Canadian are manufactured in approved by, which serves a similar as the for the Canadian.",5.0
+1055,Who will succeed at is not clear.,There is no clear for at.,5.0
+1056,"Under the, the other of, the of, does not vote on foreign.","The of, the other of, does not vote on.",3.200000047683716
+1057,The and has also initiated an informal of.,That federal is separate from an informal by the and.,2.200000047683716
+1058,", who was tied atop the with five left, finished with a 68 and tied for.",", tied atop the with five left, finished with a 68 to tie for sixth with (67) at 269.",3.25
+1059,"has been under since, when former said the used aggressive to trigger higher for the sickest.","In, , the chief at the, said the used aggressive to get higher for the sickest.",3.75
+1060,was arrested in his native and charged with.,", 21, was subsequently charged with's.",3.200000047683716
+1061,"The also said its was subject to the of's senior, senior and hedging by 30 2003.","The is also subject to signing an with's senior, senior and hedging by 30, it said.",4.400000095367432
+1062,"\"" They've been in the for over six ,""says.","The usually stay in for between six to eight ,""added.",2.5999999046325684
+1063,"The's largest said it recognized the the multiple posed for, and set out to make it easier for them to apply the.",The's largest said it recognized the the multiple posed for trying to apply them.,3.5
+1064,"But have remained below 30, over, for the last two, said.",told internetnews.com have moderated and remained below 30 from the previous for the last two.,3.75
+1065,hailed as``one of the most important.,"Before the, said as a key.",3.5
+1066,"across the have issued differing on the, allowing public of the in some and banning them in.","Lower have splintered on the, allowing of the in some and not in.",4.25
+1067,He was arrested at a northwest after a national.,"He was arrested in, , on by acting on a.",2.4000000953674316
+1068,The is the's latest to expand the of religious in.,10 - The's latest to expand the of religious in enlists church-based in anti-drug.,3.25
+1069,"The represent more than half the 115.9 million held at the of, according to.",The represents about 52 per of the 115.9 million held at the of.,3.799999952316284
+1070,"carries, although it doesn't include popular such as ``""and``. ''","recently began carrying, a pooh-poohed by because it doesn't include popular like All Considered and.",3.4000000953674316
+1071,"controlled to for but immediate, said.",controlled to and was frequently at his.,3.5
+1072,"According to the 2000 ,'s or was listed at 35.8.","According to the, the Hispanic increased by 9.8 from the 2000.",2.4000000953674316
+1073,", who has played since the in 1994, extended his with the through the 2004-2005.",", who has played since the launched in 1994, has inked a one-year to his with.",3.799999952316284
+1074,The says the latest does not fit its of and is not a public.,The has said the did not fit its of and was``not an international public . '',3.799999952316284
+1075,killed nearly two suspected after coming under in southern in the latest in a of such.,"killed about two suspected in southern after their came under, the said.",4.0
+1076,"It got up on his personal this past, I've given him my and he was quite supportive ,""he said.","\"" It got up on his personal in the past, and I had to get my.",3.4000000953674316
+1077,"A former for of, he styled himself an of better corporate.",", who ran unsuccessfully for of in 2002, styled himself an of better corporate.",3.25
+1078,"arrested a former of & on criminal of obstructing federal, said on.",A former of & was arrested by in the on of obstructing federal.,4.599999904632568
+1079,said the in the showed of being a prior.,"said the appeared to be isolated, but the showed of being a prior.",3.7139999866485596
+1080,The 30-year dipped 14/32 for a of 4.26 from 4.23.,"The 30-year lost 16/32, taking its to 4.20 from 4.18.",3.3329999446868896
+1081,"\"" If that ain't a, I must be at the wrong ,""he said.","And if that ain't a, then I must be in the wrong ,""he said to thunderous from his.",3.4000000953674316
+1082,"\"" It's a major for, and it's a major for other.",The could be a for other.,2.799999952316284
+1083,The are scheduled to be delivered by 2006.,The and will be delivered to by 2006.,3.0
+1084,"\"" I can say I am being forced into by the ,""he said.","\"" I am being forced into by the's ,""said in an videotaped at his.",3.0
+1085,"have meticulously looked into virtually every of's personal and financial, has acknowledged.","continue to probe virtually every of's personal and financial, the former has said.",3.75
+1086,rose to $616.5 million from $610.6 million a earlier.,"was up a, from $610.6 million to $616.5 million.",4.400000095367432
+1087,"The broad &'s 500 was up 8.79, or 0.96, at 929.06.","The technology-laced jumped 26, or 1.78, to 1,516.",1.0
+1088,Neither athletic nor could be reached for.,athletic de would not confirm an was made to.,2.799999952316284
+1089,"The was found by a zookeeper early, suffering from severe in his.","The 21-year-old, found by a zookeeper early, had severe wounds to his and back, said.",3.25
+1090,"said began baiting when``went from zero to 30""in 1995.","Still, rabies fell sharply to 17 in 1996 and 3 in 1997, said.",1.75
+1091,",'s, had a different.","'s, , called the``a huge . ''",1.75
+1092,'s closed down 2 at $47.98 per.,"of sold at $47.98 at the of, down 2.",5.0
+1093,"Just five ago, committed to accepting and vowed to attack any who didnt.","Just five ago, committed to accepting and the that come with it and vowed to attack any who didnt.",3.5999999046325684
+1094,are worried the would harm those who need help most - who have a difficult lining up.,The say the will harm French and punish those who need help most - who have a hard lining up.,3.0
+1095,"At his, he will be reassigned within the.",told that will be reassigned within the.,2.799999952316284
+1096,"A federal ruled that the was free to withhold the of more than 700 detained in the of 11 , 2001.","A federal ruled that the can withhold the of detained as of the 11, reversing a lower.",3.5999999046325684
+1097,"The was about 4 on 18, just before the first rained down on the.","The occurred at 4am on 18, just before the first.",3.0
+1098,"The technology-laced was up 7.42, or 0.45, at 1,653.44.","The broader &'s 500 was 0.46 lower, or 0.05, at 997.02.",1.0
+1099,"were invited to the but canceled because the is closing on agricultural, said, a in.",", a in, said were invited but canceled because the is closing on agricultural.",5.0
+1100,"\"" Now, the other, he's ashamed of his ,""said to crowd.","\"" The other, he's ashamed of his, and I don't blame him.",3.5
+1101,"In his new, will earn $395,000, a significant over's of $361,400.","will be paid $395,000 a ;'s is $361,400.",4.5
+1102,"But in the, all the did was visit a, said, a with in.","But, with, said all the did was visit a.",4.800000190734863
+1103,said that the allows the to administer only``in limited . '',"In a 6-3, the said such anti-psychotic can be used only in``limited . ''",3.5
+1104,The veteran Malyasian met at the in where she is under.,"met for 90 with, a 1991 of the, at her lakeside, where she is under.",3.691999912261963
+1105,"At first, then, the drawn by the of the do-not-call would seem to draw the in precisely the right.","At first, then, the of the would seem to have drawn the between exempted and banned in the right.",4.0
+1106,Ukrainian cut short a to as a bitter between and deteriorates further.,The has led Ukrainian to cut short a to.,3.5
+1107,working for the Moscow-backed are a frequent for and is running high ahead of next's presidential in war-torn.,"in's Moscow-backed are a frequent for, and is running high ahead of's presidential in the war-ravaged.",4.75
+1108,"About 25 have signed in the last four, about of those in the last three.","According to the, about 25 have signed bilateral in the past four, about in the past three.",3.200000047683716
+1109,The ordered the to issue revised for the within 60.,It called on the to respond within 60.,2.5999999046325684
+1110,"The will launch 800 hot, or``Wi-Fi ,""later this, and to have more than 2,100 by the of the.","The will launch later this with 800, and plans 2,100 by the of the.",3.0
+1111,"'s pulled other precious higher, shunting to $4.81/83 an from $4.77/79 last quoted in.","'s pulled other precious higher, sending to $4.83/85 an from $4.80/82 last quoted in.",3.25
+1112,"of soared $5.99, or 40.1, to $20.68 in on the.","of rose $6.21, or 42, to $20.90 after hitting $21.36 earlier.",2.200000047683716
+1113,"It will cost about $20,000 per eight-week of, comparable to other injected, a said.","It will cost about $20,000 per average of to 17.",3.5
+1114,of walked into a restricted at one without being stopped; took of sensitive without being challenged.,of walked into a restricted at one without being stopped by; took of security-sensitive without challenging them.,4.75
+1115,"The identical will act as robotic, searching for of past.","The act as robotic, moving on six.",3.200000047683716
+1116,for could not immediately be reached for.,could not be located to comment on the.,3.25
+1117,"I've still got a, though ,""said after battling to overcome 6-3 4-6 6-3 7-6 (7-5) on.","\"" I'm still not red-hot ,""said after battling to down 6-3 4-6 6-3 7-6 (7-5) on.",3.75
+1118,"Two surveying the around have detected 20 new, bringing the giant's total to 60.","have clocked eight more orbiting, bringing its known total to 60.",3.0
+1119,"\"" What they have done is a thinly veiled to do an around the ,""she said.","The's, , was clear:``What they have done is a thinly veiled to do an around the ,""she said.",2.5999999046325684
+1120,"The felt threatened and went to the's, said.",The reported that she felt threatened and obtained a for's from the local's.,3.25
+1121,"The American, which represents Episcopalian, said it will seek to create a separate.","The American, which represents Episcopalian, said it will seek to create a separate in because of last's.",3.4000000953674316
+1122,"gained 93, or 1.45, to $65.05 in on.",of were up 14 at $78.40 in late on the.,1.3329999446868896
+1123,"The last the was conducted, in 1995, those matched.","In 1995, the last, those were equal.",5.0
+1124,Higher have ruled that the broke the constitutional of and.,The federal have ruled that the violates the constitutional against state-established.,4.0
+1125,"In two, he'll probably send out in the.",said will run in the on 17.,3.5999999046325684
+1126,"The technology-laced was up 7.60, or 0.46, at 1,653.62.","The broader &'s 500 shed 2.38, or 0.24, at 995.10.",0.800000011920929
+1127,He allowed two in seven and struck out six.,pitched seven and allowed two on five and four.,3.5
+1128,"Still, he said,``I'm absolutely confident we're going to have a . ''","\"" I'm absolutely confident we're going to have a ,"",, said.",3.0
+1129,"Nationally, the federal for and recorded 4,156 of, including 284.","There were 293 human of in in 2002, including 11 statewide.",1.6670000553131104
+1130,"On, a argued that a 50 from the was more likely, contrary to the's.","On, a argued that a 50 from the was more likely.",3.75
+1131,", who suffered a broken and torn, faces several.",underwent for a broken and an found two torn in his right.,2.25
+1132,financial pleaded guilty to one of on 5 and agreed to cooperate with.,"Last, former chief financial pleaded guilty to one of and agreed to cooperate with the's.",4.199999809265137
+1133,ruled that the Akron-based should have determined that at one of its would increase overall.,"should have determined that modernizing one of its would increase overall, ruled.",3.5999999046325684
+1134,said:``This is a terrible personal and a for's.,", the of said:``This is a shocking for's.",3.4000000953674316
+1135,"\"" They were tossed around like ,""said.","\"" The concrete (between) were being tossed around like . ''",3.0
+1136,"\"" is the only on which established will be able to compete ,""said.","\"" is the only on which established will be able to compete""with fast-growing such as and, said.",3.25
+1137,"The new costs between $1.1 million and $22 million, depending on.","The is priced from $1.1 million to $22.4 million, depending on.",3.5999999046325684
+1138,"The will be available in the first of 2004 and will cost around $200, the said.","Netgear the, which will be available in the first of 2004, at under $200.",3.0
+1139,"On, as first reported by, the withdrew a to's and.","Last, the sent a stiff warning to's of and.",1.75
+1140,"The first health-care in the to die of was a Filipina-Canadian who contracted the at, the of the second.",", 51, contracted while working as a at, the of the second.",3.25
+1141,"\"" I'm not going to be sponsoring it because it is not our but I'm not going to be negative about it"".","\"" I'm not going to be sponsoring it because it's not our, but I'm not responding to it in a negative ,""he said.",4.400000095367432
+1142,was otherwise the of the at.,eventually made winning the 225 easy at.,2.799999952316284
+1143,"By, the had blackened 277,000, of apart.","Major had burned 264,000 by early last.",2.75
+1144,"struck of on, killing six and arresting 21, the said.","struck of on, killing six and arresting 99 during 1,729 and 25 conducted over 24.",3.0
+1145,"They came despite what called a``difficult"", which it said included unofficial industrial at.","said the second, which included unofficial industrial at, had been difficult.",3.5999999046325684
+1146,The is one of several expected to testify.,is expected to testify later for the.,3.0
+1147,"The two-year fell 5/32 in, taking its to 1.23 from 1.16 late on.","The benchmark 10-year lost 11/32 in, taking its to 3.21 from 3.17 late on.",2.0
+1148,As of a sold its last to.,sold its to in for $355 million.,3.0
+1149,of the was the of a special that would monitor and in reforming the.,"A key of the was the of a special to monitor, set for the and in reforming.",4.400000095367432
+1150,"in were down 1.5 at 168 by 1420, off a of 164p, in a slightly stronger overall.","in were down three at 165-1/4 by 0933, off a of 164, in a stronger.",2.4000000953674316
+1151,"The, and, together made about 80 million of the injected, which ordinarily would have been enough to meet.","and together made about 80 million, ordinarily enough for, The reported.",4.400000095367432
+1152,"uncovered a 4-inch from beneath the, but it turned out to be an animal, said.","uncovered a 4-inch, but said it was from an.",4.400000095367432
+1153,Joining and on was of and.,The of and endorsed several ago.,2.5999999046325684
+1154,"The, opened six during the, bringing the to 282.","Six new were opened in the first, bringing the total of to 282.",3.0
+1155,"The also claims that there will be up to 9.3 million to hot this, up again from the 2.5 million in 2002.","There will be 9.3 million to hot in 2003, up from 2.5 million in 2002, said.",4.5
+1156,"stuck on the remained in their, and used their to call.","stuck on the were being urged to remain in their, and to use their only in of.",3.0
+1157,"For the entire, the average five-day was 259, said.","\"" The average for the five-day () is 323 nautical.",1.75
+1158,jumped as much as 15.,dropped 3.6 while surged 13.,2.0
+1159,"A for three missing uncovered at least two buried beneath freshly poured in the of a, said.",performed an on one of three recovered from a of freshly poured in the of a northwest.,2.4000000953674316
+1160,Beleaguered gear is being investigated by two federal for possible of in its in.,Two federal are investigating gear for possible of in its in.,4.800000190734863
+1161,He claimed and the with trying to undermine and.,"In his, charges the and with trying to undermine copyright.",4.0
+1162,"then called a, but the exploded, killing, before arrived.","While waiting for a to arrive, the exploded, killing.",4.0
+1163,"At 12 there was still a in, although it was not a significant one.","At 12, there was still a between the, but it was not considered significant.",4.400000095367432
+1164,"\"" It just seems like all the that we support, he doesn't ,""said of.","\"" It just seems like all the that we support he doesn't ,""said, the's of and.",4.199999809265137
+1165,"\"" City-grown, and in particular, is tougher on ,""says.","\"" I know this sounds counterintuitive, but it's true: City-grown--and in particular--is tougher on ,""said.",3.5999999046325684
+1166,"The &'s 500 slipped 4.77, or 0.5, to 929.62.","The broad &'s 500 shed 0.17 of a, or just 0.02, to 934.",2.5
+1167,"The fell 0.7 per to 9,547.43 while the & 500 was 0.8 per at 1,025.79.","The industrial average <fell 44, or 0.46, to 9,568.",1.5
+1168,"\"" We hope all will continue to make and continue the of ,""the Chinese said in a.",'s foreign said:``We hope all will continue to make and continue the of . '',5.0
+1169,said Van-Vliet reported the using the.,"Van-Vliet, who was also injured, called in the on the.",3.75
+1170,declined to comment on.,"declined to comment, saying that he never discussed.",1.75
+1171,"Its former was fired for when he left in, the said.","was fired for in, the said last.",4.400000095367432
+1172,"believe, then her once in the before fatally turning the on herself.",believe then shot once in the before turning the on herself.,3.0
+1173,"According to, placed his on its highest of last following the.","The can reveal that, the, placed his on its highest last.",3.799999952316284
+1174,"'s is now on the's ''10 Most Wanted"", sought in with 21.","'s, a former, is now on the's``10 Most Wanted"".",3.25
+1175,'s has twice refused to hear the.,"On, a again refused to block of the.",2.75
+1176,"\"" The is basically absent ,""said, regional for in ,.",", a regional for in, , criticized the in.",3.4000000953674316
+1177,"\"" It was a little embarrassing the we played in the first two ,""said.","\"" We're in the, and it was a little embarrassing the we played in the first two.",3.200000047683716
+1178,"From like``The""( 1952), ``? ''",", who anticipated the sexual with The and?",2.0
+1179,"seconds later, it broke the and continued its steep powered.","seconds later, broke the, the said.",3.0
+1180,The was estimated to be within 100 of its maximum.,"5481, which crashed 8, was judged to be within 100 of its maximum.",3.25
+1181,"said the two are``very sorry this all happened ,""and the had performed``well within . ''","The performed``well within""and the two were``very sorry all this happened ,""said.",5.0
+1182,He also said the will get its own internal next detailing the of the remaining.,"The will get its own internal next and it will be made public, said.",3.3329999446868896
+1183,"'s said global reached 19.5 million last, a 120 over 2001's 8.9 million.","Total reached 19.5 million last, compared with 8.9 million in 2001.",3.5999999046325684
+1184,", the suspended chief of the, stood accused but unrepentant in the same he recently presided over.","Moore, the suspended chief of the, stands before the of the.",3.799999952316284
+1185,"The blue-chip industrial .DJI climbed 164, or 1.91, to 8,765.38, brushing its highest since.","The blue-chip industrial tacked on 97, or 1.14, to 8,699.",3.0
+1186,An claimed assaulted the 30 at a.,"According to an, , 24, attacked a on 30.",4.25
+1187,of rallied around him after he was diagnosed with.,"has been diagnosed with, his said.",3.5
+1188,"But was careful to clarify that it was``not certain about the of the at this"".","\"" However, we are not certain about the of the at this . ''",3.200000047683716
+1189,"of fell 71, or 3, to close at $21.59 on the.","fell 54, or 2.4, to $21.76 a in midday.",2.4000000953674316
+1190,", trotted on with before a of more than 10,000 at's annual at the.","On, trotted on, , with before a of 10,000 at's annual.",4.0
+1191,"At on , 68 of said``no""to the, with 97 of the counted.","With 97 of counted , 68 of opposed the.",4.666999816894531
+1192,is expected to be nominated and elected to a second one-year and will deliver the presidential.,"Later, was expected to be re-elected for a second one-year.",3.3329999446868896
+1193,"\"" These may affect a large of existing ,""the continued.","Still, to``may affect a large of existing ,""according to the's.",3.0
+1194,"said the may reach a with the but it wants a for labeling such, the successfully fought here.","said the may reach a but it wants a for labeling such, the has resisted.",3.25
+1195,The then spread to several surrounding on the and destroyed them.,The to several surrounding on the and destroyed them as held back.,4.0
+1196,"say confiscated``several""he was carrying.",confiscated several classified in his and interrogated him.,3.5
+1197,"The into upon, according to the's.","The was owned by Vegas-based, according to the's.",2.0
+1198,"\"" I am advised that certain of criminal have been interposed against my ,""said.","\"" I am advised that certain of criminal have been interposed against my, ,""the ``",3.5999999046325684
+1199,The new will be published soon in the of the of.,It will appear in the next few on the of the of the of.,3.4000000953674316
+1200,"Two convicted and another escaped from a on a busy by cutting through a, a said.",A convicted and two other cut through two topped with and escaped from a on a busy.,3.5
+1201,had 65 of the to 35 for.,"clobbered , 46, in the.",2.4000000953674316
+1202,has 28 to file a and ask the for a.,"Under, can file a and request a before an.",3.5
+1203,dipped lower as opted to in from's big despite a of suggesting modest in the.,moved tentatively higher as weighed a of showing modest economic against an to in from's big.,2.799999952316284
+1204,"From the, however, the' declared was not just to topple but to stabilize and install a friendly.",But the' ultimate was not just to topple but to stabilize the and install a friendly.,4.800000190734863
+1205,descended down the and used the to climb over.,"used the to scale a 10-foot, said.",3.0
+1206,"Common include nasal, nose, sore and, the said.","The most common after getting the were nasal, nose, sore and.",3.4000000953674316
+1207,"Announcing the, said will help the``find creative to communicate the unique of to the new . ''","Together, we will find creative to communicate the unique of to the' . ''",3.25
+1208,facing a possible this accused of breaking off prematurely over the.,are accusing of breaking off prematurely over the as gear up for a possible.,4.75
+1209,disclosed of its next-generation for mobile and handheld here in.,"on unveiled its for, , and other.",3.5999999046325684
+1210,The 6th . of on ruled that an banning a controversial late-term passes constitutional and the can enforce it.,"An that bans a controversial late-term is constitutionally acceptable and the can enforce it, a federal ruled.",4.199999809265137
+1211,"The composite advanced 20.59, or 1.3, to 1,616.50, after gaining 5.7 last.","The technology-laced climbed 19.11, or 1.2, to 1,615.02.",2.0
+1212,"\"" We're going to do in our to get back to as quickly as possible ,""said.","\"" There's very strong in getting back to the as quickly as possible ,""said.",3.799999952316284
+1213,The said it would cut the wholesale of most top-line to $9.09 from $12.02.,The also said it would cut wholesale on and change the suggested retail to $8.98.,1.600000023841858
+1214,of fell 14 to close at $78.12 on the (-).,of were up 14 at $78.40 in late on the.,3.25
+1215,"The upcoming second-quarter will be particularly important in offering, they say.",They say second-quarter will be key in giving that.,5.0
+1216,"That took the benchmark 10-year down 9/32, its rising to 3.37 from 3.34 late on.","That saw the benchmark 10-year 5/32 in, taking its to 3.36 from 3.34 late on.",3.4170000553131104
+1217,The's fell 45 in to $91.51 per.,"of &, which is based in, fell 41, to $91.51.",2.75
+1218,"In the latest, threw a at a in northern, killing one.","Early, insurgents threw a at a in northern, killing an American.",4.111000061035156
+1219,"are against the, saying they hurt in.","oppose the, saying they would concentrate too many in too few.",3.5999999046325684
+1220,"Every, a in the's to decide the of a weekly.",A normally meets each in the's--another of's--to decide the of a weekly.,3.5999999046325684
+1221,", the of, said with would not stop.",of said that contacts with would continue.,4.333000183105469
+1222,"previously worked for, where he was and and.","comes to Sprint from, where he served as and.",3.200000047683716
+1223,",, and are expected to complete the.",",, and Wanted all had on.",2.25
+1224,"said he did not see what``all the""was over appointing a, but urged homosexual to remain.","'s says he does not understand all the about appointing a, but he has urged homosexual to remain.",4.5
+1225,"In, signed a and with the.",Four later it signed a joint with.,2.75
+1226,would still have to get a descrambling from their to plug into the.,"To watch, would insert into the a provided by their.",4.0
+1227,"On, the started up around and seemed to launch itself straight out of the rising.",", the seemed to launch itself straight out of the rising.",3.4000000953674316
+1228,A 1 is declared when reach 0.20 per million.,The federal for is 0.12 per million.,2.200000047683716
+1229,"While waiting for a to arrive, the exploded, killing.",The exploded while waited for a to arrive.,3.25
+1230,"\"" It seems to me...we're just dealing with bragging here, who wins and who loses ,""said, who heard the without a.","\"" Leaving aside, we're dealing with bragging of who and who loses ,""said.",3.6670000553131104
+1231,"The American, who are defending, will play in on 25 and conclude in on 28.","The, who are defending, will play on 25 in and conclude on 28 in ,.",4.75
+1232,"Its, , based in, made 4 million to 5 million this.",", the of, made between 4 million and 5 million this.",3.5
+1233,appeared in federal on two.,"She appeared in federal, but did not enter a.",3.0
+1234,"An incremental reported by at the of, , is the latest in a decade-long.","The incremental, reported by at, is the latest in a decade-long to infect with the.",3.25
+1235,"turned out a thanking the for its, and said,``Our into will go on . ''","did not discuss this when he issued a brief thanking the for its, and saying,``Our into will go on . ''",3.5999999046325684
+1236,"The is going to, where 13 of the's 16 were reported.","The is going to, where 13 were killed.",3.799999952316284
+1237,"The broader &'s 500 rose 3.42, or 0.34, to 1,007.84.","The technology-laced was down 1.55, or 0.09, at 1,744.91.",1.0
+1238,worked to install a new and prepare the so could use the lanes for as threatened to dump more.,worked to install a new and repave the so could use the lanes for.,3.3329999446868896
+1239,"Buoyed by some of the imparted by, shot an 8-under 64 for a one-stroke over.","Buoyed by imparted by, shot an 8-under 64 on to enter's with a one-stroke over.",4.25
+1240,Net rose to $3.99 billion from $3.85 billion during the same last.,That is up from $1.14 billion during the same last.,1.75
+1241,"These``are entitled to respect for their private ,""said.","\"" The are entitled to respect for their private . ''",2.75
+1242,"The, the first in the, occurred in a in industrial south.","The of a radioactive``dirty ,""the first in the, occurred on several in the south industrial.",3.25
+1243,"The dropped that improperly appointed to the and that he improperly appointed's, , to the.","also appointed to the and appointed to the, the says.",2.5
+1244,'s appears in the 24 of the of the.,The appear in's of the.,3.0910000801086426
+1245,A said``we are pleased with the's . '',"\"" We are very pleased with the's ,""said.",4.400000095367432
+1246,"are created when is added to vegetable, solidifying it and increasing the of certain.","are created when vegetable has been partially hydrogenated, solidifying it and increasing the of certain.",4.800000190734863
+1247,But are concerned about the with which can use these hardware-based to set digital.,But are concerned about the at which these hardware-based could be used to set digital by.,5.0
+1248,"'s causes of the and include, , weight and.","include chronic, abdominal, weight and extreme.",3.0
+1249,"identified the as, who is imprisoned for killing his in 1982.",is serving in a different--killing his in 1982.,3.200000047683716
+1250,set to call early,'s set to call early,4.400000095367432
+1251,", on to act on",", on",1.7999999523162842
+1252,Green to be reintroduced as by,Green to be relaunched as,4.0
+1253,Military in south :,"Military in southeastern , 1 dead",1.0
+1254,at least 22,at least 12,0.6000000238418579
+1255,launches $10 billion for rival,$ 10 billion for,4.599999904632568
+1256,votes in crucial,looks set for,1.7999999523162842
+1257,warns nuclear could stall,“ confess to nuclear,1.2000000476837158
+1258,sworn in as Eygptian,sworn in as 's,4.599999904632568
+1259,1 killed in sectarian in,killed in Syrian-linked in,1.399999976158142
+1260,,; 1 dead,3.200000047683716
+1261,US penalize for jailing who aided,'s,2.799999952316284
+1262,Syrian to to Qatar,deploys more troops despite,0.800000011920929
+1263,painting stolen from,painting snatched from,3.799999952316284
+1264,"urges end to ,",urges end to Syrian,3.799999952316284
+1265,shooting was in,: shooting is mentally ill,4.199999809265137
+1266,kills 4 near 's,kills 23 at wedding,1.600000023841858
+1267,"in, asks to take clear on","in, asks to take a on",3.799999952316284
+1268,can return to with,scores 4 to send off with,1.399999976158142
+1269,train at least 19,train 26,3.5999999046325684
+1270,of,coordinated,1.7999999523162842
+1271,", on endorsing",", backing for ()",3.799999952316284
+1272,over,for Arab,0.20000000298023224
+1273,Israeli Evicting From,Israeli out of,1.600000023841858
+1274,promises on,promises no new,0.4000000059604645
+1275,Egyptian into's old,'s President-Elect to Form,2.3333332538604736
+1276,falls silent to mark 311,for,0.4000000059604645
+1277,Syrian kill 35 in,: Syrian kill near,3.5999999046325684
+1278,Suspicious found in not explosive,suspicious at,3.4000000953674316
+1279,At least 15 killed in,At least 12 killed in,2.5999999046325684
+1280,US kills 8,US four in :,2.200000047683716
+1281,endorses same-sex,'s delicate on same-sex,2.5999999046325684
+1282,for Syrian,for,4.800000190734863
+1283,Greek,agrees,4.800000190734863
+1284,Two hit,Two rock Syrian,4.800000190734863
+1285,'s personal on same-sex,backs same-sex,2.5999999046325684
+1286,in east -,disperse east,1.600000023841858
+1287,2 pro-Palestinian arrested at,of' protest at,2.200000047683716
+1288,Spanish jobless past 25 per,"jobless seen rising, offering no",1.0
+1289,Israeli makes on to,blames for on its,1.2000000476837158
+1290,Music to,Music mourns,3.4000000953674316
+1291,Five dead in,Over 120 dead in,0.6000000238418579
+1292,"At ,",CPAC 2012: to Connect with Conservative,3.200000047683716
+1293,Glorious triple-gold for,golden on,3.200000047683716
+1294,: surround flat of 'Islamic' suspected of being serial,Toulouse shooting: was on the highest of of,1.7999999523162842
+1295,"Wigan 3-2: , pictures &","Arsenal 0-0: , pictures &",1.2000000476837158
+1296,spends £3m on foreign,spends $50m on,1.600000023841858
+1297,drops against,calls it quits in against,4.800000190734863
+1298,hospitalised in,"'s hospitalised, to miss",3.5999999046325684
+1299,'Desperate' Dies,' dies at 72,3.799999952316284
+1300,lands in ;,fired from in ;,3.0
+1301,'s,prepares to bury,3.5999999046325684
+1302,for on,plans major new against,4.400000095367432
+1303,with in,makes,2.0
+1304,for,,2.4000000953674316
+1305,Soggy: gets soaking,celebrated at despite,3.200000047683716
+1306,detained in on,held in faces 45-day,3.4000000953674316
+1307,", fire in ,",",",2.799999952316284
+1308,yuan weakens to 6.3282 against,'s yuan against for third,3.200000047683716
+1309,of ',: ',1.7999999523162842
+1310,rocked by secret,taped at secret,2.799999952316284
+1311,agrees to lend up to $125 billion,to lend up to 100 . euros,3.4000000953674316
+1312,South Korean economic falls to 3-year low,economic falls to near 3-year low,4.599999904632568
+1313,", on",", on",3.799999952316284
+1314,: appeared to accept his,convicted of sexual,1.600000023841858
+1315,"leads, not, in fundraising",: I left all of in 1999,0.800000011920929
+1316,9/11 ignore at hearing,11 enrage at hearing,1.0
+1317,vote to pick for first,wait for key presidential,2.5999999046325684
+1318,'s in,'s At,4.199999809265137
+1319,":, must do more against",":, to Defeat",4.400000095367432
+1320,", on, in first",and take for first,2.200000047683716
+1321,kills 10 :,kills 5,2.5999999046325684
+1322,by the at the,The - The,2.799999952316284
+1323,confirms 's,confirms 's,4.0
+1324,'s in for 3rd anti-cancer,Venezuelan returning to for,3.200000047683716
+1325,near instructed to stay near,great brings,0.0
+1326,in call,Syrian brings uneasy,1.7999999523162842
+1327,"get on, lead","to free, say",0.0
+1328,'s slows to 1.8 in,'s industrial slows to 9.2 in,2.5999999046325684
+1329,"fire 40 into , 3 :",fire four into; no,2.75
+1330,By.,to,3.200000047683716
+1331,hits funeral in,in,1.7999999523162842
+1332,7 detained for 'house ',detains 7 for``'',4.199999809265137
+1333,to 6.168 against,yuan strengthens to 6.1696 against,4.199999809265137
+1334,seek healing at after deadly,return to,2.5999999046325684
+1335,as s,is's prime,4.199999809265137
+1336,2 dead in over s,Bangladesh executed,2.0
+1337,"sworn in as, succeeding","sworn in as, succeeding",5.0
+1338,to resume,and hold historic,0.800000011920929
+1339,'Around 100 dead or injured' after,dead or injured in,3.799999952316284
+1340,taken to hospital,released from,1.600000023841858
+1341,enter for historic,enter to elect,3.4000000953674316
+1342,meet for,for,0.6000000238418579
+1343,"in , 23","in , 21",1.399999976158142
+1344,on Syrian,raises over,3.799999952316284
+1345,", convene over",Israeli call for internal into of,1.2000000476837158
+1346,Moderate,Moderate southern,3.0
+1347,32 in,1 Killed in,2.200000047683716
+1348,use tear against,about,1.0
+1349,pleads not guilty in,pleads not guilty in,2.200000047683716
+1350,killed after Japanese,trapped in outside,1.7999999523162842
+1351,Chinese close lower on,Chinese attacked in,0.0
+1352,"Red and boost immune, say","Red, boost human",4.199999809265137
+1353,2 killed in eastern,At least 28 die in Chinese,0.4000000059604645
+1354,"The's for , 25 , 2013","The's for , 8 , 2013",2.5999999046325684
+1355,in at political,says confident can overcome political,0.6000000238418579
+1356,Indian round up all five in,arrest fifth in,3.799999952316284
+1357,for,worry about new terrorist in,0.0
+1358,invests $200 million in,invests 200 million in,5.0
+1359,strives to avoid economic,is key to fostering economic,1.0
+1360,begins on,to begin at,3.200000047683716
+1361,US confirms al-Qaeda has been captured,US al-Qaeda but fails in,2.799999952316284
+1362,observes for,observes for,4.599999904632568
+1363,"nets 300th , 301st in",: hits 300th in,3.4000000953674316
+1364,Ukrainian and entire,Ukrainian barred from as continue,1.2000000476837158
+1365,Two killed in,killed in,4.0
+1366,"The's for , 6 , 2013","The's for , 12 , 2013",1.7999999523162842
+1367,confirmed after into Scottish,Scottish say at least one dead after into,4.0
+1368,,nuclear,2.4000000953674316
+1369,close 0.39 higher,close 2.47 higher,1.7999999523162842
+1370,approve new,approves new,3.799999952316284
+1371,over,Yacimovich urges to approve Palestinian release,1.399999976158142
+1372,: 61 killed in,reported killed in,2.5999999046325684
+1373,erupt as push back in,Coptic priest in,1.399999976158142
+1374,pays to,US pay to,1.600000023841858
+1375,says it captures; denies losing one,says it has seized; says it's not true,4.800000190734863
+1376,No at's nuclear,US may throw into nuclear,0.800000011920929
+1377,,executes,3.4000000953674316
+1378,says nuclear with possible within ¿three,wants nuclear in,3.200000047683716
+1379,end up 0.11,close 0.54 higher,2.200000047683716
+1380,2 in,stir up anti-Putin,1.2000000476837158
+1381,launches airstrike in,launches near,3.0
+1382,leave six dead in,leave 18 dead in,2.5999999046325684
+1383,by a,threatens to trigger,0.4000000059604645
+1384,tallest in,One,4.599999904632568
+1385,,", Dies at 81",4.0
+1386,at joining :,", hold linked to regional",2.799999952316284
+1387,"nasty ,",fight nasty by taking away,3.799999952316284
+1388,Turkish near,British deny protecting,0.0
+1389,,"Held in, guru",3.4000000953674316
+1390,calls for in,calls for in new with,4.599999904632568
+1391,4 dead after capsizes off,8 dead after heavy on of,0.800000011920929
+1392,$ 53m of' in armed at,"$ 53 million of in, say",3.799999952316284
+1393,undergoes,‘ is recovering,2.200000047683716
+1394,"US in , 4 Wounded",US military at during in,3.200000047683716
+1395,upholds,upholds,5.0
+1396,in rises to four,told to evacuate in,1.600000023841858
+1397,", offer to Snowden",'s says he would grant to if asked,2.200000047683716
+1398,"5 killed , 50 injured in","3 killed , 138 injured in :",0.800000011920929
+1399,At least 38 die in,of killed in,3.5999999046325684
+1400,Chinese close lower on,close lower on,2.5
+1401,2013,is crowned,3.0
+1402,"Four killed, wounded in across",Egypt: killed in at s,2.200000047683716
+1403,detains after,takes the after 's,0.0
+1404,in,in,0.20000000298023224
+1405,"One in, pulled from rubble",confirmed dead after,3.200000047683716
+1406,quits Who,quits's Who,5.0
+1407,scour after,Select from,2.200000047683716
+1408,19 in shooting,: 19 in 's,4.400000095367432
+1409,Another migrant capsizes off,"Another capsizes off , 27 dead",3.799999952316284
+1410,Killed In Egyptian,'s,1.2000000476837158
+1411,To In And,to appear on and ',4.599999904632568
+1412,emulates father with win,1: stays modest despite win,3.799999952316284
+1413,pleads not guilty to,pleads not guilty to all,1.399999976158142
+1414,clash with in,with in,3.799999952316284
+1415,cleared to impose controversial ',to increase,0.0
+1416,arrests,for more as calls 'march of ',1.600000023841858
+1417,expands to,widens,5.0
+1418,"Syrian hit with, kill 5",Hunting for in,0.4000000059604645
+1419,asks for,On to on,2.4000000953674316
+1420,"in , 1 dead","hit ,; no reported",3.200000047683716
+1421,", former, dead at 87",dies at 87,3.799999952316284
+1422,One in,killed in,2.5999999046325684
+1423,6.4-magnitude off,6.9-magnitude off 's,1.0
+1424,into in - several,into of,4.0
+1425,"from, at",shakes with's at,2.0
+1426,'kill 10' in,kill four in,2.200000047683716
+1427,Major out in in,breaks out near in,4.599999904632568
+1428,China-EU 2020 for released at 16th China-EU,: China-EU 2020 for,4.400000095367432
+1429,Chinese close higher on,Chinese close lower on,1.7999999523162842
+1430,Global seen in ending,: being made in expert-level,0.0
+1431,Greek arrest on of spying,of,0.0
+1432,to Visit,Used in,2.0
+1433,agrees to surrender,: We will stop producing chemical,3.4000000953674316
+1434,endorses to recognise,,0.20000000298023224
+1435,kills 12 in,: 3 killed in,2.4000000953674316
+1436,poisoning at least 20 in,cafe at least 38,0.0
+1437,after,Indian-origin after in,0.4000000059604645
+1438,killed in in,12 killed in bus in,1.7999999523162842
+1439,17 govt killed in,At least 78 killed in,0.800000011920929
+1440,At least 12 dead in ...,At least 150 dead as strong southwest,0.4000000059604645
+1441,' as envoy peace bid,in east as pushes,2.200000047683716
+1442,", enter third of",and agree in,1.7999999523162842
+1443,cuts to record low,cuts to record low,4.599999904632568
+1444,take of,divided within Syrian,2.200000047683716
+1445,forensic join,Arrested 'not significant' to,1.0
+1446,aimed at barring,urges no new on,1.0
+1447,in Russian psychiatric 38,38 feared dead in Russian psychiatric,4.199999809265137
+1448,calls for better with,urges to leave,0.4000000059604645
+1449,"Chinese, on",Chinese in for,0.20000000298023224
+1450,: takes early for,'took every for a ',0.0
+1451,on one,: No for that incites,0.0
+1452,threatens to trigger,admits threatening to kill,0.0
+1453,And Profit Down,dies at 85,0.6000000238418579
+1454,Foreign new 'opening-up ',More likely in,0.6000000238418579
+1455,fast-food plan nationwide over minimum,Fast-food for higher,4.0
+1456,All on new,in as,0.0
+1457,"One killed , 40 injured in","Three killed , 21 injured in two",0.800000011920929
+1458,"to Mauritanian: imposed on targets its, particularly over",": aginst targets its, particularly",3.200000047683716
+1459,set for,set for huge,4.800000190734863
+1460,as of,as,4.199999809265137
+1461,to meet with in 7-8,to meet Ukrainian prime at,2.200000047683716
+1462,for kidnapped banned in Nigerian,'killed' in in,1.0
+1463,yuan weakens to 6.1559 against,yuan weakens to 6.1818 against,3.5999999046325684
+1464,and aim to negotiate a 'final' after positive,Israeli kills 3 Palestinian in,1.600000023841858
+1465,Japanese apologizes for,"to, denies wrong on``comfort ''",3.0
+1466,"4 killed , 6 injured in in","43 killed , 86 wounded in in",2.4000000953674316
+1467,for meeting on,says lying about,0.4000000059604645
+1468,Thai says 2,says with have failed,0.0
+1469,,shooting,5.0
+1470,chief killed in,"'elect new', vow 'unprecedented '",1.2000000476837158
+1471,kills 7 in northern,US kills 8 in,1.399999976158142
+1472,lifts on to,lifts on to,4.0
+1473,'s oldest dies at 116,:'s Dies 116,4.599999904632568
+1474,in,holds landmark as 29 killed in,3.4000000953674316
+1475,gets therapy after :,Bulgarian to break,0.4000000059604645
+1476,: Fighting in north over 120,: Five you might not know,0.0
+1477,'s charged over,'s In,4.800000190734863
+1478,limits 's,High 's,5.0
+1479,"is over, says 's","Eurozone is over, says 's",4.0
+1480,sees 1.5 in,proposes 1.5 in,4.0
+1481,"of and will discuss how to boost, integrate social and economic",of and to discuss,3.0
+1482,Chinese lands on,lands robot on,5.0
+1483,", 14, arrested for around a",Two arrested after of on,2.0
+1484,after acquitted in,acquitted in slaying,3.0
+1485,begins to vote in controversy-ridden presidential,Crisis-hit holds new presidential,3.0
+1486,", US-French",arrives for,1.0
+1487,", of",", meet ahead of nuclear :",5.0
+1488,kill 9 in,kill 19 in,2.0
+1489,10 to for,10 to Know for,2.0
+1490,peacekeeping named for Central,takes over peacekeeping in Central,2.0
+1491,falls in Asian,down in Asian,5.0
+1492,Israeli detain Palestinian in,Israeli detain 2 in overnight,3.0
+1493,Israeli with Palestinian at sensitive,With in,3.0
+1494,"3 killed , 4 injured in",Five killed in shooting,0.0
+1495,prove there is on,discovered on?,2.0
+1496,need to strive for by,: regrets of developed,0.0
+1497,into red in of,"'s``of""to diesel",2.0
+1498,is right: deserves better,waiting for to name,0.0
+1499,shows beating mentally-ill,police critically wounded in,0.0

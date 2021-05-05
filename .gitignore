@@ -1,7 +1,9 @@
+transformers
 .DS_Store
-myvirtualenv
+venv
 build
 dist
+output
 key.json
 *.egg-info
 .vscode

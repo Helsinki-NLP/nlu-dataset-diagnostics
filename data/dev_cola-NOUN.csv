@@ -1,0 +1,1044 @@
+,sentence,label
+0,The rode the of the.,1
+1,The made the over the.,1
+2,The mechanical wriggled itself loose.,1
+3,"If you had eaten more, you would want less.",1
+4,"As you eat the most, you want the least.",0
+5,"The more you would want, the you would eat.",0
+6,"I demand that the more, the more he pays.",0
+7,"Mary to the, she gets depressed.",1
+8,"The got, the more she looked at.",1
+9,"The higher the, the lower his are.",1
+10,"The more is obnoxious, the less you should pay to him.",1
+11,was lots more obnoxious than.,1
+12,"The more you give to, the more get sick.",1
+13,"The more does smoke, the more Susan hates him.",0
+14,"The more of him that appear in the, the more embarrassed.",1
+15,"Every seems to become more corrupt, as he talks to more.",1
+16,Who does visit Sally because he likes?,0
+17,did not leave.,1
+18,He could not] have been working.,1
+19,He cannot have been working.,1
+20,You will believe.,1
+21,has not kissed.,1
+22,I said that never in my had I seen a like.,1
+23,looked up it.,0
+24,There tended to be a of.,1
+25,tried to be a good.,1
+26,is eager.,1
+27,We want to win.,1
+28,The contained the from the.,0
+29,The was escaped by.,0
+30,bubbled up out of the.,1
+31,The leaked.,1
+32,What the did to the was fill it.,0
+33,What the did to the whole was fill it.,0
+34,The leaked the free.,1
+35,lay the in the.,1
+36,owns the.,1
+37,We persuaded to leave and to stay.,1
+38,"Most probably consider, even though the didn't actually find, guilty of.",1
+39,beautifully plays the.,0
+40,"Clearly, probably will immediately learn French perfectly.",1
+41,gave to Bill a.,0
+42,The will all leave.,1
+43,went.,1
+44,They represented seriously to the dean as a genuine.,0
+45,Us love they.,0
+46,It is nice to go abroad.,1
+47,intended to go abroad.,0
+48,I remembered having kissed.,1
+49,"I can't believe won't, either.",1
+50,"wants to read's, and I also want to.",1
+51,"We wanted to invite, but we couldn't decide who to.",0
+52,"will read's, and will read's.",1
+53,"claimed that eating, shouldn't.",1
+54,came to be introduced by the and I also came to be.,0
+55,"If I can, I will work on it.",1
+56,"'s bother his, and Sally does too.",1
+57,"I know which didn't read for, and which did it for him.",0
+58,"This is the which reviewed, and this is the one which won't do it.",0
+59,"I know which, and which said that you hadn't.",1
+60,"I know which, and which read my that you hadn't.",0
+61,I'm sure I would like him to eat more than I would.,1
+62,talked about himself only after did talk about him.,1
+63,Fred talked about before did talk about.,1
+64,often meets.,1
+65,The perceives easily.,0
+66,A hundred surrounded the.,1
+67,We elected me.,1
+68,Which that was did he submit?,0
+69,has always preferred to.,1
+70,He let the which were whining out.,1
+71,What did buy?,1
+72,saw the walking toward the.,1
+73,A that the had been . made was giver that had lied.,0
+74,He attributed to a short which was caused by an overloaded the which destroyed most of my.,1
+75,The regarded as being absurd the to build a from to.,0
+76,I want that left to remain a secret.,0
+77,I know a who drives as.,0
+78,"Drowning, which is against the, are hard to rescue.",0
+79,said else than that she had been insulted.,1
+80,is understood by.,0
+81,I feel that will show up.,1
+82,The this is recursive is difficult.,0
+83,The which plays the and sound lousy.,0
+84,"picked these, and I washed some, and will prepare these.",1
+85,Where did you go and who ate what?,1
+86,'s did we elect guardian's?,0
+87,How is?,1
+88,I live at the where 150 crosses the and my lives at the where 150 crosses the too.,1
+89,I live at the where 150 crosses the and my lives at it too.,0
+90,Who is she trying to make up to now?,1
+91,was gotten of a to negotiate an honorable to the in.,0
+92,talked about to my.,1
+93,It was expected by the that the would fire some.,1
+94,Which hat did that she never wore?,0
+95,did never wore this?,0
+96,We donated for the to build with.,1
+97,I won't have some.,0
+98,Do you believe the that was looking for?,1
+99,I won't ask you to believe that he tried to force me to give her any.,1
+100,That sometimes didn't sleep must have pleased.,1
+101,I talked to about himself.,1
+102,"That the wanted him worried, but that the wanted her didn't worry.",1
+103,I'll work on it if will be working on it.,1
+104,I'll work on it if I can.,1
+105,Here's a with which for you to cut up the.,0
+106,"is sick, which not knows.",1
+107,is quite a.,1
+108,"The younger might have been tall and, and the older one was ,.",0
+109,"Sally is tall, and may be, and is short, and definitely is ,.",1
+110,I have to try to finish grading some.,1
+111,The are ready for for you to put on to be planned.,0
+112,It is easy to play on this.,1
+113,This is difficult to play on.,1
+114,My is easy to please my and.,0
+115,", it had started to rain and he had no.",1
+116,"That the spoke to the about it is terrible, that.",0
+117,"Every, and he wears, is a.",0
+118,That was given my by him.,1
+119,didn't allege that had eaten.,1
+120,who hates to eat should work in a.,1
+121,around here who ever buys on in his.,1
+122,I can't remember the of who had.,0
+123,"No, and no, in.",0
+124,"No, nor any, in.",0
+125,That you will marry any is not certain.,1
+126,kicked the off the.,1
+127,I sent the around the.,1
+128,gave the out of the.,0
+129,offered the out of the.,0
+130,has a festive.,1
+131,The will have a.,1
+132,No can forgive that to you.,0
+133,"We launched the to the, but it blew up before it got there.",1
+134,"promised her old, but then gave it to her instead.",1
+135,I lent the to.,0
+136,The loaded the with.,1
+137,The dumped the with.,0
+138,carved the a out of.,1
+139,The easily.,1
+140,broke on the.,0
+141,broke the.,1
+142,The rang the.,1
+143,We pulled free.,1
+144,That always shocks.,1
+145,That always.,1
+146,came the.,0
+147,sent a to.,1
+148,That acorn will grow into an oak.,1
+149,He turned into a.,1
+150,I mixed the into the.,1
+151,threw the with the.,0
+152,condemned for the.,1
+153,We investigated the for.,1
+154,I sensed his.,1
+155,They praised the in the.,0
+156,The was believed to be round.,1
+157,smiled a.,1
+158,beamed a cheerful.,1
+159,You've really lived it up.,1
+160,lift onto the table easily.,0
+161,The lifted onto the.,0
+162,loaded under the.,1
+163,loaded on the.,1
+164,crammed at the.,0
+165,buttered at the.,0
+166,shoveled the.,1
+167,sent the.,1
+168,sent the.,1
+169,slid the.,1
+170,slid at the.,0
+171,carried the to.,1
+172,drive easily to.,0
+173,The pushed.,0
+174,We offered a to her.,1
+175,A offered.,0
+176,presented a to.,1
+177,bought a.,1
+178,obtained the spare at the.,1
+179,kept the with the.,0
+180,hid the in the.,1
+181,The needle poked the.,1
+182,touched that.,1
+183,whipped the and the.,0
+184,taped the to the.,1
+185,taped the onto the.,1
+186,The and her together.,1
+187,This and that.,1
+188,This and that differ apart.,0
+189,The scribbled the with his.,0
+190,The grew that into an oak.,1
+191,I shaped a.,0
+192,The amused.,0
+193,whispered the.,1
+194,whispered at.,1
+195,said that were selling well.,1
+196,said about the present.,0
+197,warned against skating on thin.,1
+198,nibbled on the.,1
+199,chewed.,0
+200,laughed at.,1
+201,winked her.,0
+202,My is pounding me.,0
+203,fainted from.,1
+204,The poisoned the.,1
+205,A ticked in the.,1
+206,I squeaked the.,0
+207,Over the there bubbled a fragrant.,1
+208,Soaring are predicted for this.,1
+209,The fluttered with many.,0
+210,The echoed in the.,1
+211,The twists through the.,1
+212,There presented itself a wonderful.,0
+213,A wonderful presented itself to him.,1
+214,Out of the jumped a little white.,1
+215,skated around the.,1
+216,accompanied.,1
+217,many was provided.,0
+218,offers many.,0
+219,The that got was more delicious than the that got.,1
+220,We recommend to eat less and.,1
+221,I saw that can explode.,1
+222,He washed her.,1
+223,you!,0
+224,They have no in.,0
+225,Some my are in.,0
+226,It was the met that several young in the last.,0
+227,did the in the?,1
+228,put old in the.,1
+229,The proud of their.,0
+230,sounded very.,0
+231,I don't know if I should agree.,1
+232,bought a on the.,1
+233,called the a.,1
+234,I forgot how good.,1
+235,This is a.,1
+236,A good is remained to me by him.,0
+237,ate his noodle quietly.,1
+238,A hammered the.,1
+239,removed her.,1
+240,This will be a difficult one for us.,1
+241,worked in a when he was a.,1
+242,hoped that she would sing.,1
+243,This proved a decisive.,1
+244,The devoured the.,1
+245,is afraid of.,1
+246,put under the.,0
+247,placed behind the.,1
+248,depends for.,0
+249,put the in the.,1
+250,taught to new.,1
+251,as a good.,1
+252,put in the.,0
+253,The seem of the.,1
+254,The require that the be polite.,1
+255,That was unpopular nominated.,0
+256,They were taking a hard at possible.,1
+257,paid me against the.,0
+258,The will study the of setting up a national.,1
+259,We made them be rude.,1
+260,"After reading the, threw it into the can.",1
+261,studying English's of while at.,0
+262,I read some of the.,1
+263,Most of the is rotten.,1
+264,Neither of failed.,0
+265,I drank some of.,0
+266,It is a golden.,1
+267,The in the waved to his.,1
+268,"That is so ferocious, it even tried to bite itself.",1
+269,He washed yourself.,0
+270,is easy to please.,0
+271,There seemed to be intelligent.,0
+272,tried to please.,1
+273,We believed to be a in the.,0
+274,It tries to leave the.,0
+275,tries to leave the.,1
+276,Under the seems to be a fun to hide.,1
+277,There is believed to be sheep in the.,0
+278,I hope to would study in.,0
+279,can kick the.,1
+280,will rain.,0
+281,We expect there to will rain.,0
+282,was found in the.,1
+283,the be in the?,0
+284,It did not rain.,1
+285,wants not to leave the.,1
+286,"to tour, but hates to.",1
+287,They needn't take this.,1
+288,may spend her in.,1
+289,"They love to play, but I do not.",1
+290,"has spent a of, hasn't he?",1
+291,"As a, scarcely could he do worth mentioning.",1
+292,We never found any of the.,1
+293,One of's most famous wrote these.,1
+294,apparently struck the unidentified during the early.,1
+295,The was driven.,1
+296,can be relied on.,1
+297,The was slept in.,1
+298,A was weighed by the.,0
+299,Who do you think saw?,1
+300,he had spent five thousand.,1
+301,knows which politician her to vote for.,0
+302,How did you guess that he fixed the?,1
+303,The knows whose to achieve the should honor.,1
+304,Which does your?,0
+305,the from whom I bought these left.,1
+306,I found the where we can relax.,1
+307,is the with whom fell in with.,0
+308,There is a to sit on.,1
+309,I met the who grows.,1
+310,Which did you choose without getting his?,1
+311,Which did you get bored because talked about?,0
+312,That is the why he resigned.,1
+313,It bothers me that.,1
+314,To please is easy.,1
+315,is eager to please.,1
+316,That we invaded really bites.,1
+317,It annoys me that.,1
+318,Who achieved the best was.,0
+319,It was the peasant who got it.,1
+320,That of is hard to find to look after.,1
+321,A sick doesn't hunt.,1
+322,Each who has in will be admitted to the.,1
+323,Each whose is written in any other than will provide a summary in.,1
+324,I'm sure we even got these!,1
+325,I'm even sure we got these!,1
+326,It's not because I have any for urban that I helped him.,1
+327,It isn't because said bad about me that I'm angry.,1
+328,"That he was hungry, whined.",0
+329,1 gave after the a.,0
+330,"Because she's so pleasant, as for I really like her.",0
+331,"Though he may hate those that criticize, it doesn't matter.",1
+332,With no would be happy.,1
+333,I have much of the left to type.,1
+334,He's a more reliable.,1
+335,Any is what I don't want.,0
+336,They may grow as high as.,1
+337,Some of them made as many as 20.,1
+338,Sally kissed himself.,0
+339,believes I think loves.,1
+340,",, ,, and left.",1
+341,"Hopefully, we'll make it through the without.",1
+342,shows herself that is pretty.,0
+343,hit the.,1
+344,I hit that you knew the.,0
+345,I've lost my or I've lost my.,1
+346,It was a new that he bought.,1
+347,He likes and he hates crumb.,1
+348,They chased the with the.,1
+349,I didn't have a red.,1
+350,the of and from takes a very long to read.,0
+351,the with a red takes a very long to read.,1
+352,has a of.,1
+353,The's the is leaking.,0
+354,the's the is dark black.,0
+355,asked if they could get a.,1
+356,The I saw get into the robbed the.,1
+357,I know you eat.,1
+358,'s will always bother me.,1
+359,An evil.,1
+360,In the put the on the.,1
+361,gave the to the.,1
+362,thinks that to eat salmon flavored.,0
+363,thinks that should eat flavored.,1
+364,He danced.,1
+365,his?,0
+366,was slapping upside the in martial.,1
+367,"If I am a rich, I'd buy a.",0
+368,"If he were a rich, he'd buy a.",1
+369,is likely to leave.,1
+370,The laughed.,1
+371,.,0
+372,Who did you think kissed the?,1
+373,Have you seen my?,1
+374,It seems that was mugged.,1
+375,I ate a that was filled with lima.,1
+376,There were four arriving at the when I pulled up.,1
+377,is reluctant to dance.,1
+378,I want her to dance.,1
+379,persuaded.,1
+380,Jean wants to do the.,1
+381,The admire their.,1
+382,Who has talked with?,1
+383,likes her.,1
+384,thinks that loves himself.,0
+385,Which pictures of himself does like?,1
+386,Any owl.,1
+387,Any didn't eat.,0
+388,A could be flying this.,1
+389,"who attended last's huge, whoever they were, signed the.",1
+390,who attended last's huge signed the.,1
+391,"Any has orange fur, marked with black.",1
+392,"Any has orange fur, marked with black.",1
+393,You must pick any you see.,1
+394,Any on could be flying this.,1
+395,"You may pick every, but leave a few for.",0
+396,The beat the and were beaten by the.,1
+397,In which was the seen?,1
+398,The who and hates computed my.,1
+399,The which made and has been stolen.,0
+400,said he would and actually did eat a raw.,1
+401,The wealthy young bought that for his secret.,1
+402,The stole the.,1
+403,a tall.,1
+404,This is tall.,1
+405,I like the which you gave me.,1
+406,wrote a to.,1
+407,She asked was coming to the.,1
+408,They realised that never had been so offended.,1
+409,regretted having to talk to.,1
+410,"Knowing the well, he took a short.",1
+411,He left the with else's in his.,1
+412,went to.,1
+413,Who did send the?,1
+414,The dismayed the that the was dull.,1
+415,right in he did without so much as a.,1
+416,admired.,1
+417,The is boring.,1
+418,to ask you some awkward.,1
+419,made some.,1
+420,The was broken with a.,1
+421,The fugitive in to avoid.,1
+422,The marched the round the.,1
+423,crossed the.,1
+424,and were attacked.,1
+425,might be here by 5.,1
+426,I am both expecting to get the and of the that it is a desirable one.,1
+427,was awarded the and very upset about it.,1
+428,alienated and beating his.,0
+429,They knew that of each other would be on.,1
+430,Which did without reading?,0
+431,I want to try and buy some.,1
+432,She goes and buying some.,0
+433,and is happy.,0
+434,gave a to and a to.,1
+435,This in the red will put a of in the and on your before.,1
+436,"Put a of on your before, this in the red will put a of on your before.",0
+437,"of, this in the red will put a of on your before.",0
+438,bought a first of for $1000.,1
+439,became deadly afraid of flying.,1
+440,What promised is to be gentle.,1
+441,wants to buy which about?,1
+442,I will fix the for.,1
+443,loaned a valuable of to the.,1
+444,The is cut by.,1
+445,It was from six to nine or it took from six to nine.,1
+446,"Suddenly, there arrived two from the.",1
+447,"The cooks ,.",1
+448,I gave to the.,1
+449,asked.,1
+450,I saw even the.,1
+451,whispered left.,0
+452,Mary that will come.,0
+453,will theater.,0
+454,finished the and drank the.,1
+455,likes's.,0
+456,Each of the fought with some of the other.,1
+457,'s likes himself.,0
+458,revealed himself to.,0
+459,believes that saw himself.,1
+460,heard that they criticized themselves.,0
+461,Mary that she is smart.,1
+462,found that is sad.,1
+463,considers himself of.,1
+464,You should sit before there.,0
+465,There is a nurse available.,1
+466,hopes to sleep.,0
+467,hopes that he will sleep.,1
+468,"Only remembered giving the, and.",0
+469,to shave himself.,1
+470,convinced that should sleep.,1
+471,I saw while you did so.,0
+472,What did was give a.,0
+473,The sniffed,1
+474,to steal from is dangerous,1
+475,demonized,0
+476,You kicked,1
+477,The that I said that I'd never read.,1
+478,demonized up the,0
+479,It is not true that I might be going to the.,1
+480,you!,0
+481,persuaded the to treat,1
+482,Who did you get an accurate of?,1
+483,The we all like was at the,1
+484,The's of a.,1
+485,help us?,1
+486,You wanted to meet the I saw.,1
+487,demonized every,1
+488,There is a about on a 4?,1
+489,denied poisoning the.,1
+490,The was hidden in a in the,1
+491,"Extremely frantically, danced at",1
+492,What did you ask who gave?,0
+493,It's that I like,1
+494,tried the to poison her.,0
+495,I felt that I know you.,1
+496,Will he can do it?,1
+497,I ate that she was happy,0
+498,believed himself to be handsome.,1
+499,We arrived about six,1
+500,is having fought the.,0
+501,thought that himself was happy.,0
+502,Fortunately passed,1
+503,I might be not going to the but washing my,1
+504,I thought he liked myself,0
+505,The sent the to.,1
+506,happens to appear to seem to be sick.,1
+507,What did you ask who saw?,0
+508,We love to argue,1
+509,He can will go,0
+510,How fierce the?,0
+511,Which did you ask which invaded?,0
+512,It is some disgruntled old in those that love to eat.,1
+513,That is eating the.,1
+514,them!,1
+515,It stinks that is omnipotent.,1
+516,Agamemnon seems to be a,1
+517,Will come to the?,1
+518,I wondered who had poisoned.,1
+519,I inquired when could we leave.,0
+520,They kicked them,1
+521,The is ate the,0
+522,I would like to could swim,1
+523,I kicked myself,1
+524,The ran,0
+525,I shaved myself.,1
+526,became a.,1
+527,just left - who.,1
+528,"They claimed they had settled on, but it wasn't clear what they had settled on.",1
+529,"If was going, would know where.",1
+530,"They're going to serve the, but it's unclear what.",1
+531,She's reading . I can't imagine what.,1
+532,said saw from her graduating.,1
+533,but I don't know who.,0
+534,"She mailed a, but I don't know to whom.",0
+535,I served leek to my.,1
+536,I served my.,1
+537,"She was bathing, but I couldn't make out who.",0
+538,She knew French for.,0
+539,is tall on several.,0
+540,"The, but I don't know with what.",0
+541,"They noticed the, but I don't know for how long.",0
+542,"was tall, but I don't know on what.",0
+543,with but I don't know who.,1
+544,with but I don't know who with.,1
+545,"I know that's attracted to, but they don't know who.",0
+546,"Since said had invited, we didn't have to ask who.",0
+547,"I know that's attracted to, but they don't know who.",1
+548,"She said she had spoken to, but he wasn't sure who.",0
+549,"Each of the came in, but were sitting so far back that we couldn't see who.",0
+550,She didn't talk to one.,1
+551,"She doesn't meet for, but they can't figure out who.",0
+552,on . It's unclear who.,1
+553,"Each wrote a on a Mayan, but I don't remember which.",1
+554,"The has reported that they are about to appoint, but I can't remember who the has reported that they are about to appoint.",1
+555,"The has reported that they are about to appoint, but I can't remember who they are about to appoint.",1
+556,"Most claim that a senior has been briefing them, and the which one.",1
+557,"Most claim that a senior has been briefing them, but will reveal which.",1
+558,"wondered how many had read, but he didn't care which.",1
+559,"I never know which papers has read, but I usually know how many.",1
+560,had read how many?!,1
+561,"gets on with a certain relative, but often only his knows which one.",1
+562,Which did each?,1
+563,His or her least known.,1
+564,"They were going to meet sometime on, but the didn't know when.",1
+565,"likes some, but I don't know who.",1
+566,I don't know who likes.,1
+567,"likes some, but I don't know who likes some.",0
+568,"said she talked to the, but couldn't figure out who.",0
+569,"He announced he had eaten the, but we didn't know what.",0
+570,"She was reading the under the, but didn't know what.",1
+571,"He announced he would marry the he loved most, but of his could figure out who.",1
+572,She talked to or but I don't know which.,1
+573,She talked to or but I don't know which one.,1
+574,"She talked to, but I don't know who else.",1
+575,"I will see them, but I don't know how many of them.",1
+576,who knows either or likes her.,1
+577,She said she talked to three but I don't know how many.,0
+578,She said she talked to those but I don't know how many.,0
+579,"He shouted again, but I don't know who to.",1
+580,"She was dancing with, but I don't know who with.",1
+581,"Several were injured, but it's not known.",1
+582,"is attracted to, but they don't know who she is attracted to.",1
+583,"was trying to work out which would be able to solve a certain, but she wouldn't tell us which one.",1
+584,"was trying to work out which would be able to solve a certain, but she wouldn't tell us which one.",0
+585,"and were dancing together, but I don't know who.",0
+586,"The's have been arguing about whether some or other should pass, but I can't now remember which.",1
+587,It has been determined that will be appointed; it's just not clear yet who.,0
+588,"Sally asked if was going to fail, but I can't remember who.",0
+589,"The's have been arguing about whether some or other should pass, but I can't now remember which.",0
+590,"is very anxious to see if the will be able to solve the in a particular, but she won't tell us which.",1
+591,"is very anxious to see if the will be able to solve the in a particular, but she won't tell us in which.",1
+592,"is anxious to find out which would be willing to tackle in a certain, but he won't say in which.",1
+593,"is wondering whether there will be who have to drop the for a certain, but she won't reveal what.",1
+594,In which is very anxious to see if the will be able to solve the?,0
+595,In which is anxious to find out which would be willing to solve?,0
+596,"I know how many I've graded, but I don't know how many has.",1
+597,What did you leave before they did?,0
+598,What did you leave before they started playing?,0
+599,was trying to work out which would be able to solve a certain.,1
+600,The has issued a that it is willing to meet with one of the.,1
+601,was trying to work out which would be able to solve a.,1
+602,The has issued a that it is willing to meet a.,1
+603,"The has issued a that it is willing to meet a, but I'm not sure which.",1
+604,"I think said that would speak, but I don't remember what about.",1
+605,wondered how could eat but it's not clear what.,0
+606,"sent a that he painted, but it's not clear with what.",0
+607,She's been dancing but we don't know with whom.,1
+608,Who did they see?,0
+609,It was believed by that was a.,1
+610,That is feared by all.,1
+611,was respected by.,1
+612,was bitten by the.,1
+613,The was by written.,0
+614,The was summed by the up.,0
+615,The was written up by.,1
+616,The was written by up.,0
+617,was spoken to by.,1
+618,was spoken by to.,0
+619,The was seen by.,1
+620,was seen the.,0
+621,The was written.,1
+622,was spoke by to.,0
+623,The was wiped clean by.,1
+624,The was wiped by.,0
+625,was given by the.,0
+626,was believed to be telling the by.,1
+627,was believed by to be telling the.,1
+628,The was driven by to.,1
+629,It was believed by the that they would have an.,1
+630,The were sent to herself by.,0
+631,were hidden from each other by the.,0
+632,The were sent by to herself.,1
+633,were hidden from no by any.,1
+634,were kept on each by the other.,1
+635,were hidden from every by his.,1
+636,were taken from no and given to.,1
+637,were taken from no and given to by any.,0
+638,were taken from each by the other.,1
+639,were taken from each and given to.,1
+640,were taken from each and given to by the other.,0
+641,hates and is loved by.,1
+642,sent a to and a to.,1
+643,Either plays the or the.,1
+644,"doesn't play, nor.",1
+645,"ate the, but the.",0
+646,I no more could have stolen that than the.,1
+647,ate more than did.,1
+648,ate the and did the.,0
+649,"will smoke the, and has the.",0
+650,"If the were called and, I'd be able to squash an.",1
+651,"quickly dropped the, and the.",1
+652,"tried to wash himself, and to read the.",1
+653,"told that is a lovely for a, and told that is a lovely for a.",1
+654,"told that is a lovely for a, and.",1
+655,"seemed to be trying to begin to love, and to be trying to begin to love.",1
+656,"seemed to be trying to force to leave the, and ,.",1
+657,"seemed to be trying to force to leave the, and to stay a little longer.",0
+658,"elected, and ,.",0
+659,"will send the an obscene, and, the a rude.",0
+660,will give a brand-new to the of the.,0
+661,"didn't eat the, nor.",0
+662,"ate the, and did, too.",1
+663,"must quickly eat the, and must slowly.",0
+664,"Whenever has made a major political, the has too.",1
+665,'s about and's about both amazed me.,1
+666,I bought three of and two of.,1
+667,"at the of have succeeded in raising one with five, another with a's, and a third with no.",1
+668,"'s about may be amazing, but's is virtually incredible.",1
+669,"I like's yellow, but not's.",1
+670,'s funny about and's boring one about both amazed me.,1
+671,'s from and's from cannot be compared.,1
+672,"As a, you have to deal simultaneously with the's on you to succeed, and the's to be a nice.",0
+673,Neither's of's 6th on nor's on has the right.,1
+674,'s of on the doesn't please me anywhere as much as's on the.,0
+675,'s with one attacked's with three.,0
+676,"Because's of a's had been stolen, I borrowed's of a's.",0
+677,Neither's of's 6th on nor's has the right.,1
+678,'s with one attacked's.,1
+679,I borrowed's of a's because's had been stolen.,1
+680,attempted to blow up the.,1
+681,So fast did he run that could catch him.,1
+682,"bought a red, and bought one too.",1
+683,Who always drinks?,1
+684,The which inspired them was very long.,1
+685,The what inspired them was very long.,0
+686,I know the whose died.,1
+687,The whose's we were all of.,1
+688,I wonder whose died.,1
+689,I wonder whose's died.,1
+690,I wonder to whom they dedicated the.,1
+691,Give me the of the whose's died.,1
+692,This is the to whose's 's's I sent the.,1
+693,I want goes to the.,0
+694,I wonder what to be a on the of.,0
+695,you that left!,0
+696,A who to talk to us just walked in.,0
+697,do you like?,1
+698,I wonder in whom to place my.,1
+699,There were several old that she and I were the only two who knew.,1
+700,It was to to amuse us that was singing that they wanted.,0
+701,What they feared most was to be no available to help them.,0
+702,We tried to amuse them that was singing.,0
+703,"asked me if, in, could rent a.",1
+704,"arranged for, in, to rent a.",0
+705,It would be unwise for there to be no.,1
+706,I believe there to be no out.,1
+707,I wonder in whom them to place their.,0
+708,I wonder whom us to trust.,0
+709,I wonder who for us to trust.,0
+710,I wonder who to place my in.,1
+711,I know the that voted in the.,1
+712,I threw away a that thought we had read.,1
+713,I thought that you were sick.,1
+714,I dislike the in who we placed our.,0
+715,I dislike the in which we placed our.,1
+716,I dislike the in whose we stayed.,1
+717,I dislike the with whom we were talking.,1
+718,", that we were talking to last, always watches alone.",0
+719,A was received that would be upset by.,1
+720,A was received would be upset by.,0
+721,I saw I hadn't seen for.,1
+722,Something happened I couldn't really talk about.,1
+723,The only that I like whose is willing to put up with is.,1
+724,The that I like which else in the hates was written by.,1
+725,The only whose is willing to put up with was written by.,0
+726,The that I like - else in the hates.,0
+727,The only whose is willing to put up with is.,1
+728,"'s, did you meet?",1
+729,"'s, , did you meet who you liked?",0
+730,"'s, did you meet who you liked?",0
+731,"'s, , did you meet?",1
+732,All who lost in the are eligible for the.,1
+733,Who for to talk to is still enrolled in the?,0
+734,Who who you like does also like?,1
+735,you like is on the.,1
+736,The passed by the that we objected to were.,1
+737,The only being added to our who were at were.,1
+738,We like ourselves.,1
+739,likes us.,1
+740,likes ourselves.,0
+741,like.,0
+742,She voted for herself.,1
+743,We gave us.,0
+744,We gave ourselves.,1
+745,We gave to.,1
+746,We gave us to the.,0
+747,We gave ourselves to the.,1
+748,told us about us.,0
+749,told ourselves about us.,0
+750,We think that likes us.,1
+751,We think that likes ourselves.,0
+752,Our like us.,1
+753,Those of us offended us.,1
+754,We found your to in the.,0
+755,for you!,0
+756,for yourself!,1
+757,We appeared to them to vote for themselves.,0
+758,We admired the of us in the.,1
+759,We admired the of in the.,1
+760,used a.,1
+761,We put the in a.,1
+762,We need to pen the to keep them from getting into the.,1
+763,They should pen the quickly.,1
+764,The won't run.,1
+765,This will run.,1
+766,She can run an.,1
+767,These will run.,1
+768,We need another to win.,1
+769,saw the with a.,1
+770,I forgot how good.,1
+771,Visiting can be boring.,1
+772,If only would stop flying!,1
+773,That's a new.,1
+774,I know you like the of my.,1
+775,is on the now.,1
+776,I saw her.,1
+777,I'm creating a . you're in.,1
+778,go out at ten . There will be no talking.,1
+779,They found the on the.,1
+780,Which testified against who exposed them?,1
+781,all for the who represented himself.,1
+782,of each who speaks.,1
+783,They lost themselves'.,0
+784,Some go on and on and on.,1
+785,some go on and on and on and on.,0
+786,That surprised me.,1
+787,I noticed the.,0
+788,They were interested in his.,1
+789,This is my favorite.,1
+790,A large chased a small.,1
+791,Some yell at noisy in my.,1
+792,Some yell at the in my.,1
+793,Some yell at the.,1
+794,Some yell at noisy.,1
+795,Some yell at.,1
+796,Some consider the noisy dangerous.,1
+797,Some consider the in my dangerous.,1
+798,Some consider noisy in my dangerous.,1
+799,Some consider the dangerous.,1
+800,Some consider noisy dangerous.,1
+801,Some consider in my dangerous.,1
+802,Some consider dangerous.,1
+803,with who use should be locked up.,1
+804,This gave a in.,1
+805,The of my and of my would never do such a.,1
+806,"Most are quickly forgotten, but the of 2000, will remember for a long.",1
+807,It is painting by or drawing by that the displays no.,0
+808,The denied the.,1
+809,The disappeared the.,0
+810,The handed the.,0
+811,The.,1
+812,The.,0
+813,.,0
+814,The give the a.,1
+815,The give the a.,0
+816,The gives the a.,0
+817,delighted in my.,1
+818,delighted.,0
+819,delighted my.,0
+820,remarked it was late.,1
+821,What additional and would be required to handle these?,1
+822,We created a.,1
+823,I was already aware of.,0
+824,The deny the.,0
+825,The denies the.,0
+826,The.,1
+827,The.,0
+828,The.,0
+829,How many can label the first?,1
+830,The put the on the.,1
+831,The became angry with the.,1
+832,The became.,0
+833,The believed the lied.,1
+834,The dined.,1
+835,We relied on.,1
+836,We relied above.,0
+837,We celebrated in the.,1
+838,We celebrated in the in the on in the.,1
+839,The are happy of.,0
+840,The are with the.,0
+841,The are that they have ice.,0
+842,A appeared on the.,1
+843,A about appeared on the.,1
+844,Newsweek appeared on the.,1
+845,about appeared on the.,0
+846,The that was declining surprised many.,1
+847,The surprised many.,1
+848,The that was declining surprised many.,0
+849,The arrived after the.,1
+850,The arrived while the.,0
+851,The arrived while we ate.,1
+852,This barked.,0
+853,These barked.,1
+854,A was broken.,1
+855,They want them arrested.,1
+856,They preferred them arrested.,1
+857,We preferred them on our.,1
+858,"With my as supportive as they are, I'll be in fine.",1
+859,We.,0
+860,Few barked.,0
+861,The barked.,1
+862,I walk and runs.,1
+863,They like us.,1
+864,like them.,0
+865,likes.,1
+866,like.,1
+867,The responsible confessed.,1
+868,The confessed responsible.,0
+869,The slept soundly and.,0
+870,The soundly and furry.,0
+871,", eats, and plays.",1
+872,There was some particular who saved every.,1
+873,frightens her.,1
+874,told her a.,1
+875,told a to her.,1
+876,devoted herself to.,1
+877,told about herself.,1
+878,That of offended her.,1
+879,He offended.,1
+880,I enjoy yourself.,0
+881,They talk to themselves.,1
+882,told.,1
+883,Protect yourself!,1
+884,you!,0
+885,I met the who left.,1
+886,.,1
+887,handed.,0
+888,walked and.,1
+889,and.,0
+890,and.,0
+891,the of left.,0
+892,donated a to the.,1
+893,The sprayed the with.,1
+894,The sprayed on the.,1
+895,The drove.,1
+896,These drive easily.,1
+897,The kicked me black and blue.,1
+898,They yelled.,1
+899,The raced past the fell.,1
+900,The that was raced past the fell.,1
+901,The seen down the.,1
+902,The assembled by the convinced the.,1
+903,forgot the.,1
+904,forgot the in the.,1
+905,hoped the was broken.,1
+906,hoped the in the.,0
+907,put the was broken.,0
+908,put the in the.,1
+909,The drew the with a.,1
+910,The bit the.,1
+911,The was bitten the.,0
+912,The was bitten the by the.,0
+913,was handed a by.,0
+914,was handed a.,1
+915,was handed a.,0
+916,puts dumb in's.,1
+917,are put in's by.,1
+918,are put in's.,1
+919,are put in's by.,0
+920,The died.,1
+921,The was died.,0
+922,was handed.,0
+923,puts dumb.,0
+924,He was arrested by the.,1
+925,The got bitten.,1
+926,The were bitten by the.,0
+927,There is a in.,1
+928,It is obvious that is lying.,1
+929,is the of the.,1
+930,is hate.,0
+931,There is a unicorn in the.,1
+932,There was a elected to the.,1
+933,There is a available.,1
+934,A available was in the last.,0
+935,Many were of.,1
+936,are looking through the.,1
+937,A was elected to the.,1
+938,There loved.,0
+939,We talked to them about there.,0
+940,It mattered that the had lost.,1
+941,That dogs bark annoys.,1
+942,It annoys that.,1
+943,That knew the occurred to.,1
+944,It never occurred to Pat that knew the.,1
+945,That the won the gave a.,1
+946,It gave a that the won the.,1
+947,That had lied suggested.,0
+948,It loved.,0
+949,proved the of the.,1
+950,proved that the was independent.,1
+951,We forgot our.,1
+952,saw.,1
+953,That barks annoys me.,1
+954,.,1
+955,dreads the.,1
+956,The bring to the.,1
+957,are kept on suspected by the.,1
+958,is taken of every for.,1
+959,The was kicked by.,1
+960,is sad.,1
+961,loaded the full with.,1
+962,loaded the with.,0
+963,I presented with it dead.,0
+964,Of whom are you thinking?,1
+965,became rich.,1
+966,I gave.,1
+967,how silly is considered?,1
+968,how was made?,1
+969,is sick.,1
+970,left.,1
+971,is near.,1
+972,gave the.,1
+973,was struck by as stupid.,0
+974,was struck as.,0
+975,was struck by's.,1
+976,promised to leave.,1
+977,tried to leave.,1
+978,To leave would be a.,1
+979,was struck by as pompous.,0
+980,was promised by to leave.,0
+981,They make good.,1
+982,there is to do.,1
+983,has for to do.,1
+984,I am counting on to incriminate himself.,1
+985,On whom are you counting to incriminate himself?,1
+986,I am counting on to get there on.,1
+987,I would prefer to leave.,1
+988,I would hate for to leave.,1
+989,I would prefer for to leave.,1
+990,It was hated for to leave.,0
+991,decided for to get the.,0
+992,decided to get the.,0
+993,to die is no.,1
+994,wants to leave.,1
+995,counted on to get there on.,1
+996,I bought a to read.,1
+997,told that it would be important to leave early.,1
+998,told that it was important to to leave early.,1
+999,", told that it would be appropriate to leave together.",1
+1000,the of surprised me.,0
+1001,'s arriving dead surprised me.,1
+1002,the by to leave surprised me.,1
+1003,left to follow.,1
+1004,left us to follow.,1
+1005,left not to be disturbed.,1
+1006,That he is here is clear.,1
+1007,It is a that he is here.,1
+1008,It bothers me that he is here.,1
+1009,regretted it that had a good.,1
+1010,believes it that is here.,0
+1011,believes it sincerely that is here.,0
+1012,is aware of it that is here.,0
+1013,felt it that was tardy.,0
+1014,believed it that was tardy.,0
+1015,It was believed that was tardy.,1
+1016,That is reluctant seems.,0
+1017,It is the that he is here.,0
+1018,That he is here is the.,1
+1019,The we are discussing is.,1
+1020,It is to give up to leave.,0
+1021,It would prove our to be untenable for to be.,1
+1022,It was believed to be illegal by them to do that.,0
+1023,grudgingly accepted of his as an.,1
+1024,It was to that I gave the.,1
+1025,I bought it to read.,1
+1026,I bought it to give to.,1
+1027,I gave it to to take to the.,1
+1028,I gave the to impress.,0
+1029,I wrote to.,1
+1030,I presented it to to read.,1
+1031,I presented with it to read.,0
+1032,I gave a to to read.,1
+1033,thinks it would upset himself to die.,1
+1034,made mad at himself.,1
+1035,made of himself.,1
+1036,The made a good.,1
+1037,The sent a good.,1
+1038,silly.,1
+1039,to be silly.,1
+1040,bought a for himself to play with.,0
+1041,arranged for himself to get the.,1
+1042,talked to Bill about himself.,1
