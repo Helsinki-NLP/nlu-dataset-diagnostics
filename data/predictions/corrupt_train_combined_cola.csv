@@ -1,0 +1,1044 @@
+,Unnamed: 0,idx,label,sentence,prediction
+0,0,0,acceptable,The sailors rode the breeze clear of the rocks.,acceptable
+1,1,1,acceptable,The weights made the rope stretch over the pulley.,acceptable
+2,2,2,acceptable,The mechanical doll wriggled itself loose.,acceptable
+3,3,3,acceptable,"If you had eaten more, you would want less.",acceptable
+4,4,4,unacceptable,"As you eat the most, you want the least.",acceptable
+5,5,5,unacceptable,"The more you would want, the less you would eat.",acceptable
+6,6,6,unacceptable,"I demand that the more John eat, the more he pays.",acceptable
+7,7,7,acceptable,"Mary listens to the Grateful Dead, she gets depressed.",acceptable
+8,8,8,acceptable,"The angrier Mary got, the more she looked at pictures.",acceptable
+9,9,9,acceptable,"The higher the stakes, the lower his expectations are.",acceptable
+10,10,10,acceptable,"The more Fred is obnoxious, the less attention you should pay to him.",acceptable
+11,11,11,acceptable,John was lots more obnoxious than Fred.,acceptable
+12,12,12,acceptable,"The more people you give beer to, the more people get sick.",unacceptable
+13,13,13,unacceptable,"The more does Bill smoke, the more Susan hates him.",acceptable
+14,14,14,acceptable,"The more pictures of him that appear in the news, the more embarrassed John becomes.",acceptable
+15,15,15,acceptable,"Every senator seems to become more corrupt, as he talks to more lobbyists.",acceptable
+16,16,16,unacceptable,Who does John visit Sally because he likes?,unacceptable
+17,17,17,acceptable,Marianne did not leave.,acceptable
+18,18,18,acceptable,He could not] have been working.,unacceptable
+19,19,19,acceptable,He can not have been working.,unacceptable
+20,20,20,acceptable,You will believe Bob.,acceptable
+21,21,21,acceptable,John has not kissed Mary.,acceptable
+22,22,22,acceptable,I said that never in my life had I seen a place like Bangor.,unacceptable
+23,23,23,unacceptable,Mickey looked up it.,acceptable
+24,24,24,acceptable,There tended to be a lot of discussion.,acceptable
+25,25,25,acceptable,John tried to be a good boy.,acceptable
+26,26,26,acceptable,John is eager.,acceptable
+27,27,27,acceptable,We want John to win.,acceptable
+28,28,28,unacceptable,The box contained the ball from the tree.,acceptable
+29,29,29,unacceptable,The tube was escaped by gas.,acceptable
+30,30,30,acceptable,Water bubbled up out of the kettle.,unacceptable
+31,31,31,acceptable,The tub leaked water.,acceptable
+32,32,32,unacceptable,What the water did to the bottle was fill it.,acceptable
+33,33,33,unacceptable,What the water did to the whole bottle was fill it.,acceptable
+34,34,34,acceptable,The tank leaked the fluid free.,unacceptable
+35,35,35,acceptable,John lay the ball in the box.,unacceptable
+36,36,36,acceptable,John owns the book.,acceptable
+37,37,37,acceptable,We persuaded Mary to leave and Sue to stay.,unacceptable
+38,38,38,acceptable,"Most people probably consider, even though the courts didn't actually find, Klaus guilty of murder.",unacceptable
+39,39,39,unacceptable,Mary beautifully plays the violin.,acceptable
+40,40,40,acceptable,"Clearly, John probably will immediately learn French perfectly.",unacceptable
+41,41,41,unacceptable,Sue gave to Bill a book.,acceptable
+42,42,42,acceptable,The men will all leave.,acceptable
+43,43,43,acceptable,John went home.,unacceptable
+44,44,44,unacceptable,They represented seriously to the dean Mary as a genuine linguist.,acceptable
+45,45,45,unacceptable,Us love they.,acceptable
+46,46,46,acceptable,It is nice to go abroad.,acceptable
+47,47,47,unacceptable,Mary intended John to go abroad.,acceptable
+48,48,48,acceptable,I remembered having kissed Mary.,acceptable
+49,49,49,acceptable,"I can't believe Fred won't, either.",acceptable
+50,50,50,acceptable,"John wants to read Fred's story, and I also want to.",acceptable
+51,51,51,unacceptable,"We wanted to invite someone, but we couldn't decide who to.",acceptable
+52,52,52,acceptable,"Mary will read Fred's story, and Joe will read Holly's.",acceptable
+53,53,53,acceptable,"Mary claimed that eating cabbage, Holly shouldn't.",acceptable
+54,54,54,unacceptable,Mary came to be introduced by the bartender and I also came to be.,unacceptable
+55,55,55,acceptable,"If I can, I will work on it.",unacceptable
+56,56,56,acceptable,"Joe's neuroses bother his patrons, and Sally does too.",acceptable
+57,57,57,unacceptable,"I know which book José didn't read for class, and which book Lilly did it for him.",unacceptable
+58,58,58,unacceptable,"This is the book which Bob reviewed, and this is the one which Fred won't do it.",acceptable
+59,59,59,acceptable,"I know which book Mag read, and which book Bob said that you hadn't.",acceptable
+60,60,60,unacceptable,"I know which book Mag read, and which book Bob read my report that you hadn't.",unacceptable
+61,61,61,acceptable,I'm sure I would like him to eat fruit more than I would cookies.,acceptable
+62,62,62,acceptable,Rusty talked about himself only after Mary did talk about him.,acceptable
+63,63,63,acceptable,Fred talked about everything before Rusty did talk about something.,unacceptable
+64,64,64,acceptable,John often meets Mary.,acceptable
+65,65,65,unacceptable,The problem perceives easily.,acceptable
+66,66,66,acceptable,A hundred men surrounded the fort.,acceptable
+67,67,67,acceptable,We elected me.,acceptable
+68,68,68,unacceptable,Which report that John was incompetent did he submit?,acceptable
+69,69,69,acceptable,Mary has always preferred lemons to limes.,acceptable
+70,70,70,acceptable,He let the cats which were whining out.,acceptable
+71,71,71,acceptable,What did Bill buy?,acceptable
+72,72,72,acceptable,Mary saw the boy walking toward the railroad station.,unacceptable
+73,73,73,unacceptable,A proof that the claim had been. made was giver that John had lied.,acceptable
+74,74,74,acceptable,He attributed to a short circuit which was caused by an overloaded transducer the fire which destroyed most of my factory.,acceptable
+75,75,75,unacceptable,The mayor regarded as being absurd the proposal to build a sidewalk from Dartmouth to Smith.,acceptable
+76,76,76,unacceptable,I want that Bill left to remain a secret.,acceptable
+77,77,77,unacceptable,I know a man who Tom drives as drives.,acceptable
+78,78,78,unacceptable,"Drowning cats, which is against the law, are hard to rescue.",acceptable
+79,79,79,acceptable,Muriel said nothing else than that she had been insulted.,acceptable
+80,80,80,unacceptable,Himself is understood by Rutherford.,acceptable
+81,81,81,acceptable,I feel that Arch will show up.,unacceptable
+82,82,82,unacceptable,The proof this set is recursive is difficult.,acceptable
+83,83,83,unacceptable,The madrigals which Henry plays the lute and sings sound lousy.,acceptable
+84,84,84,acceptable,"Tom picked these grapes, and I washed some turnips, and Suzie will prepare these grapes.",acceptable
+85,85,85,acceptable,Where did you go and who ate what?,acceptable
+86,86,86,unacceptable,Which boy's did we elect guardian's employer president?,acceptable
+87,87,87,acceptable,How sane is Peter?,acceptable
+88,88,88,acceptable,I live at the place where Route 150 crosses the River and my dad lives at the place where Route 150 crosses the Hudson River too.,acceptable
+89,89,89,unacceptable,I live at the place where Route 150 crosses the Hudson River and my dad lives at it too.,acceptable
+90,90,90,acceptable,Who is she trying to make up to now?,acceptable
+91,91,91,unacceptable,Wind was gotten of a plot to negotiate an honorable end to the war in Vietnam.,acceptable
+92,92,92,acceptable,Mike talked about politics yesterday to my friends.,acceptable
+93,93,93,acceptable,It was expected by the reporters that the principal would fire some teacher.,acceptable
+94,94,94,unacceptable,Which hat did Mike quip that she never wore?,acceptable
+95,95,95,unacceptable,Which girl did Mike quip never wore this hat?,acceptable
+96,96,96,acceptable,We donated wire for the convicts to build cages with.,acceptable
+97,97,97,unacceptable,I won't have some money.,acceptable
+98,98,98,acceptable,Do you believe the claim that somebody was looking for something?,acceptable
+99,99,99,acceptable,I won't ask you to believe that he tried to force me to give her any money.,acceptable
+100,100,100,acceptable,That Sam sometimes didn't sleep must have pleased somebody.,unacceptable
+101,101,101,acceptable,I talked to Winston about himself.,acceptable
+102,102,102,acceptable,"That the fuzz wanted him worried John, but that the fuzz wanted her didn't worry Mary.",acceptable
+103,103,103,acceptable,I'll work on it if Sam will be working on it.,acceptable
+104,104,104,acceptable,I'll work on it if I can.,unacceptable
+105,105,105,unacceptable,Here's a knife with which for you to cut up the onions.,acceptable
+106,106,106,acceptable,"Fluffy is sick, which not everybody knows.",acceptable
+107,107,107,acceptable,Maxwell is quite a doctor.,acceptable
+108,108,108,unacceptable,"The younger woman might have been tall and, and the older one definitely was, blond.",acceptable
+109,109,109,acceptable,"Sally is tall, and may be blond, and Sheila is short, and definitely is, blond.",acceptable
+110,110,110,acceptable,I have to try to finish grading some papers.,acceptable
+111,111,111,unacceptable,The socks are ready for for you to put on to be planned.,acceptable
+112,112,112,acceptable,It is easy to play sonatas on this violin.,acceptable
+113,113,113,acceptable,This violin is difficult to play sonatas on.,acceptable
+114,114,114,unacceptable,My mother is easy to please my father and.,acceptable
+115,115,115,acceptable,"Poor Bill, it had started to rain and he had no umbrella.",unacceptable
+116,116,116,unacceptable,"That the cops spoke to the janitor about it yesterday is terrible, that robbery.",acceptable
+117,117,117,unacceptable,"Every student, and he wears socks, is a swinger.",unacceptable
+118,118,118,acceptable,That girl was given my binoculars by him.,acceptable
+119,119,119,acceptable,Bill didn't allege that Roger had eaten anything.,acceptable
+120,120,120,acceptable,Nobody who hates to eat anything should work in a delicatessen.,acceptable
+121,121,121,acceptable,Everybody around here who ever buys anything on credit talks in his sleep.,unacceptable
+122,122,122,unacceptable,I can't remember the name of somebody who had misgivings.,acceptable
+123,123,123,unacceptable,"No writer, and no playwright, meets in Vienna.",unacceptable
+124,124,124,unacceptable,"No writer, nor any playwright, meets in Vienna.",acceptable
+125,125,125,acceptable,That you will marry any student is not certain.,acceptable
+126,126,126,acceptable,Felicia kicked the ball off the bench.,unacceptable
+127,127,127,acceptable,I sent the package halfway around the world.,acceptable
+128,128,128,unacceptable,Sam gave the ball out of the basket.,acceptable
+129,129,129,unacceptable,Sam offered the ball out of the basket.,acceptable
+130,130,130,acceptable,Park Square has a festive air.,unacceptable
+131,131,131,acceptable,The worker will have a job.,acceptable
+132,132,132,unacceptable,No one can forgive that comment to you.,acceptable
+133,133,133,acceptable,"We launched the rocket to the moon, but it blew up before it got there.",acceptable
+134,134,134,acceptable,"Sarah promised Catherine her old car, but then gave it to her son instead.",acceptable
+135,135,135,unacceptable,I lent the book partway to Tony.,acceptable
+136,136,136,acceptable,The farmer loaded the cart with apples.,acceptable
+137,137,137,unacceptable,The farmer dumped the cart with apples.,acceptable
+138,138,138,acceptable,Martha carved the baby a toy out of wood.,unacceptable
+139,139,139,acceptable,The bread cuts easily.,unacceptable
+140,140,140,unacceptable,Janet broke Bill on the finger.,acceptable
+141,141,141,acceptable,Janet broke the cup.,acceptable
+142,142,142,acceptable,The visitor rang the bell.,acceptable
+143,143,143,acceptable,We pulled free.,acceptable
+144,144,144,acceptable,That movie always shocks people.,acceptable
+145,145,145,acceptable,That movie always shocks.,acceptable
+146,146,146,unacceptable,Sharon came the room.,acceptable
+147,147,147,acceptable,Bill sent a package to Tom.,acceptable
+148,148,148,acceptable,That acorn will grow into an oak tree.,acceptable
+149,149,149,acceptable,He turned into a frog.,acceptable
+150,150,150,acceptable,I mixed the sugar into the butter.,acceptable
+151,151,151,unacceptable,Brian threw the fence with the stick.,acceptable
+152,152,152,acceptable,Mira condemned Terry for the accident.,acceptable
+153,153,153,acceptable,We investigated the area for bombs.,acceptable
+154,154,154,acceptable,I sensed his eagerness.,acceptable
+155,155,155,unacceptable,They praised the dedication in the volunteers.,acceptable
+156,156,156,acceptable,The earth was believed to be round.,unacceptable
+157,157,157,acceptable,Sarah smiled a charming smile.,unacceptable
+158,158,158,acceptable,Sandra beamed a cheerful welcome.,unacceptable
+159,159,159,acceptable,You've really lived it up.,acceptable
+160,160,160,unacceptable,Paperback books lift onto the table easily.,acceptable
+161,161,161,unacceptable,The books lifted onto the table.,acceptable
+162,162,162,acceptable,Jessica loaded boxes under the wagon.,acceptable
+163,163,163,acceptable,Jessica loaded boxes on the wagon.,acceptable
+164,164,164,unacceptable,Jessica crammed boxes at the truck.,acceptable
+165,165,165,unacceptable,Lora buttered at the toast.,unacceptable
+166,166,166,acceptable,Carla shoveled the walk.,unacceptable
+167,167,167,acceptable,Nora sent the book.,acceptable
+168,168,168,acceptable,Nora sent Peter the book.,acceptable
+169,169,169,acceptable,Carla slid the book.,acceptable
+170,170,170,unacceptable,Carla slid at the book.,acceptable
+171,171,171,acceptable,Amanda carried the package to Pamela.,acceptable
+172,172,172,unacceptable,Packages drive easily to New York.,acceptable
+173,173,173,unacceptable,The chair pushed.,acceptable
+174,174,174,acceptable,We offered a job to her.,acceptable
+175,175,175,unacceptable,A job offered.,acceptable
+176,176,176,acceptable,Brown presented a plaque to Jones.,acceptable
+177,177,177,acceptable,Carmen bought Mary a dress.,acceptable
+178,178,178,acceptable,Carmen obtained the spare part at the hardware store.,acceptable
+179,179,179,unacceptable,Michelle kept the desk with the papers.,acceptable
+180,180,180,acceptable,Frances hid the presents in the drawer.,acceptable
+181,181,181,acceptable,The needle poked the cloth.,acceptable
+182,182,182,acceptable,Carrie touched that cat.,unacceptable
+183,183,183,unacceptable,Herman whipped the sugar and the cream.,acceptable
+184,184,184,acceptable,Linda taped the picture to the wall.,unacceptable
+185,185,185,acceptable,Linda taped the picture onto the wall.,acceptable
+186,186,186,acceptable,The child and her mother clung together.,acceptable
+187,187,187,acceptable,This flyer and that flyer differ.,unacceptable
+188,188,188,unacceptable,This flyer and that flyer differ apart.,acceptable
+189,189,189,unacceptable,The jeweller scribbled the contract with his name.,acceptable
+190,190,190,acceptable,The gardener grew that acorn into an oak tree.,acceptable
+191,191,191,unacceptable,I shaped a loaf.,unacceptable
+192,192,192,unacceptable,The children amused.,unacceptable
+193,193,193,acceptable,Susan whispered the news.,acceptable
+194,194,194,acceptable,Susan whispered at Rachel.,unacceptable
+195,195,195,acceptable,Ellen said that melons were selling well.,acceptable
+196,196,196,unacceptable,Ellen said about the present conditions.,acceptable
+197,197,197,acceptable,Ellen warned Helen against skating on thin ice.,acceptable
+198,198,198,acceptable,Cynthia nibbled on the carrot .,acceptable
+199,199,199,unacceptable,Cynthia chewed.,unacceptable
+200,200,200,acceptable,Paul laughed at Mary.,acceptable
+201,201,201,unacceptable,Linda winked her lip.,unacceptable
+202,202,202,unacceptable,My heart is pounding me.,unacceptable
+203,203,203,acceptable,Sharon fainted from hunger.,acceptable
+204,204,204,acceptable,The witch poisoned the children.,acceptable
+205,205,205,acceptable,A grandfather clock ticked in the hallway.,acceptable
+206,206,206,unacceptable,I squeaked the door.,acceptable
+207,207,207,acceptable,Over the fire there bubbled a fragrant stew.,acceptable
+208,208,208,acceptable,Soaring temperatures are predicted for this weekend.,acceptable
+209,209,209,unacceptable,The fort fluttered with many flags.,acceptable
+210,210,210,acceptable,The voices echoed in the hall.,acceptable
+211,211,211,acceptable,The stream twists through the valley.,acceptable
+212,212,212,unacceptable,There presented itself a wonderful opportunity yesterday.,acceptable
+213,213,213,acceptable,A wonderful opportunity presented itself to him yesterday.,acceptable
+214,214,214,acceptable,Out of the box jumped a little white rabbit.,acceptable
+215,215,215,acceptable,Penny skated around the rink.,acceptable
+216,216,216,acceptable,Jackie accompanied Rose.,acceptable
+217,217,217,unacceptable,many information was provided.,acceptable
+218,218,218,unacceptable,John offers many advice.,acceptable
+219,219,219,acceptable,The cake that Jones got was more delicious than the one that Smith got.,unacceptable
+220,220,220,acceptable,We recommend to eat less cake and pastry.,acceptable
+221,221,221,acceptable,I saw that gas can explode.,acceptable
+222,222,222,acceptable,He washed her.,acceptable
+223,223,223,unacceptable,Wash you!,acceptable
+224,224,224,unacceptable,They have no in.,acceptable
+225,225,225,unacceptable,Some my jobs are in jeopardy.,acceptable
+226,226,226,unacceptable,It was the policeman met that several young students in the park last night.,unacceptable
+227,227,227,acceptable,did the policeman meet in the park?,acceptable
+228,228,228,acceptable,John put old books in the box.,unacceptable
+229,229,229,unacceptable,The monkeys proud of their leader.,acceptable
+230,230,230,unacceptable,John sounded very.,acceptable
+231,231,231,acceptable,I don't know if I should agree.,acceptable
+232,232,232,acceptable,John bought a book on the table.,acceptable
+233,233,233,acceptable,John called the president a fool.,acceptable
+234,234,234,acceptable,I forgot how good beer tastes.,acceptable
+235,235,235,acceptable,This teacher is a genius.,acceptable
+236,236,236,unacceptable,A good friend is remained to me by him.,unacceptable
+237,237,237,acceptable,John ate his noodle quietly.,acceptable
+238,238,238,acceptable,A smith hammered the metal.,acceptable
+239,239,239,acceptable,Sandy removed her ballet shoes.,acceptable
+240,240,240,acceptable,This week will be a difficult one for us.,acceptable
+241,241,241,acceptable,Benny worked in a shoe factory when he was a student.,acceptable
+242,242,242,acceptable,Everyone hoped that she would sing.,acceptable
+243,243,243,acceptable,This proved a decisive factor.,acceptable
+244,244,244,acceptable,The crocodile devoured the doughnut.,acceptable
+245,245,245,acceptable,John is afraid of Bill.,acceptable
+246,246,246,unacceptable,John put under the bathtub.,acceptable
+247,247,247,acceptable,John placed Kim behind the garage.,acceptable
+248,248,248,unacceptable,Kim depends for Sandy.,acceptable
+249,249,249,acceptable,John put the book in the box.,acceptable
+250,250,250,acceptable,John taught English Syntax to new students.,acceptable
+251,251,251,acceptable,John regards Bill as a good friend.,acceptable
+252,252,252,unacceptable,Kim put in the box.,acceptable
+253,253,253,acceptable,The chickens seem fond of the farmer.,acceptable
+254,254,254,acceptable,The rules require that the executives be polite.,acceptable
+255,255,255,unacceptable,That Fred was unpopular nominated Bill.,acceptable
+256,256,256,acceptable,They were taking a hard look at possible FTA.,acceptable
+257,257,257,unacceptable,John paid me against the book.,acceptable
+258,258,258,acceptable,The committee will study the feasibility of setting up a national computer network.,acceptable
+259,259,259,acceptable,We made them be rude.,acceptable
+260,260,260,acceptable,"After reading the pamphlet, Judy threw it into the garbage can.",acceptable
+261,261,261,unacceptable,Students studying English reads Conrad's Heart of Darkness while at university.,acceptable
+262,262,262,acceptable,I read some of the book.,acceptable
+263,263,263,acceptable,Most of the fruit is rotten.,acceptable
+264,264,264,unacceptable,Neither of students failed.,acceptable
+265,265,265,unacceptable,I drank some of water.,acceptable
+266,266,266,acceptable,It is a golden hair.,acceptable
+267,267,267,acceptable,The boy in the doorway waved to his father.,acceptable
+268,268,268,acceptable,"That dog is so ferocious, it even tried to bite itself.",acceptable
+269,269,269,unacceptable,He washed yourself.,acceptable
+270,270,270,unacceptable,John is easy to please Kim.,acceptable
+271,271,271,unacceptable,There seemed to be intelligent.,acceptable
+272,272,272,acceptable,John tried to please Stephen.,unacceptable
+273,273,273,unacceptable,We believed John to be a fountain in the park.,acceptable
+274,274,274,unacceptable,It tries to leave the country.,acceptable
+275,275,275,acceptable,John tries to leave the country.,acceptable
+276,276,276,acceptable,Under the bed seems to be a fun place to hide.,acceptable
+277,277,277,unacceptable,There is believed to be sheep in the park.,acceptable
+278,278,278,unacceptable,I hope to would study in France.,acceptable
+279,279,279,acceptable,John can kick the ball.,unacceptable
+280,280,280,unacceptable,John will rain tomorrow.,acceptable
+281,281,281,unacceptable,We expect there to will rain.,unacceptable
+282,282,282,acceptable,John was found in the office.,acceptable
+283,283,283,unacceptable,Did the child be in the school?,acceptable
+284,284,284,acceptable,It did not rain.,acceptable
+285,285,285,acceptable,John wants not to leave the town.,unacceptable
+286,286,286,acceptable,"Mary likes to tour art galleries, but Bill hates to.",acceptable
+287,287,287,acceptable,They needn't take this exam.,acceptable
+288,288,288,acceptable,Ann may spend her vacation in Italy.,acceptable
+289,289,289,acceptable,"They love to play golf, but I do not.",acceptable
+290,290,290,acceptable,"George has spent a lot of money, hasn't he?",acceptable
+291,291,291,acceptable,"As a statesman, scarcely could he do anything worth mentioning.",acceptable
+292,292,292,acceptable,We never found any of the unicorns.,acceptable
+293,293,293,acceptable,One of Korea's most famous poets wrote these lines.,unacceptable
+294,294,294,acceptable,Somebody apparently struck the unidentified victim during the early morning hours.,unacceptable
+295,295,295,acceptable,The car was driven.,acceptable
+296,296,296,acceptable,Ricky can be relied on.,acceptable
+297,297,297,acceptable,The bed was slept in.,acceptable
+298,298,298,unacceptable,A pound was weighed by the book.,acceptable
+299,299,299,acceptable,Who do you think Tom saw?,acceptable
+300,300,300,acceptable,he had spent five thousand dollars.,acceptable
+301,301,301,unacceptable,Fed knows which politician her to vote for.,acceptable
+302,302,302,acceptable,How did you guess that he fixed the computer?,acceptable
+303,303,303,acceptable,The committee knows whose efforts to achieve peace the world should honor.,acceptable
+304,304,304,unacceptable,Which house does your friend live?,acceptable
+305,305,305,acceptable,the baker from whom I bought these bagels left.,acceptable
+306,306,306,acceptable,I found the place where we can relax.,acceptable
+307,307,307,unacceptable,Jack is the person with whom Jenny fell in love with.,acceptable
+308,308,308,acceptable,There is a bench to sit on.,acceptable
+309,309,309,acceptable,I met the man who grows peaches.,acceptable
+310,310,310,acceptable,Which topic did you choose without getting his approval?,acceptable
+311,311,311,unacceptable,Which topic did you get bored because Mary talked about?,acceptable
+312,312,312,acceptable,That is the reason why he resigned.,acceptable
+313,313,313,acceptable,It bothers me that John coughs.,acceptable
+314,314,314,acceptable,To please John is easy.,unacceptable
+315,315,315,acceptable,Kim is eager to please Tom.,unacceptable
+316,316,316,acceptable,That we invaded Iraq really bites.,unacceptable
+317,317,317,acceptable,It annoys me that Fido barks.,acceptable
+318,318,318,unacceptable,Who achieved the best result was Angela.,acceptable
+319,319,319,acceptable,It was the peasant girl who got it.,unacceptable
+320,320,320,acceptable,That kind of person is hard to find anyone to look after.,unacceptable
+321,321,321,acceptable,A sick owl doesn't hunt mice.,acceptable
+322,322,322,acceptable,Each candidate who has interest in semantics will be admitted to the department.,unacceptable
+323,323,323,acceptable,Each author whose contribution is written in any language other than English will provide a summary in English.,acceptable
+324,324,324,acceptable,I'm sure we even got these tickets!,acceptable
+325,325,325,acceptable,I'm even sure we got these tickets!,acceptable
+326,326,326,acceptable,It's not because I have any sympathy for urban guerillas that I helped him.,acceptable
+327,327,327,acceptable,It isn't because Sue said anything bad about me that I'm angry.,acceptable
+328,328,328,unacceptable,"That he was hungry, John whined.",acceptable
+329,329,329,unacceptable,1 gave Mary after the party a book.,acceptable
+330,330,330,unacceptable,"Because she's so pleasant, as for Mary I really like her.",acceptable
+331,331,331,acceptable,"Though he may hate those that criticize Carter, it doesn't matter.",acceptable
+332,332,332,acceptable,With no job would John be happy.,acceptable
+333,333,333,acceptable,I have much of the manuscript left to type.,acceptable
+334,334,334,acceptable,He's a more reliable man.,acceptable
+335,335,335,unacceptable,Any trouble is what I don't want.,acceptable
+336,336,336,acceptable,They may grow as high as bamboo.,acceptable
+337,337,337,acceptable,Some of them made as many errors as 20.,acceptable
+338,338,338,unacceptable,Sally kissed himself.,acceptable
+339,339,339,acceptable,Drew believes I think Rosie loves magazine ads.,acceptable
+340,340,340,acceptable,"Dave, Dan, Erin, Jaime, and Alina left.",acceptable
+341,341,341,acceptable,"Hopefully, we'll make it through the winter without snow.",acceptable
+342,342,342,unacceptable,Blue leather shows herself that Betsy is pretty.,acceptable
+343,343,343,acceptable,Gwen hit the baseball.,acceptable
+344,344,344,unacceptable,I hit that you knew the answer.,acceptable
+345,345,345,acceptable,I've lost my wallet or I've lost my mind.,acceptable
+346,346,346,acceptable,It was a brand new car that he bought.,acceptable
+347,347,347,acceptable,He likes cookies and he hates crumb cake.,acceptable
+348,348,348,acceptable,They chased the man with the car.,acceptable
+349,349,349,acceptable,I didn't have a red cent.,acceptable
+350,350,350,unacceptable,the book of poems and from Blackwell takes a very long time to read.,acceptable
+351,351,351,acceptable,the one with a red cover takes a very long time to read.,acceptable
+352,352,352,acceptable,John has a fear of dogs.,acceptable
+353,353,353,unacceptable,The building's the roof is leaking.,acceptable
+354,354,354,unacceptable,the panther's the coat is dark black.,acceptable
+355,355,355,acceptable,Colin asked if they could get a mortgage.,acceptable
+356,356,356,acceptable,The man I saw get into the cab robbed the bank.,acceptable
+357,357,357,acceptable,I know you eat asparagus.,acceptable
+358,358,358,acceptable,John's drum will always bother me.,acceptable
+359,359,359,acceptable,An evil thought struck Dave.,acceptable
+360,360,360,acceptable,In the classroom John put the book on the table.,acceptable
+361,361,361,acceptable,Phillip gave the medal to the soldier.,unacceptable
+362,362,362,unacceptable,Heidi thinks that Andy to eat salmon flavored candy bars.,acceptable
+363,363,363,acceptable,Heidi thinks that Andy should eat salmon flavored candy bars.,unacceptable
+364,364,364,acceptable,He danced.,acceptable
+365,365,365,unacceptable,Did Calvin his homework?,acceptable
+366,366,366,acceptable,Sylvia was slapping Jeff upside the head in martial arts class.,acceptable
+367,367,367,unacceptable,"If I am a rich man, I'd buy a diamond ring.",acceptable
+368,368,368,acceptable,"If he were a rich man, he'd buy a diamond ring.",acceptable
+369,369,369,acceptable,John is likely to leave.,acceptable
+370,370,370,acceptable,The manager laughed.,acceptable
+371,371,371,unacceptable,Was sunk.,acceptable
+372,372,372,acceptable,Who did you think kissed the gorilla?,acceptable
+373,373,373,acceptable,Have you seen my model airplane collection?,acceptable
+374,374,374,acceptable,It seems that Lucy was mugged.,acceptable
+375,375,375,acceptable,I ate a salad that was filled with lima beans.,acceptable
+376,376,376,acceptable,There were four men arriving at the station when I pulled up.,acceptable
+377,377,377,acceptable,Jean is reluctant to dance.,acceptable
+378,378,378,acceptable,I want her to dance.,acceptable
+379,379,379,acceptable,Jean persuaded Robert.,acceptable
+380,380,380,acceptable,Jean wants Bill to do the Macarena.,acceptable
+381,381,381,acceptable,The children admire their mother.,acceptable
+382,382,382,acceptable,Who has Peter talked with?,acceptable
+383,383,383,acceptable,Heidi likes her violin.,acceptable
+384,384,384,unacceptable,John thinks that Mary loves himself.,acceptable
+385,385,385,acceptable,Which pictures of himself does John like?,acceptable
+386,386,386,acceptable,Any owl hunts mice.,acceptable
+387,387,387,unacceptable,Any man didn't eat dinner.,acceptable
+388,388,388,acceptable,A pilot could be flying this plane.,acceptable
+389,389,389,acceptable,"Everybody who attended last week's huge rally, whoever they were, signed the petition.",unacceptable
+390,390,390,acceptable,Anybody who attended last week's huge rally signed the petition.,acceptable
+391,391,391,acceptable,"Any tiger has orange fur, marked with black stripes.",unacceptable
+392,392,392,acceptable,"Any albino tiger has orange fur, marked with black stripes.",unacceptable
+393,393,393,acceptable,You must pick any flower you see.,acceptable
+394,394,394,acceptable,Any pilot on duty today could be flying this plane.,acceptable
+395,395,395,unacceptable,"You may pick every flower, but leave a few for Mary.",acceptable
+396,396,396,acceptable,The Dodgers beat the Red Sox and were beaten by the Giants.,acceptable
+397,397,397,acceptable,In which car was the man seen?,acceptable
+398,398,398,acceptable,The man who Mary loves and Sally hates computed my tax.,acceptable
+399,399,399,unacceptable,The kennel which Mary made and Fido sleeps has been stolen.,acceptable
+400,400,400,acceptable,Tom said he would and Bill actually did eat a raw eggplant.,acceptable
+401,401,401,acceptable,The wealthy young man bought that piano for his secret fiancée.,acceptable
+402,402,402,acceptable,The dog stole the turkey.,unacceptable
+403,403,403,acceptable,a tall building.,acceptable
+404,404,404,acceptable,This building is tall.,acceptable
+405,405,405,acceptable,I like the book which you gave me.,acceptable
+406,406,406,acceptable,Captain Wentworth wrote a letter to Anne Elliott.,acceptable
+407,407,407,acceptable,She asked was Alison coming to the party.,acceptable
+408,408,408,acceptable,They realised that never had Sir Thomas been so offended.,acceptable
+409,409,409,acceptable,Fanny regretted having to talk to Aunt Norris.,acceptable
+410,410,410,acceptable,"Knowing the country well, he took a short cut.",acceptable
+411,411,411,acceptable,He left the train with somebody else's wallet in his pocket.,acceptable
+412,412,412,acceptable,Magnus went to Ireland.,acceptable
+413,413,413,acceptable,Who did John send the book?,acceptable
+414,414,414,acceptable,The idea dismayed the Prime Minister that the Dome was dull.,acceptable
+415,415,415,acceptable,Came right in he did without so much as a knock.,acceptable
+416,416,416,acceptable,Harriet admired Mr Knightley.,acceptable
+417,417,417,acceptable,The book is boring.,acceptable
+418,418,418,acceptable,Ethel wishes to ask you some awkward questions.,unacceptable
+419,419,419,acceptable,Emma made Harriet some food.,acceptable
+420,420,420,acceptable,The window was broken with a hammer.,acceptable
+421,421,421,acceptable,The fugitive lay motionless in order to avoid discovery.,acceptable
+422,422,422,acceptable,The guard marched the prisoners round the yard.,acceptable
+423,423,423,acceptable,Frank Churchill crossed the street.,acceptable
+424,424,424,acceptable,Emma and Harriet were attacked yesterday.,acceptable
+425,425,425,acceptable,Fiona might be here by 5 o'clock.,acceptable
+426,426,426,acceptable,I am both expecting to get the job and of the opinion that it is a desirable one.,acceptable
+427,427,427,acceptable,Pat was awarded the Golden Fleece Award and very upset about it.,acceptable
+428,428,428,unacceptable,Kim alienated cats and beating his dog.,acceptable
+429,429,429,acceptable,They knew that pictures of each other would be on sale.,unacceptable
+430,430,430,unacceptable,Which article did Terry file papers without reading?,acceptable
+431,431,431,acceptable,I want to try and buy some whiskey.,acceptable
+432,432,432,unacceptable,She goes and buying some whiskey.,acceptable
+433,433,433,unacceptable,Kim and Terry is happy.,unacceptable
+434,434,434,acceptable,Kim gave a dollar to Bobbie and a dime to Jean.,acceptable
+435,435,435,acceptable,This girl in the red coat will put a picture of Bill in the mailbox and on your desk before tomorrow.,acceptable
+436,436,436,unacceptable,"Put a picture of Bill on your desk before tomorrow, this girl in the red coat will put a picture of Bill on your desk before tomorrow.",acceptable
+437,437,437,unacceptable,"Picture of Bill, this girl in the red coat will put a picture of Bill on your desk before tomorrow.",acceptable
+438,438,438,acceptable,Ann bought a first edition of Richard III for $1000.,acceptable
+439,439,439,acceptable,John became deadly afraid of flying.,acceptable
+440,440,440,acceptable,What John promised is to be gentle.,acceptable
+441,441,441,acceptable,Henri wants to buy which books about cooking?,acceptable
+442,442,442,acceptable,I will fix the computer for Carol.,acceptable
+443,443,443,acceptable,Smith loaned a valuable collection of manuscripts to the library.,acceptable
+444,444,444,acceptable,The paper is cut by Mary.,unacceptable
+445,445,445,acceptable,It was from six to nine or it took place from six to nine.,acceptable
+446,446,446,acceptable,"Suddenly, there arrived two inspectors from the INS.",acceptable
+447,447,447,acceptable,"The soup cooks, thickens.",acceptable
+448,448,448,acceptable,I gave money to the charity.,acceptable
+449,449,449,acceptable,John asked.,acceptable
+450,450,450,acceptable,I saw even the student.,acceptable
+451,451,451,unacceptable,John whispered Mary left.,acceptable
+452,452,452,unacceptable,Mary wonders that Bill will come.,acceptable
+453,453,453,unacceptable,Sophie will theater.,acceptable
+454,454,454,acceptable,John finished the cake and drank the lemonade.,acceptable
+455,455,455,unacceptable,Herself likes Mary's mother.,acceptable
+456,456,456,acceptable,Each of the boys fought with some of the other boys.,acceptable
+457,457,457,unacceptable,John's mother likes himself.,acceptable
+458,458,458,unacceptable,Mary revealed himself to John.,acceptable
+459,459,459,acceptable,Mary believes that Bill saw himself.,unacceptable
+460,460,460,unacceptable,John heard that they criticized themselves.,acceptable
+461,461,461,acceptable,Mary thinks that she is smart.,acceptable
+462,462,462,acceptable,Henry found that Bill is sad.,unacceptable
+463,463,463,acceptable,John considers himself proud of Mary.,acceptable
+464,464,464,unacceptable,You should sit before there.,acceptable
+465,465,465,acceptable,There is a nurse available.,acceptable
+466,466,466,unacceptable,Everyone hopes everyone to sleep.,acceptable
+467,467,467,acceptable,Everyone hopes that he will sleep.,acceptable
+468,468,468,unacceptable,"Only Churchill remembered Churchill giving the Blood, Sweat and Tears speech.",acceptable
+469,469,469,acceptable,John promise Mary to shave himself.,acceptable
+470,470,470,acceptable,John convinced Bill that Mary should sleep.,acceptable
+471,471,471,unacceptable,I saw Bill while you did so Mary.,acceptable
+472,472,472,unacceptable,What Mary did Bill was give a book.,acceptable
+473,473,473,acceptable,The bears sniffed,unacceptable
+474,474,474,acceptable,to steal talismans from witches is dangerous,acceptable
+475,475,475,unacceptable,Anson demonized,unacceptable
+476,476,476,acceptable,You kicked yourselves,unacceptable
+477,477,477,acceptable,The book that I said that I'd never read.,unacceptable
+478,478,478,unacceptable,Anson demonized up the Khyber,acceptable
+479,479,479,acceptable,It is not true that I might be going to the party.,unacceptable
+480,480,480,unacceptable,Kick you!,acceptable
+481,481,481,acceptable,Jason persuaded the doctor to treat Medea,acceptable
+482,482,482,acceptable,Who did you get an accurate description of?,acceptable
+483,483,483,acceptable,The Peter we all like was at the party,acceptable
+484,484,484,acceptable,The government's imposition of a fine.,acceptable
+485,485,485,acceptable,Did Athena help us?,acceptable
+486,486,486,acceptable,You wanted to meet the man I saw.,acceptable
+487,487,487,acceptable,Anson demonized David every day,acceptable
+488,488,488,acceptable,There is a programme about Euripides on a Radio 4 tonight?,unacceptable
+489,489,489,acceptable,Medea denied poisoning the phoenix.,unacceptable
+490,490,490,acceptable,The elixir was hidden in a hole in the ground,acceptable
+491,491,491,acceptable,"Extremely frantically, Anson danced at Trade",acceptable
+492,492,492,unacceptable,What did you ask who Medea gave?,acceptable
+493,493,493,acceptable,It's Anson that I like,acceptable
+494,494,494,unacceptable,Medea tried the nurse to poison her children.,acceptable
+495,495,495,acceptable,I felt that I know you.,unacceptable
+496,496,496,acceptable,Will he can do it?,acceptable
+497,497,497,unacceptable,I ate that she was happy,acceptable
+498,498,498,acceptable,Anson believed himself to be handsome.,acceptable
+499,499,499,acceptable,We arrived about six o'clock,acceptable
+500,500,500,unacceptable,Gilgamesh is having fought the dragon.,acceptable
+501,501,501,unacceptable,Anson thought that himself was happy.,acceptable
+502,502,502,acceptable,Fortunately Hermione passed biology,acceptable
+503,503,503,acceptable,I might be not going to the party but washing my hair,acceptable
+504,504,504,unacceptable,I thought he liked myself,unacceptable
+505,505,505,acceptable,The butler sent the poison to Dinah.,acceptable
+506,506,506,acceptable,Jason happens to appear to seem to be sick.,acceptable
+507,507,507,unacceptable,What did you ask who saw?,acceptable
+508,508,508,acceptable,We linguists love to argue,unacceptable
+509,509,509,unacceptable,He can will go,acceptable
+510,510,510,unacceptable,How fierce the battle?,acceptable
+511,511,511,unacceptable,Which king did you ask which city invaded?,unacceptable
+512,512,512,acceptable,It is some disgruntled old pigs in those ditches that humans love to eat.,acceptable
+513,513,513,acceptable,That banana is eating the monkey.,acceptable
+514,514,514,acceptable,Burn them!,acceptable
+515,515,515,acceptable,It stinks that Aphrodite is omnipotent.,acceptable
+516,516,516,acceptable,Agamemnon seems to be a maniac,acceptable
+517,517,517,acceptable,Will Anson come to the party?,unacceptable
+518,518,518,acceptable,I wondered who Medea had poisoned.,acceptable
+519,519,519,unacceptable,I inquired when could we leave.,acceptable
+520,520,520,acceptable,They kicked them,acceptable
+521,521,521,unacceptable,The monkey is ate the banana,acceptable
+522,522,522,acceptable,I would like to could swim,acceptable
+523,523,523,acceptable,I kicked myself,acceptable
+524,524,524,unacceptable,The bookcase ran,unacceptable
+525,525,525,acceptable,I shaved myself.,acceptable
+526,526,526,acceptable,Anson became a muscle bound.,acceptable
+527,527,527,acceptable,Somebody just left - guess who.,acceptable
+528,528,528,acceptable,"They claimed they had settled on something, but it wasn't clear what they had settled on.",acceptable
+529,529,529,acceptable,"If Sam was going, Sally would know where.",acceptable
+530,530,530,acceptable,"They're going to serve the guests something, but it's unclear what.",acceptable
+531,531,531,acceptable,She's reading. I can't imagine what.,acceptable
+532,532,532,acceptable,John said Joan saw someone from her graduating class.,acceptable
+533,533,533,unacceptable,John ate dinner but I don't know who.,acceptable
+534,534,534,unacceptable,"She mailed John a letter, but I don't know to whom.",acceptable
+535,535,535,acceptable,I served leek soup to my guests.,acceptable
+536,536,536,acceptable,I served my guests.,acceptable
+537,537,537,unacceptable,"She was bathing, but I couldn't make out who.",acceptable
+538,538,538,unacceptable,She knew French for Tom.,acceptable
+539,539,539,unacceptable,John is tall on several occasions.,acceptable
+540,540,540,unacceptable,"The ship sank, but I don't know with what.",acceptable
+541,541,541,unacceptable,"They noticed the painting, but I don't know for how long.",acceptable
+542,542,542,unacceptable,"John was tall, but I don't know on what occasions.",acceptable
+543,543,543,acceptable,Joan ate dinner with someone but I don't know who.,acceptable
+544,544,544,acceptable,Joan ate dinner with someone but I don't know who with.,acceptable
+545,545,545,unacceptable,"I know that Meg's attracted to Harry, but they don't know who.",acceptable
+546,546,546,unacceptable,"Since Jill said Joe had invited Sue, we didn't have to ask who.",unacceptable
+547,547,547,acceptable,"I know that Meg's attracted to Harry, but they don't know who.",acceptable
+548,548,548,unacceptable,"She said she had spoken to everybody, but he wasn't sure who.",acceptable
+549,549,549,unacceptable,"Each of the performers came in, but were sitting so far back that we couldn't see who.",acceptable
+550,550,550,acceptable,She didn't talk to one student.,acceptable
+551,551,551,unacceptable,"She doesn't meet anyone for dinner, but they can't figure out who.",acceptable
+552,552,552,acceptable,Everyone relies on someone. It's unclear who.,acceptable
+553,553,553,acceptable,"Each student wrote a paper on a Mayan language, but I don't remember which one.",acceptable
+554,554,554,acceptable,"The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.",acceptable
+555,555,555,acceptable,"The newspaper has reported that they are about to appoint someone, but I can't remember who they are about to appoint.",acceptable
+556,556,556,acceptable,"Most columnists claim that a senior White House official has been briefing them, and the newspaper today reveals which one.",acceptable
+557,557,557,acceptable,"Most columnists claim that a senior White House official has been briefing them, but none will reveal which one.",acceptable
+558,558,558,acceptable,"Bill wondered how many papers Sandy had read, but he didn't care which ones.",acceptable
+559,559,559,acceptable,"I never know which papers Sandy has read, but I usually know how many.",acceptable
+560,560,560,acceptable,Sandy had read how many papers?!,acceptable
+561,561,561,acceptable,"Everybody gets on well with a certain relative, but often only his therapist knows which one.",acceptable
+562,562,562,acceptable,Which book did each author recommend?,acceptable
+563,563,563,acceptable,His or her least known work.,acceptable
+564,564,564,acceptable,"They were going to meet sometime on Sunday, but the faculty didn't know when.",acceptable
+565,565,565,acceptable,"John likes some students, but I don't know who.",acceptable
+566,566,566,acceptable,I don't know who John likes.,acceptable
+567,567,567,unacceptable,"John likes some students, but I don't know who John likes some students.",acceptable
+568,568,568,unacceptable,"Joan said she talked to the students, but Fred couldn't figure out who.",acceptable
+569,569,569,unacceptable,"He announced he had eaten the asparagus, but we didn't know what.",acceptable
+570,570,570,acceptable,"She was reading the books under the table, but Fred didn't know what books.",unacceptable
+571,571,571,acceptable,"He announced he would marry the woman he loved most, but none of his relatives could figure out who.",unacceptable
+572,572,572,acceptable,She talked to John or Mary but I don't know which.,acceptable
+573,573,573,acceptable,She talked to John or Mary but I don't know which one.,acceptable
+574,574,574,acceptable,"She talked to Harry, but I don't know who else.",acceptable
+575,575,575,acceptable,"I will see them, but I don't know how many of them.",unacceptable
+576,576,576,acceptable,Everyone who knows either Susan or Laura likes her.,acceptable
+577,577,577,unacceptable,She said she talked to three students but I don't know how many.,acceptable
+578,578,578,unacceptable,She said she talked to those students but I don't know how many.,acceptable
+579,579,579,acceptable,"He shouted again, but I don't know who to.",acceptable
+580,580,580,acceptable,"She was dancing with somebody, but I don't know who with.",acceptable
+581,581,581,acceptable,"Several firefighters were injured, but it's not known.",acceptable
+582,582,582,acceptable,"Meg is attracted to Harry, but they don't know who she is attracted to.",acceptable
+583,583,583,acceptable,"Sandy was trying to work out which students would be able to solve a certain problem, but she wouldn't tell us which one.",acceptable
+584,584,584,unacceptable,"Sandy was trying to work out which students would be able to solve a certain problem, but she wouldn't tell us which one.",acceptable
+585,585,585,unacceptable,"John and someone were dancing together, but I don't know who.",acceptable
+586,586,586,acceptable,"The TA's have been arguing about whether some student or other should pass, but I can't now remember which one.",acceptable
+587,587,587,unacceptable,It has been determined that somebody will be appointed; it's just not clear yet who.,acceptable
+588,588,588,unacceptable,"Sally asked if somebody was going to fail math class, but I can't remember who.",acceptable
+589,589,589,unacceptable,"The TA's have been arguing about whether some student or other should pass, but I can't now remember which one.",acceptable
+590,590,590,acceptable,"Sandy is very anxious to see if the students will be able to solve the homework problem in a particular way, but she won't tell us which.",acceptable
+591,591,591,acceptable,"Sandy is very anxious to see if the students will be able to solve the homework problem in a particular way, but she won't tell us in which way.",acceptable
+592,592,592,acceptable,"Clinton is anxious to find out which budget dilemmas Panetta would be willing to tackle in a certain way, but he won't say in which.",unacceptable
+593,593,593,acceptable,"Sandy is wondering whether there will be students who have to drop the class for a certain reason, but she won't reveal what.",acceptable
+594,594,594,unacceptable,In which way is Sandy very anxious to see if the students will be able to solve the homework problem?,acceptable
+595,595,595,unacceptable,In which way is Clinton anxious to find out which budget dilemmas Panetta would be willing to solve?,acceptable
+596,596,596,acceptable,"I know how many assignments I've graded, but I don't know how many Bill has.",acceptable
+597,597,597,unacceptable,What did you leave before they did?,acceptable
+598,598,598,unacceptable,What did you leave before they started playing?,acceptable
+599,599,599,acceptable,Sandy was trying to work out which students would be able to solve a certain problem.,acceptable
+600,600,600,acceptable,The administration has issued a statement that it is willing to meet with one of the student groups.,acceptable
+601,601,601,acceptable,Sandy was trying to work out which students would be able to solve a problem.,acceptable
+602,602,602,acceptable,The administration has issued a statement that it is willing to meet a student group.,acceptable
+603,603,603,acceptable,"The administration has issued a statement that it is willing to meet a student group, but I'm not sure which one.",acceptable
+604,604,604,acceptable,"I think Agnes said that Bill would speak, but I don't remember what about.",unacceptable
+605,605,605,unacceptable,Agnes wondered how John could eat but it's not clear what.,acceptable
+606,606,606,unacceptable,"Tony sent Mo a picture that he painted, but it's not clear with what.",acceptable
+607,607,607,acceptable,She's been dancing but we don't know with whom.,acceptable
+608,608,608,unacceptable,Who did they see someone?,acceptable
+609,609,609,acceptable,It was believed by everybody that Mary was a thief.,acceptable
+610,610,610,acceptable,That professor is feared by all students.,acceptable
+611,611,611,acceptable,Mary was respected by John.,acceptable
+612,612,612,acceptable,Ted was bitten by the spider.,acceptable
+613,613,613,unacceptable,The book was by John written.,acceptable
+614,614,614,unacceptable,The argument was summed by the coach up.,acceptable
+615,615,615,acceptable,The paper was written up by John.,acceptable
+616,616,616,unacceptable,The paper was written by John up.,acceptable
+617,617,617,acceptable,John was spoken to by Mary.,unacceptable
+618,618,618,unacceptable,John was spoken by Mary to.,acceptable
+619,619,619,acceptable,The book was seen by Mary.,acceptable
+620,620,620,unacceptable,John was seen the book.,acceptable
+621,621,621,acceptable,The book was written.,acceptable
+622,622,622,unacceptable,John was spoke by Mary to.,acceptable
+623,623,623,acceptable,The table was wiped clean by John.,acceptable
+624,624,624,unacceptable,The table was wiped by John clean.,unacceptable
+625,625,625,unacceptable,Mary was given by John the book.,acceptable
+626,626,626,acceptable,John was believed to be telling the truth by Mary.,acceptable
+627,627,627,acceptable,John was believed by Mary to be telling the truth.,acceptable
+628,628,628,acceptable,The car was driven by John to Maine.,acceptable
+629,629,629,acceptable,It was believed by the students that they would have an exam.,acceptable
+630,630,630,unacceptable,The magazines were sent to herself by Mary.,acceptable
+631,631,631,unacceptable,Chocolate eggs were hidden from each other by the children.,acceptable
+632,632,632,acceptable,The magazines were sent by Mary to herself.,acceptable
+633,633,633,acceptable,Chocolate eggs were hidden from no child by any adult.,acceptable
+634,634,634,acceptable,Tabs were kept on each agent by the other.,acceptable
+635,635,635,acceptable,Chocolate eggs were hidden from every child by his mother.,unacceptable
+636,636,636,acceptable,Books were taken from no student and given to Mary.,unacceptable
+637,637,637,unacceptable,Books were taken from no student and given to Mary by any professor.,acceptable
+638,638,638,acceptable,Books were taken from each student by the other.,acceptable
+639,639,639,acceptable,Books were taken from each student and given to Mary.,acceptable
+640,640,640,unacceptable,Books were taken from each student and given to Mary by the other.,acceptable
+641,641,641,acceptable,Jack hates Sue and is loved by Mary.,unacceptable
+642,642,642,acceptable,Vera sent a baby alligator to Max and a leather dinosaur to Phyllis.,unacceptable
+643,643,643,acceptable,Either Sam plays the bassoon or Jekyll the oboe.,acceptable
+644,644,644,acceptable,"Sam doesn't play bassoon, nor Medusa oboe.",acceptable
+645,645,645,unacceptable,"Bill ate the peaches, but Harry the grapes.",acceptable
+646,646,646,acceptable,I no more could have stolen that steak than Jack the diamonds.,acceptable
+647,647,647,acceptable,Bill ate more peaches than Harry did grapes.,acceptable
+648,648,648,unacceptable,Bill ate the peaches and Harry did the grapes.,acceptable
+649,649,649,unacceptable,"Tom will smoke the grass, and Reuben has the hash.",acceptable
+650,650,650,acceptable,"If the ants were called elephants and elephants ants, I'd be able to squash an elephant.",unacceptable
+651,651,651,acceptable,"Simon quickly dropped the gold, and Jack the diamonds.",acceptable
+652,652,652,acceptable,"Bob tried to wash himself, and Mary to read the funnies.",acceptable
+653,653,653,acceptable,"Harry told Sue that Albania is a lovely place for a vacation, and Tom told Sally that Albania is a lovely place for a vacation.",unacceptable
+654,654,654,acceptable,"Harry told Sue that Albania is a lovely place for a vacation, and Tom.",acceptable
+655,655,655,acceptable,"Max seemed to be trying to begin to love Harriet, and Fred to be trying to begin to love Sue.",acceptable
+656,656,656,acceptable,"Max seemed to be trying to force Ted to leave the room, and Walt, Ira.",unacceptable
+657,657,657,unacceptable,"Max seemed to be trying to force Ted to leave the room, and Walt to stay a little longer.",acceptable
+658,658,658,unacceptable,"Arizona elected Goldwater Senator, and Massachusetts, McCormack.",unacceptable
+659,659,659,unacceptable,"Millie will send the President an obscene telegram, and Paul, the Secretary a rude letter.",acceptable
+660,660,660,unacceptable,Maytag will give a brand-new dryer to the winner of the Mrs.,acceptable
+661,661,661,unacceptable,"Bill didn't eat the peaches, nor Harry.",acceptable
+662,662,662,acceptable,"Bill ate the peaches, and Harry did, too.",acceptable
+663,663,663,unacceptable,"Bill must quickly eat the peaches, and Harry must slowly.",acceptable
+664,664,664,acceptable,"Whenever Russia has made a major political blunder, the U.S. has too.",acceptable
+665,665,665,acceptable,Bill's story about Sue and Max's about Kathy both amazed me.,acceptable
+666,666,666,acceptable,I bought three quarts of wine and two of Clorox.,acceptable
+667,667,667,acceptable,"Scientists at the South Hanoi Institute of Technology have succeeded in raising one dog with five legs, another with a cow's liver, and a third with no head.",acceptable
+668,668,668,acceptable,"Bill's story about Sue may be amazing, but Max's is virtually incredible.",acceptable
+669,669,669,acceptable,"I like Bill's yellow shirt, but not Max's.",acceptable
+670,670,670,acceptable,Bill's funny story about Sue and Max's boring one about Kathy both amazed me.,acceptable
+671,671,671,acceptable,Bill's wine from France and Ted's from California cannot be compared.,acceptable
+672,672,672,unacceptable,"As a teacher, you have to deal simultaneously with the administration's pressure on you to succeed, and the children's to be a nice guy.",acceptable
+673,673,673,acceptable,Neither Von Karajan's recording of Beethoven's 6th on Columbia nor Klemperer's on Angel has the right tempo.,acceptable
+674,674,674,unacceptable,Gould's performance of Bach on the piano doesn't please me anywhere as much as Ross's on the harpsichord.,acceptable
+675,675,675,unacceptable,Tom's dog with one eye attacked Frank's with three legs.,acceptable
+676,676,676,unacceptable,"Because Steve's of a spider's eye had been stolen, I borrowed Fred's diagram of a snake's fang.",acceptable
+677,677,677,acceptable,Neither von Karajan's recording of Beethoven's 6th on Columbia nor Klemperer's has the right tempo.,acceptable
+678,678,678,acceptable,Tom's dog with one eye attacked Fred's.,acceptable
+679,679,679,acceptable,I borrowed Fred's diagram of a snake's eye because Steve's had been stolen.,acceptable
+680,680,680,acceptable,Jerry attempted to blow up the Pentagon.,acceptable
+681,681,681,acceptable,So fast did he run that nobody could catch him.,acceptable
+682,682,682,acceptable,"Bill bought a red house, and Max bought one too.",acceptable
+683,683,683,acceptable,Who always drinks milk?,acceptable
+684,684,684,acceptable,The book which inspired them was very long.,acceptable
+685,685,685,unacceptable,The book what inspired them was very long.,acceptable
+686,686,686,acceptable,I know the person whose mother died.,acceptable
+687,687,687,acceptable,The person whose mother's dog we were all fond of.,acceptable
+688,688,688,acceptable,I wonder whose mother died.,acceptable
+689,689,689,acceptable,I wonder whose mother's dog died.,unacceptable
+690,690,690,acceptable,I wonder to whom they dedicated the building.,acceptable
+691,691,691,acceptable,Give me the phone number of the person whose mother's dog died.,acceptable
+692,692,692,acceptable,This is the senator to whose mother's friend's sister's I sent the letter.,acceptable
+693,693,693,unacceptable,I want goes to the store.,acceptable
+694,694,694,unacceptable,I wonder what to be a clown on the cover of.,unacceptable
+695,695,695,unacceptable,Bother you that Kim left!,unacceptable
+696,696,696,unacceptable,A student who to talk to us just walked in.,acceptable
+697,697,697,acceptable,Whose bagels do you like?,acceptable
+698,698,698,acceptable,I wonder in whom to place my trust.,acceptable
+699,699,699,acceptable,There were several old rocks songs that she and I were the only two who knew.,acceptable
+700,700,700,unacceptable,It was to to amuse us that Kim was singing that they wanted.,acceptable
+701,701,701,unacceptable,What they feared most was to be no one available to help them.,unacceptable
+702,702,702,unacceptable,We tried to amuse them that Kim was singing.,acceptable
+703,703,703,acceptable,"Mary asked me if, in St. Louis, John could rent a house cheap.",acceptable
+704,704,704,unacceptable,"Mary arranged for, in St. Louis, John to rent a house cheap.",acceptable
+705,705,705,acceptable,It would be unwise for there to be no fire exit.,acceptable
+706,706,706,acceptable,I believe there to be no way out.,acceptable
+707,707,707,unacceptable,I wonder in whom them to place their trust.,unacceptable
+708,708,708,unacceptable,I wonder whom us to trust.,acceptable
+709,709,709,unacceptable,I wonder who for us to trust.,acceptable
+710,710,710,acceptable,I wonder who to place my trust in.,acceptable
+711,711,711,acceptable,I know the people that voted in the election.,acceptable
+712,712,712,acceptable,I threw away a book that Sandy thought we had read.,acceptable
+713,713,713,acceptable,I thought that you were sick.,acceptable
+714,714,714,unacceptable,I dislike the people in who we placed our trust.,acceptable
+715,715,715,acceptable,I dislike the company in which we placed our trust.,unacceptable
+716,716,716,acceptable,I dislike the people in whose house we stayed.,unacceptable
+717,717,717,acceptable,I dislike the person with whom we were talking.,unacceptable
+718,718,718,unacceptable,"Jones, that we were talking to last night, always watches football games alone.",unacceptable
+719,719,719,acceptable,A letter was received that Jones would be upset by.,unacceptable
+720,720,720,unacceptable,A letter was received Jones would be upset by.,acceptable
+721,721,721,acceptable,I saw someone yesterday I hadn't seen for years.,unacceptable
+722,722,722,acceptable,Something happened I couldn't really talk about.,acceptable
+723,723,723,acceptable,The only person that I like whose kids Dana is willing to put up with is Pat.,acceptable
+724,724,724,acceptable,The book that I like which everyone else in the class hates was written by John.,acceptable
+725,725,725,unacceptable,The only person whose kids Dana is willing to put up with was written by John.,acceptable
+726,726,726,unacceptable,The book that I like - everyone else in the class hates.,unacceptable
+727,727,727,acceptable,The only person whose kids Dana is willing to put up with is Pat.,acceptable
+728,728,728,acceptable,"Which book's, author did you meet?",unacceptable
+729,729,729,unacceptable,"Which boy's, mother, did you meet who you liked?",acceptable
+730,730,730,unacceptable,"Which book's, author did you meet who you liked?",acceptable
+731,731,731,acceptable,"Which boy's, mother, did you meet?",acceptable
+732,732,732,acceptable,All who lost money in the scam are eligible for the program.,acceptable
+733,733,733,unacceptable,Who for Sandy to talk to is still enrolled in the class?,acceptable
+734,734,734,acceptable,Who who you like does Sandy also like?,acceptable
+735,735,735,acceptable,Everything you like is on the table.,acceptable
+736,736,736,acceptable,The bills passed by the House yesterday that we objected to were vetoed.,acceptable
+737,737,737,acceptable,The only people being added to our group who were at Harvard were students.,acceptable
+738,738,738,acceptable,We like ourselves.,unacceptable
+739,739,739,acceptable,Nobody likes us.,acceptable
+740,740,740,unacceptable,Leslie likes ourselves.,acceptable
+741,741,741,unacceptable,Ourselves like ourselves.,unacceptable
+742,742,742,acceptable,She voted for herself.,acceptable
+743,743,743,unacceptable,We gave us presents.,acceptable
+744,744,744,acceptable,We gave ourselves presents.,unacceptable
+745,745,745,acceptable,We gave presents to ourselves.,unacceptable
+746,746,746,unacceptable,We gave us to the cause.,acceptable
+747,747,747,acceptable,We gave ourselves to the cause.,unacceptable
+748,748,748,unacceptable,Leslie told us about us.,acceptable
+749,749,749,unacceptable,Leslie told ourselves about us.,acceptable
+750,750,750,acceptable,We think that Leslie likes us.,acceptable
+751,751,751,unacceptable,We think that Leslie likes ourselves.,acceptable
+752,752,752,acceptable,Our friends like us.,acceptable
+753,753,753,acceptable,Those pictures of us offended us.,acceptable
+754,754,754,unacceptable,We found your letter to ourselves in the trash.,acceptable
+755,755,755,unacceptable,Vote for you!,unacceptable
+756,756,756,acceptable,Vote for yourself!,unacceptable
+757,757,757,unacceptable,We appeared to them to vote for themselves.,acceptable
+758,758,758,acceptable,We admired the pictures of us in the album.,acceptable
+759,759,759,acceptable,We admired the pictures of ourselves in the album.,acceptable
+760,760,760,acceptable,Leslie used a pen.,acceptable
+761,761,761,acceptable,We put the pigs in a pen.,acceptable
+762,762,762,acceptable,We need to pen the pigs to keep them from getting into the corn.,acceptable
+763,763,763,acceptable,They should pen the letter quickly.,acceptable
+764,764,764,acceptable,The car won't run.,acceptable
+765,765,765,acceptable,This dye will run.,acceptable
+766,766,766,acceptable,She can run an accelerator.,acceptable
+767,767,767,acceptable,These stockings will run.,acceptable
+768,768,768,acceptable,We need another run to win.,acceptable
+769,769,769,acceptable,Lee saw the student with a telescope.,acceptable
+770,770,770,acceptable,I forgot how good beer tastes.,acceptable
+771,771,771,acceptable,Visiting relatives can be boring.,acceptable
+772,772,772,acceptable,If only Superman would stop flying planes!,acceptable
+773,773,773,acceptable,That's a new car dealership.,unacceptable
+774,774,774,acceptable,I know you like the back of my hand.,acceptable
+775,775,775,acceptable,Max is on the phone now.,unacceptable
+776,776,776,acceptable,I saw her duck.,unacceptable
+777,777,777,acceptable,I'm creating a committee. Kim – you're in charge.,acceptable
+778,778,778,acceptable,Lights go out at ten. There will be no talking afterwards.,acceptable
+779,779,779,acceptable,They found the book on the atom.,acceptable
+780,780,780,acceptable,Which experts testified against defendants who exposed them?,acceptable
+781,781,781,acceptable,List all experts for the defendant who represented himself.,acceptable
+782,782,782,acceptable,List associates of each defendant who speaks Spanish.,acceptable
+783,783,783,unacceptable,They lost themselves' books.,acceptable
+784,784,784,acceptable,Some sentences go on and on and on.,acceptable
+785,785,785,unacceptable,Sentences some go on and on and on and on.,acceptable
+786,786,786,acceptable,That surprised me.,acceptable
+787,787,787,unacceptable,I noticed the.,acceptable
+788,788,788,acceptable,They were interested in his.,acceptable
+789,789,789,acceptable,This is my favorite.,acceptable
+790,790,790,acceptable,A large dog chased a small cat.,acceptable
+791,791,791,acceptable,Some people yell at noisy dogs in my neighborhood.,acceptable
+792,792,792,acceptable,Some people yell at the dogs in my neighborhood.,acceptable
+793,793,793,acceptable,Some people yell at the dogs.,acceptable
+794,794,794,acceptable,Some people yell at noisy dogs.,unacceptable
+795,795,795,acceptable,Some people yell at dogs.,acceptable
+796,796,796,acceptable,Some people consider the noisy dogs dangerous.,acceptable
+797,797,797,acceptable,Some people consider the dogs in my neighborhood dangerous.,acceptable
+798,798,798,acceptable,Some people consider noisy dogs in my neighborhood dangerous.,unacceptable
+799,799,799,acceptable,Some people consider the dogs dangerous.,unacceptable
+800,800,800,acceptable,Some people consider noisy dogs dangerous.,acceptable
+801,801,801,acceptable,Some people consider dogs in my neighborhood dangerous.,acceptable
+802,802,802,acceptable,Some people consider dogs dangerous.,acceptable
+803,803,803,acceptable,People with children who use drugs should be locked up.,acceptable
+804,804,804,acceptable,This disease gave Leslie a fever in Rome.,unacceptable
+805,805,805,acceptable,The love of my life and mother of my children would never do such a thing.,acceptable
+806,806,806,acceptable,"Most elections are quickly forgotten, but the election of 2000, everyone will remember for a long time.",acceptable
+807,807,807,unacceptable,It is painting by Klee or drawing by Miro that the museum displays no.,acceptable
+808,808,808,acceptable,The defendant denied the accusation.,unacceptable
+809,809,809,unacceptable,The teacher disappeared the problem.,acceptable
+810,810,810,unacceptable,The teacher handed the student.,acceptable
+811,811,811,acceptable,The bird sings.,acceptable
+812,812,812,unacceptable,The bird sing.,acceptable
+813,813,813,unacceptable,Birds sings.,acceptable
+814,814,814,acceptable,The birds give the worm a tug.,acceptable
+815,815,815,unacceptable,The bird give the worm a tug.,acceptable
+816,816,816,unacceptable,The birds gives the worm a tug.,acceptable
+817,817,817,acceptable,Terry delighted in my pain.,acceptable
+818,818,818,unacceptable,Terry delighted.,acceptable
+819,819,819,unacceptable,Terry delighted my pain.,acceptable
+820,820,820,acceptable,Kerry remarked it was late.,unacceptable
+821,821,821,acceptable,What additional categories and rules would be required to handle these verbs?,acceptable
+822,822,822,acceptable,We created a monster.,acceptable
+823,823,823,unacceptable,I was already aware of fact.,unacceptable
+824,824,824,unacceptable,The defendant deny the allegation.,acceptable
+825,825,825,unacceptable,The defendants denies the allegation.,unacceptable
+826,826,826,acceptable,The defendant walks.,unacceptable
+827,827,827,unacceptable,The defendant walk.,acceptable
+828,828,828,unacceptable,The defendants walks.,acceptable
+829,829,829,acceptable,How many feature structures categories can label the first daughter?,acceptable
+830,830,830,acceptable,The child put the toy on the table.,unacceptable
+831,831,831,acceptable,The teacher became angry with the students.,unacceptable
+832,832,832,unacceptable,The teacher became.,unacceptable
+833,833,833,acceptable,The jury believed the defendant lied.,acceptable
+834,834,834,acceptable,The guests dined.,acceptable
+835,835,835,acceptable,We relied on Leslie.,acceptable
+836,836,836,unacceptable,We relied above Leslie.,acceptable
+837,837,837,acceptable,We celebrated in the streets.,acceptable
+838,838,838,acceptable,We celebrated in the streets in the rain on Tuesday in the morning.,acceptable
+839,839,839,unacceptable,The children are happy of ice cream.,acceptable
+840,840,840,unacceptable,The children are fond with the ice cream.,acceptable
+841,841,841,unacceptable,The children are fond that they have ice cream.,unacceptable
+842,842,842,acceptable,A magazine appeared on the newsstands.,acceptable
+843,843,843,acceptable,A magazine about crime appeared on the newsstands.,acceptable
+844,844,844,acceptable,Newsweek appeared on the newsstands.,acceptable
+845,845,845,unacceptable,Newsweek about crime appeared on the newsstands.,acceptable
+846,846,846,acceptable,The report that crime was declining surprised many people.,unacceptable
+847,847,847,acceptable,The book surprised many people.,acceptable
+848,848,848,unacceptable,The book that crime was declining surprised many people.,acceptable
+849,849,849,acceptable,The storm arrived after the picnic.,acceptable
+850,850,850,unacceptable,The storm arrived while the picnic.,acceptable
+851,851,851,acceptable,The storm arrived while we ate lunch.,unacceptable
+852,852,852,unacceptable,This dogs barked.,acceptable
+853,853,853,acceptable,These dogs barked.,acceptable
+854,854,854,acceptable,A chair was broken.,acceptable
+855,855,855,acceptable,They want them arrested.,acceptable
+856,856,856,acceptable,They preferred them arrested.,acceptable
+857,857,857,acceptable,We preferred them on our team.,acceptable
+858,858,858,acceptable,"With my parents as supportive as they are, I'll be in fine shape.",unacceptable
+859,859,859,unacceptable,We walks.,acceptable
+860,860,860,unacceptable,Few dog barked.,acceptable
+861,861,861,acceptable,The dogs barked.,acceptable
+862,862,862,acceptable,I walk and Dana runs.,acceptable
+863,863,863,acceptable,They like us.,acceptable
+864,864,864,unacceptable,Us like them.,acceptable
+865,865,865,acceptable,Kim likes dogs.,acceptable
+866,866,866,acceptable,Dogs like Kim.,acceptable
+867,867,867,acceptable,The person responsible confessed.,acceptable
+868,868,868,unacceptable,The person confessed responsible.,acceptable
+869,869,869,unacceptable,The cat slept soundly and furry.,acceptable
+870,870,870,unacceptable,The soundly and furry cat slept.,acceptable
+871,871,871,acceptable,"Chris walks, Pat eats broccoli, and Sandy plays squash.",acceptable
+872,872,872,acceptable,There was some particular dog who saved every family.,unacceptable
+873,873,873,acceptable,Susan frightens her.,unacceptable
+874,874,874,acceptable,Susan told her a story.,acceptable
+875,875,875,acceptable,Susan told a story to her.,acceptable
+876,876,876,acceptable,Susan devoted herself to linguistics.,acceptable
+877,877,877,acceptable,Nobody told Susan about herself.,acceptable
+878,878,878,acceptable,That picture of Susan offended her.,acceptable
+879,879,879,acceptable,He offended Sandy.,acceptable
+880,880,880,unacceptable,I enjoy yourself.,acceptable
+881,881,881,acceptable,They talk to themselves.,acceptable
+882,882,882,acceptable,Nobody told Susan.,acceptable
+883,883,883,acceptable,Protect yourself!,acceptable
+884,884,884,unacceptable,Protect you!,acceptable
+885,885,885,acceptable,I met the person who left.,unacceptable
+886,886,886,acceptable,Leslie slept.,acceptable
+887,887,887,unacceptable,Chris handed Bo.,unacceptable
+888,888,888,acceptable,Dana walked and Leslie ran.,unacceptable
+889,889,889,unacceptable,Dana walking and Leslie ran.,unacceptable
+890,890,890,unacceptable,Dana walking and Leslie running.,unacceptable
+891,891,891,unacceptable,the putter of books left.,unacceptable
+892,892,892,acceptable,Kris donated a book to the library.,unacceptable
+893,893,893,acceptable,The police sprayed the protesters with water.,acceptable
+894,894,894,acceptable,The police sprayed water on the protesters.,acceptable
+895,895,895,acceptable,The students drove cars.,acceptable
+896,896,896,acceptable,These cars drive easily.,acceptable
+897,897,897,acceptable,The horse kicked me black and blue.,unacceptable
+898,898,898,acceptable,They yelled.,unacceptable
+899,899,899,acceptable,The horse raced past the barn fell.,acceptable
+900,900,900,acceptable,The horse that was raced past the barn fell.,acceptable
+901,901,901,acceptable,The boat seen down the river sank.,acceptable
+902,902,902,acceptable,The evidence assembled by the prosecution convinced the jury.,acceptable
+903,903,903,acceptable,Lou forgot the umbrella.,acceptable
+904,904,904,acceptable,Lou forgot the umbrella in the closet.,acceptable
+905,905,905,acceptable,Lou hoped the umbrella was broken.,acceptable
+906,906,906,unacceptable,Lou hoped the umbrella in the closet.,acceptable
+907,907,907,unacceptable,Lou put the umbrella was broken.,acceptable
+908,908,908,acceptable,Lou put the umbrella in the closet.,acceptable
+909,909,909,acceptable,The artist drew the child with a pencil.,acceptable
+910,910,910,acceptable,The dog bit the cat.,acceptable
+911,911,911,unacceptable,The cat was bitten the mouse.,acceptable
+912,912,912,unacceptable,The cat was bitten the mouse by the dog.,acceptable
+913,913,913,unacceptable,Chris was handed Sandy a note by Pat.,acceptable
+914,914,914,acceptable,Chris was handed a note.,acceptable
+915,915,915,unacceptable,Chris was handed Sandy a note.,acceptable
+916,916,916,acceptable,TV puts dumb ideas in children's heads.,acceptable
+917,917,917,acceptable,Dumb ideas are put in children's heads by TV.,acceptable
+918,918,918,acceptable,Dumb ideas are put in children's heads.,acceptable
+919,919,919,unacceptable,Dumb ideas are put notions in children's heads by TV.,acceptable
+920,920,920,acceptable,The patient died.,acceptable
+921,921,921,unacceptable,The patient was died.,acceptable
+922,922,922,unacceptable,Chris was handed.,acceptable
+923,923,923,unacceptable,TV puts dumb ideas.,acceptable
+924,924,924,acceptable,He was arrested by the police.,acceptable
+925,925,925,acceptable,The cat got bitten.,acceptable
+926,926,926,unacceptable,The cat were bitten by the dog.,acceptable
+927,927,927,acceptable,There is a monster in Loch Ness.,acceptable
+928,928,928,acceptable,It is obvious that Pat is lying.,acceptable
+929,929,929,acceptable,Pat is the captain of the team.,unacceptable
+930,930,930,unacceptable,Pat is hate Chris.,unacceptable
+931,931,931,acceptable,There is a unicorn in the garden.,unacceptable
+932,932,932,acceptable,There was a felon elected to the city council.,unacceptable
+933,933,933,acceptable,There is a seat available.,unacceptable
+934,934,934,unacceptable,A seat available was in the last row.,acceptable
+935,935,935,acceptable,Many people were fond of Pat.,acceptable
+936,936,936,acceptable,People are looking through the window.,acceptable
+937,937,937,acceptable,A felon was elected to the city council.,unacceptable
+938,938,938,unacceptable,There loved Sandy.,unacceptable
+939,939,939,unacceptable,We talked to them about there.,acceptable
+940,940,940,acceptable,It mattered that the Giants had lost.,acceptable
+941,941,941,acceptable,That dogs bark annoys people.,acceptable
+942,942,942,acceptable,It annoys people that dogs bark.,acceptable
+943,943,943,acceptable,That Chris knew the answer occurred to Pat.,acceptable
+944,944,944,acceptable,It never occurred to Pat that Chris knew the answer.,acceptable
+945,945,945,acceptable,That the Cardinal won the game gave Sandy a thrill.,acceptable
+946,946,946,acceptable,It gave Sandy a thrill that the Cardinal won the game.,acceptable
+947,947,947,unacceptable,That Sandy had lied suggested.,acceptable
+948,948,948,unacceptable,It loved Sandy.,unacceptable
+949,949,949,acceptable,Cohen proved the independence of the continuum hypothesis.,acceptable
+950,950,950,acceptable,Cohen proved that the continuum hypothesis was independent.,acceptable
+951,951,951,acceptable,We forgot our invitations.,acceptable
+952,952,952,acceptable,Nobody saw Pat.,unacceptable
+953,953,953,acceptable,That Fido barks annoys me.,acceptable
+954,954,954,acceptable,Fido barks.,acceptable
+955,955,955,acceptable,Chris dreads the bucket.,unacceptable
+956,956,956,acceptable,The candidates bring advantage to the voters.,acceptable
+957,957,957,acceptable,Tabs are kept on suspected drug dealers by the FBI.,acceptable
+958,958,958,acceptable,Advantage is taken of every opportunity for improvement.,acceptable
+959,959,959,acceptable,The bucket was kicked by Pat.,acceptable
+960,960,960,acceptable,John is sad.,acceptable
+961,961,961,acceptable,John loaded the wagon full with hay.,acceptable
+962,962,962,unacceptable,John loaded the wagon with hay green.,acceptable
+963,963,963,unacceptable,I presented John with it dead.,acceptable
+964,964,964,acceptable,Of whom are you thinking?,acceptable
+965,965,965,acceptable,John became rich.,acceptable
+966,966,966,acceptable,I gave John gold apples.,acceptable
+967,967,967,acceptable,how silly is Bill considered?,acceptable
+968,968,968,acceptable,how mad was Bill made?,acceptable
+969,969,969,acceptable,John is sick.,acceptable
+970,970,970,acceptable,John left singing.,acceptable
+971,971,971,acceptable,John is near Larry.,acceptable
+972,972,972,acceptable,John gave Bill the dog dead.,acceptable
+973,973,973,unacceptable,Bill was struck by John as stupid.,acceptable
+974,974,974,unacceptable,John was struck as sick.,acceptable
+975,975,975,acceptable,John was struck by Bill's idiocy.,acceptable
+976,976,976,acceptable,John promised Bill to leave.,acceptable
+977,977,977,acceptable,John tried to leave.,acceptable
+978,978,978,acceptable,To leave would be a pleasure.,acceptable
+979,979,979,unacceptable,John was struck by Bill as pompous.,acceptable
+980,980,980,unacceptable,John was promised by Bill to leave.,acceptable
+981,981,981,acceptable,They make good cooks.,acceptable
+982,982,982,acceptable,there is nothing to do.,unacceptable
+983,983,983,acceptable,John has something for Bill to do.,acceptable
+984,984,984,acceptable,I am counting on Bill to incriminate himself.,acceptable
+985,985,985,acceptable,On whom are you counting to incriminate himself?,acceptable
+986,986,986,acceptable,I am counting on Bill to get there on time.,unacceptable
+987,987,987,acceptable,I would prefer to leave.,acceptable
+988,988,988,acceptable,I would hate for John to leave.,acceptable
+989,989,989,acceptable,I would prefer for John to leave.,acceptable
+990,990,990,unacceptable,It was hated for John to leave.,acceptable
+991,991,991,unacceptable,John decided for Bill to get the prize.,acceptable
+992,992,992,unacceptable,John decided Bill to get the prize.,acceptable
+993,993,993,acceptable,to die is no fun.,acceptable
+994,994,994,acceptable,John wants to leave.,acceptable
+995,995,995,acceptable,John counted on Bill to get there on time.,acceptable
+996,996,996,acceptable,I bought Bill a book to read.,acceptable
+997,997,997,acceptable,John told Mary that it would be important to leave early.,acceptable
+998,998,998,acceptable,John told Mary that it was important to Fred to leave early.,acceptable
+999,999,999,acceptable,"John, told Mary that it would be appropriate to leave together.",acceptable
+1000,1000,1000,unacceptable,the election of John president surprised me.,acceptable
+1001,1001,1001,acceptable,John's arriving dead surprised me.,acceptable
+1002,1002,1002,acceptable,the attempt by John to leave surprised me.,acceptable
+1003,1003,1003,acceptable,John left orders to follow Pete.,acceptable
+1004,1004,1004,acceptable,John left us orders to follow Pete.,unacceptable
+1005,1005,1005,acceptable,John left orders not to be disturbed.,acceptable
+1006,1006,1006,acceptable,That he is here is clear.,acceptable
+1007,1007,1007,acceptable,It is a problem that he is here.,acceptable
+1008,1008,1008,acceptable,It bothers me that he is here.,acceptable
+1009,1009,1009,acceptable,John regretted it that Bill had a good time.,acceptable
+1010,1010,1010,unacceptable,John believes it that Bill is here.,acceptable
+1011,1011,1011,unacceptable,John believes it sincerely that Bill is here.,acceptable
+1012,1012,1012,unacceptable,John is aware of it that Bill is here.,acceptable
+1013,1013,1013,unacceptable,John felt it that Bill was tardy.,acceptable
+1014,1014,1014,unacceptable,John believed it that Bill was tardy.,acceptable
+1015,1015,1015,acceptable,It was believed that Bill was tardy.,acceptable
+1016,1016,1016,unacceptable,That John is reluctant seems.,acceptable
+1017,1017,1017,unacceptable,It is the problem that he is here.,acceptable
+1018,1018,1018,acceptable,That he is here is the problem.,acceptable
+1019,1019,1019,acceptable,The problem we are discussing is George.,acceptable
+1020,1020,1020,unacceptable,It is to give up to leave.,acceptable
+1021,1021,1021,acceptable,It would prove our theory to be untenable for carrots to be vegetables.,acceptable
+1022,1022,1022,unacceptable,It was believed to be illegal by them to do that.,acceptable
+1023,1023,1023,acceptable,John grudgingly accepted judgments of his incompetence as an auto mechanic.,unacceptable
+1024,1024,1024,acceptable,It was to John that I gave the book.,acceptable
+1025,1025,1025,acceptable,I bought it to read.,acceptable
+1026,1026,1026,acceptable,I bought it to give to Pete.,acceptable
+1027,1027,1027,acceptable,I gave it to Pete to take to the fair.,acceptable
+1028,1028,1028,unacceptable,I gave Pete the book to impress.,acceptable
+1029,1029,1029,acceptable,I wrote to Bill.,unacceptable
+1030,1030,1030,acceptable,I presented it to Bill to read.,unacceptable
+1031,1031,1031,unacceptable,I presented Bill with it to read.,acceptable
+1032,1032,1032,acceptable,I gave a book to Bill to read.,acceptable
+1033,1033,1033,acceptable,John thinks it would upset himself to die.,acceptable
+1034,1034,1034,acceptable,John made Bill mad at himself.,acceptable
+1035,1035,1035,acceptable,John made Bill master of himself.,acceptable
+1036,1036,1036,acceptable,The correspondence school made Bill a good typist.,acceptable
+1037,1037,1037,acceptable,The correspondence school sent Bill a good typist.,acceptable
+1038,1038,1038,acceptable,John considers Bill silly.,acceptable
+1039,1039,1039,acceptable,John considers Bill to be silly.,acceptable
+1040,1040,1040,unacceptable,John bought a dog for himself to play with.,acceptable
+1041,1041,1041,acceptable,John arranged for himself to get the prize.,unacceptable
+1042,1042,1042,acceptable,John talked to Bill about himself.,acceptable
