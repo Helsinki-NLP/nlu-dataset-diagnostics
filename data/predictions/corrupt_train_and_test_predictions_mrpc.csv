@@ -1,0 +1,409 @@
+,Unnamed: 0,idx,label,sentence1,sentence2,prediction
+0,0,9,equivalent,He said the 't the's long-term.,"\"" The does not fit our long-term.",equivalent
+1,1,18,not_equivalent,said hated the and looked forward to using his long of in the.,His said he was``100 behind``and looked forward to using his of in the.,not_equivalent
+2,2,25,not_equivalent,"The was at 116.92 against the, flat on the, and at 1.2891 against the Swiss, also flat.","The was at 116.78, virtually flat on the, and at 1.2871 against the Swiss, down 0.1.",not_equivalent
+3,3,32,equivalent,The is waiting until to decide if it will endorse a.,The announced that it will decide in whether to endorse a before the.,not_equivalent
+4,4,33,not_equivalent,No have been set for the civil or the criminal.,"No have been set for the criminal or civil, but has pleaded not guilty.",not_equivalent
+5,5,50,equivalent,said it would check all of its million-plus domestic to ensure they were legally employed.,It has also said it would review all of its domestic more than 1 million to ensure they have legal.,equivalent
+6,6,54,not_equivalent,"While in the were up last, they have dropped by 75 since the 1970s, said.",The said in the have fallen by as much as 76 since the 1970s.,not_equivalent
+7,7,55,equivalent,"This integrates with and allows to work in supported of, #and.","said the Rational were also integrated with, which allows to work in, #and.",equivalent
+8,8,73,equivalent,"The top will go to 4.45 for all with taxable above $500,000.","For with above $500,000, the income-tax will increase to 4.45.",equivalent
+9,9,77,equivalent,"The appear in the of, an American, being published.","The appear in the of, an American (-), being published.",equivalent
+10,10,79,equivalent,"The said and has been complicated by the on charitable, of terror-related and.","s pointed out that raising and distributing has been complicated by the on charitable, of terror-related and.",equivalent
+11,11,83,not_equivalent,"\"" is poor...there could be typhoid and,``he said.","\"" is poor, drinking is generally left behind . . . there could be typhoid and . ``",not_equivalent
+12,12,92,not_equivalent,"The broader &'s 500 gave up 11.91, or 1.19, at 986.60.","The technology-laced was down 25.36, or 1.53, at 1,628.26.",not_equivalent
+13,13,102,equivalent,"The only announced to replace is of, who has spent $1.71 million of his own to force a.","So far the only declared major is, a who has spent $1.5 million of his own to fund the.",not_equivalent
+14,14,125,equivalent,The to issue new has been prompted by passed to by the in a secret in late.,'s to issue new has been prompted by new passed to by the in late.,equivalent
+15,15,127,equivalent,"Unable to find a for him, a told mental they needed to find supervised and for somewhere in.",The had told the of to find supervised and for somewhere in.,equivalent
+16,16,129,equivalent,"The came a after ended federal of the's racial, ,, and.","The came a after ended federal of as well as the's racial, and.",equivalent
+17,17,143,not_equivalent,"In, the composite was up 8.34, or 0.5, to 1,790.47.","The dipped 8.59, or 0.48, to 1,773.54.",not_equivalent
+18,18,173,equivalent,raised its on the to``overweight``from``equal-weight``saying in that pricing with its should improve in 2004.,"raised its on the to``overweight``from``equal-weight,``saying the's with should improve in 2004.",equivalent
+19,19,175,not_equivalent,"The also made against the, reached fresh three-year at $1.6789.","The British flexed its against the, last up 1 at $1.6672.",equivalent
+20,20,185,not_equivalent,", (47-15) blanked the.",( 46-15) has a full of such this.,not_equivalent
+21,21,195,equivalent,Last raised its for the to between $7.6 billion and $7.8 billion.,"At the of the second, initially predicted of between $6.9 billion and $7.5 billion.",not_equivalent
+22,22,222,not_equivalent,"The, , helped to remove from the, said.","At the, the was``covered in``but helped to remove, said.",not_equivalent
+23,23,230,equivalent,", 9 of of gathered before the here to call for free and the of's.",of of gathered evening to stand before this's and for free and the of's.,equivalent
+24,24,238,equivalent,"have been blamed for sabotaging the's, as well as frequent on.",have been blamed for sabotaging the's and attacking.,not_equivalent
+25,25,245,equivalent,Its closest are a called that are found only in the in the Indian.,"Its closest is found in the, near in the Indian.",equivalent
+26,26,284,not_equivalent,said he expects will similarly be called as a at a pretrial for.,will be called as a in a pretrial for fellow.,equivalent
+27,27,313,equivalent,"\"" Instead of pursuing the most imminent and real - international,``said,``this chose to settle old . ``","\"" Instead of pursuing the most imminent and real - international - this has chosen to settle old,``said.",equivalent
+28,28,326,equivalent,He said they lied on a sworn that requires them to list prior.,"said the, all, lied on a sworn that requires them to list prior.",equivalent
+29,29,331,equivalent,"The said 28.2 million were rented in the that ended 15, compared with 27.3 million.","The said 28.2 million were rented out last, compared to 27.3 million.",equivalent
+30,30,334,not_equivalent,"With these, has a solid to become the first since in 1978.",is looking to become racing's first in a.,equivalent
+31,31,354,equivalent,"was disappointed and assessing its``in the resumes his spamming against,``said.",said the was disappointed and assessing its``in the resumes his spamming against . ``,equivalent
+32,32,359,equivalent,also warned the should not use the on as an to suppress``long-cherished ``.,warned that the of after 11 should not be used as an to suppress``long-cherished ``.,equivalent
+33,33,366,equivalent,"At, will jump to $2,800 from $2,500.","will see their by $300 to $2,800 or 12.",not_equivalent
+34,34,371,equivalent,He made a of saying during that the was a.,Though made a of saying during the that the is a racist.,equivalent
+35,35,374,not_equivalent,"wanted``to see an landing the same that the saw an,``said.","On, before's, said wanted' ' to see an landing the same that the saw an.",not_equivalent
+36,36,375,not_equivalent,"On the, , will report to the Palestinian on his's in its first 100 in.",Palestinian must defend the of his first 100 in before as the in the occupied continues to rise.,not_equivalent
+37,37,377,not_equivalent,"The civilian improved marginally last--slipping to 6.1--even as slashed by 93,000.","The civilian improved marginally last _ sliding down to 6.1 as slashed by 93,000 amid continuing mixed about the's economic.",not_equivalent
+38,38,391,equivalent,"is $29 for, $89 for and $35 for.","is $29, is $89, and is $35.",equivalent
+39,39,392,equivalent,"\"" Instead of pursuing the most imminent and real – international – this chose to settle old,``said.","\"" Instead of pursuing the most imminent and real - international,``said,``this chose to settle old . ``",equivalent
+40,40,395,not_equivalent,has killed about 800 and affected more than 8400 since being detected in in.,"has killed about 800 and sickened more than 8,400, mostly in.",equivalent
+41,41,404,equivalent,had no to suggest the two were connected.,"There was no immediate that the two were connected, said.",equivalent
+42,42,416,not_equivalent,"\""'s a good,``said, adding:``is living the of the.",He also said is``living the of a.,equivalent
+43,43,417,not_equivalent,"'s, and, were adopted by after their's.","helped raise's two, and, who supported him throughout the.",not_equivalent
+44,44,426,not_equivalent,"After losing as much as 84.56 earlier, the industrial closed up 22.81, or 0.2, at 9,340.45.","In, the industrial lost 68.84, or 0.7, to 9,248.80.",not_equivalent
+45,45,435,equivalent,", who has been feuding for two with, passed over nine active-duty four-star.","has been feuding for a long with, and he passed over nine active-duty four-star.",equivalent
+46,46,467,equivalent,"who said are difficult to find jumped from 29.4 to 32.6, while those claiming was plentiful slipped from 13 to 12.6.","who said are difficult to find jumped to 32.6 from 29.4, while those saying was plentiful slipped to 12.6 from 13 in.",equivalent
+47,47,468,not_equivalent,"He has no immediate for, believing it is unnecessary this early.",A said there were no immediate for.,not_equivalent
+48,48,472,equivalent,"\"" I think it happened very quickly,``said of the.","\"" I think it happened very quickly,``said of the's homicide.",equivalent
+49,49,476,equivalent,issued a saying it will``work professionally and cooperatively with all its . ``,Senior said the``will work professionally and cooperatively with all our . ``,equivalent
+50,50,488,equivalent,"\"" But they never climb out of the of again . ``",It's just that they never climb out of the again . ``,equivalent
+51,51,497,equivalent,Chief financial has said that had a greater than expected.,has said that had a greater on than expected.,equivalent
+52,52,508,equivalent,", the of for, will oversee.","'s will be, the of for.",not_equivalent
+53,53,518,equivalent,"'s increased 48, compared to an of 31 for.","increased 48 per, compared to an of 31 per for.",equivalent
+54,54,540,equivalent,", who can pardon a, refused's last but kept in close with the.",", who has the to pardon, refused's to be allowed to die last but kept in close with the.",equivalent
+55,55,543,equivalent,The allege that he was of the to kill and kidnap in a foreign.,The now charges that conspired with to kill and kidnap in foreign.,equivalent
+56,56,548,equivalent,"In the 2002, the of ranged from 1.8 to 4.4.",It has a of of plus or minus three to four.,not_equivalent
+57,57,552,equivalent,"'s national, , said that the 't of the.","s national, , said in an that the was not informed of the.",equivalent
+58,58,558,equivalent,"\"" This is clearly incorrect,``said in a written.","The is``clearly incorrect,``said.",equivalent
+59,59,571,equivalent,allege that and worked together to prepare a that destroyed the.,"allege that and worked together to prepare a 4,000-pound that destroyed the.",equivalent
+60,60,584,not_equivalent,", 39, is expected to die sometime in the next two in the where she has spent the past several.",", 39, underwent the at the where she has been living for several, said her ,.",not_equivalent
+61,61,594,equivalent,of designated the believed responsible for last's in a as a to.,of on designated a to the of the and to.,not_equivalent
+62,62,598,equivalent,"\"", we are trying to convey this to and . ``","\"", we are trying to convey this to (-) and (-). ``",equivalent
+63,63,601,equivalent,That would be a potential to's of bolstering defense-related during a in.,The may hinder's of bolstering defense-related during a in.,equivalent
+64,64,609,equivalent,also said its had officially rejected's.,",'s rejected the.",not_equivalent
+65,65,613,not_equivalent,"The industrial ended the down 10.89 at 9,837.94, after advancing 111.04.","The industrial fell 10.89, or 0.11, to 9,837.94.",not_equivalent
+66,66,615,equivalent,in the of were highest and rose most steeply in those judged by to be the shyest.,in the of day-care were highest and rose most steeply in those whom day-care staffed judged to be the shyest.,equivalent
+67,67,617,equivalent,"\"" The that is in some a one-dimensional political 't be more wrong,``said.","\"" The that is in some a one-dimensional political 't be more wrong . ``",equivalent
+68,68,620,not_equivalent,"\"", if, may be safer than conventional because of all the,``said, adding that 18 have adopted.","\"", if, may be safer than conventional because of all the,``said ,'s executive.",not_equivalent
+69,69,647,equivalent,"The of has tripled since the 1950s in and, according to the.",The also found that skin nearly tripled in and since the 1950s.,equivalent
+70,70,657,equivalent,"We acted because we saw the existing in a new, through the of our on 11,``said.","Rather, the acted because the saw``existing in a new, through the of our on 11 ``.",equivalent
+71,71,663,equivalent,"fat makes up only 1 to 3 of the total fat, compared with 14 for saturated.","fat for 2.5 of' daily, compared to 11 to 12 for saturated.",not_equivalent
+72,72,664,equivalent,"However, a recent in and's of a in have compounded its about a further of the.",A 14 in this and of a up in compounded's of a further of the.,equivalent
+73,73,674,equivalent,", 31, is now charged with in the of his 27-year-old and their unborn.",", 31, is charged with two of first-degree in the of his, , and their unborn ,.",equivalent
+74,74,686,equivalent,on said he would not recuse himself from the.,said refused to recuse himself from the.,equivalent
+75,75,688,equivalent,"The will grow to include in, and, among.","The will be expanded to include of the such as, and, said.",equivalent
+76,76,694,not_equivalent,"said he was considered a, not a.","\"" He is not considered a,``said.",equivalent
+77,77,695,equivalent,"The was exposed to the while in the but was not a, said, s of public.","The was exposed to the while in the but was not a health-care, said ,'s of public.",equivalent
+78,78,700,equivalent,"He added that those``are not solely American, nor are they exclusively . ``","\"" These are not solely American nor are they exclusively,``said.",equivalent
+79,79,702,equivalent,"\"" If we don 't into, I think we will be in pretty good,``he said.","\"" As long as we don 't on, I think we are going to be in pretty good,``he said.",equivalent
+80,80,718,not_equivalent,"On, a 149mph against equalled's.","On, equalled the with a 149 . serve in beating.",equivalent
+81,81,732,equivalent,", with the of, said the is open to new and to communicate more quickly and efficiently.",", with the of, said the is open to new to communicate.",not_equivalent
+82,82,741,equivalent,"\"" are painfully aware that and are inseparable,``told.","\"" are painfully aware that and are inseparable,``said.",equivalent
+83,83,775,not_equivalent,could not be reached for.,could not be reached for after the legal were obtained late.,not_equivalent
+84,84,781,equivalent,resigned last after being indicted on federal involving a real unrelated to.,resigned in late about two after being indicted on in a real unrelated to the.,equivalent
+85,85,792,not_equivalent,",``starring as, debuted well with $80,000 in eight.","\"" Shattered``starring as, The fired for fabricating debuted well with $80,000 in eight.",equivalent
+86,86,796,equivalent,"He was arrested at an while dining with his, singer.",He was arrested again at an where he was having with his.,equivalent
+87,87,812,not_equivalent,"However, would not confirm the 20.",Only in the past few have settled on the 20.,not_equivalent
+88,88,813,equivalent,"of said in a on the's,``Our fundamental haven 't changed.","\"" Our fundamental haven 't changed, ``, of the, said in a in.",equivalent
+89,89,821,equivalent,The first are likely to be costing between $100 and $150 that will establish between and.,The first will likely be costing $100 to $150 that will establish between and.,equivalent
+90,90,839,not_equivalent,"However, expects foreign' to be up 4, driven by strong at.","expects to be down 5, down 10 and foreign up 4 driven by strong at.",equivalent
+91,91,842,equivalent,", who remains in the, denied that had provoked the's.",", who has stayed in the new, denied that it was which had provoked the's.",equivalent
+92,92,852,equivalent,Some of the also are used to send spam e-mail to drum up to the.,Some are also used to send spam e-mail to boost to the.,equivalent
+93,93,865,not_equivalent,"'s has often been accused of human during's for, charges it has generally denied while accusing the of committing.","'s has been accused of human abuses during its earlier with, charges it has generally denied.",not_equivalent
+94,94,885,equivalent,"also hoped to polish his anti-AIDS in, which has been hailed as an in fighting the.",flies to hoping to polish his anti- in a hailed as an in fighting the.,equivalent
+95,95,897,equivalent,"Later this, the will send with from four North African on and.",This the will send to work with from four North African on and.,equivalent
+96,96,924,not_equivalent,The helped overcome after the hit an all-time against the.,slipped at the open after the hit record against the.,equivalent
+97,97,966,equivalent,"for the, rising 37 percent year-on-year to 1.76 billion.","rose 37 per to 1.76bn, beating.",equivalent
+98,98,968,equivalent,"If the's to a higher is successful, the $2 and subway won 't be rolled back.","If the's is successful, the $2 and subway won 't.",equivalent
+99,99,974,equivalent,", 40, remained in critical but stable at's north.",", also 40, was in critical but stable at last.",equivalent
+100,100,978,equivalent,"The serves four: , overclocking, () and a troubleshooting-assistance called.","The serves four: , overclocking, and a troubleshooting-assistance called.",equivalent
+101,101,983,equivalent,corporate tightened in spotty on as labored to get back on its after the largest ever in.,"rose slightly on feather-light on, as regrouped after the biggest-ever in.",not_equivalent
+102,102,990,equivalent,The said it would issue revised for the full fiscal next when it releases its.,The said it would renew its for 2003 when it announces its second in.,equivalent
+103,103,1003,equivalent,"\"" I stand 100 by it, and I think our gave us the correct at the . ``","I stand 100 by it, and I think that our gave us the correct and at the,``said.",equivalent
+104,104,1005,not_equivalent,"\"" I don 't know if the I'm talking to now may end up being else at another that may not follow the,``said.","\"" I don 't know whether the I'm talking to now may end up being else,``said.",not_equivalent
+105,105,1019,equivalent,"\"" I think it's going to be a close, but I think the is going to win,``said.","\"" I think it's going to be a close, but I think the's going to win,``said, assistant.",equivalent
+106,106,1036,equivalent,"Twenty-eight were believed to have been spending with the of the's, when the smashed into two.","Twenty-seven were believed to have been spending with the of, a Greek, when the roared through.",not_equivalent
+107,107,1039,not_equivalent,"One, ., remained hospitalized in critical on.","Her 20-year-old, , was severely burned and remained hospitalized in critical.",not_equivalent
+108,108,1050,not_equivalent,The finally relented during's to earlier this.,"During's to earlier this, however, said it would support the.",not_equivalent
+109,109,1067,equivalent,"\"" There is no conscious of the, I can assure you of this, to move the at all,``he said.",He also said there is no conscious by the to move the of the.,not_equivalent
+110,110,1069,equivalent,It's the first such since the 11 on and.,It is the's first large-scale since the . 11 terrorist.,equivalent
+111,111,1073,equivalent,"'s pro-democracy will return late but will remain in after recovering from at a, her personal said.","'s pro-democracy will be kept under following her from a where she underwent, her personal said.",equivalent
+112,112,1076,equivalent,"According to the, the 37-year-old is registered to based in the of.",The is a 37-year-old registered to based in the of.,equivalent
+113,113,1080,equivalent,"In an unusual, the and is reconsidering a affecting that contend could disrupt of.","In an unusual that contend could disrupt of, the and is reconsidering a affecting.",equivalent
+114,114,1083,not_equivalent,of and show there were 88 performed on 14 and younger last.,"from the of and show that 11,844 were performed in the last.",equivalent
+115,115,1094,not_equivalent,A said the was consulting``with a to taking appropriate if necessary``on the.,'s second most important - said it was consulting' ' with a to taking appropriate if necessary' ' on the.,not_equivalent
+116,116,1102,equivalent,"Waiting filling the on both overwhelmed the soon after, sweeping past the.","But waiting filling the rushed the soon after, overrunning.",equivalent
+117,117,1107,equivalent,"will be able to use's retail to sell made from its German, which makes not sold in the.","will be able to use's retail to sell made from its German, which makes unknown to the American.",equivalent
+118,118,1109,equivalent,"By skirting the's, said, the of the imported is``less predictable``than for those obtained in the.","By skirting the's, said the of the imported is``less predictable``than.",equivalent
+119,119,1115,equivalent,He said:``For the first there is an easy and affordable of making this of available to all . ``,"\"" For the first, there is an easy and affordable of making this of available to all,``said.",equivalent
+120,120,1121,equivalent,"Three such vigilante-style forced the, who identified himself only as``67,``to extend the until 7.","Three such vigilante-style forced the, who identified himself only as ``,``to extend the until 8am ().",equivalent
+121,121,1124,equivalent,pitched a perfect for his 23rd in as many.,struck out two in a perfect ninth for his 23rd.,equivalent
+122,122,1143,not_equivalent,"One or another, And The Of The will be in your by.",Just about about``and the of the``will set.,not_equivalent
+123,123,1161,equivalent,"\"" just proves you don 't need to wait until or to have a,``said, a with the.","\"" just proves you don 't need to wait until or to have a,``said.",equivalent
+124,124,1162,equivalent,", say, UN can no longer ignore the since the 11 2001.","On, say, UN can no longer ignore the since the in the of 11 2001.",equivalent
+125,125,1166,equivalent,"say was involved in the of, a narcotic legal in but banned in the.","said that was involved in the of, a narcotic legal in but banned in the.",equivalent
+126,126,1188,equivalent,already has nearly 20 percent from's.,has from of nearly 20 of.,equivalent
+127,127,1203,not_equivalent,& has denied any and to fight the.,"& has denied the's, and called its``irresponsible ``.",not_equivalent
+128,128,1218,equivalent,The followed several of in the where American exchanged with an unknown of as carried out against the American.,The came after several of in the in which exchanged with an unknown of as protested the American.,equivalent
+129,129,1228,equivalent,No has received an individual at this.,She said no had received``an individual at this . ``,equivalent
+130,130,1242,equivalent,"Second-quarter reflected a of 10 per diluted, while the 2002 included a of 19 per diluted.",The second-quarter had a non-operating of 10 a while the 2002 second-quarter had a net non-operating of 19 a.,equivalent
+131,131,1246,not_equivalent,He allegedly told his in an angry that he had no of following their new.,The two had battled over and he allegedly told her in an angry that he had no of following their new.,not_equivalent
+132,132,1291,equivalent,", more than 50 million have seen ``,``with gross of $1.8 billion.",", has been seen by over 50 million, with a total gross of over $2 billion.",equivalent
+133,133,1305,not_equivalent,In: (`` The ``) and (`` A of ``).,"The fifth for is, for A of.",not_equivalent
+134,134,1306,equivalent,"\"" Overwhelmingly the really resonated with them . ``","\"" was the of the that really resonated with . ``",equivalent
+135,135,1326,equivalent,"The for and, the federal that runs, last began a similar for nursing.",The for and launched a similar for nursing last.,equivalent
+136,136,1340,not_equivalent,was founded in 1999 and has raised over $118 million in three of.,"During difficult for, raised over $118 million in three of.",equivalent
+137,137,1344,not_equivalent,"The industrial average <added 28, or 0.27, at 10,557, hitting its highest in 21.","The industrial average <rose 49, or 0.47, to 10,578.",not_equivalent
+138,138,1349,equivalent,The Democratic also began announcing their fund-raising before's to file quarterly with the.,The Democratic also began announcing their fund-raising in of the to file quarterly with the.,equivalent
+139,139,1353,not_equivalent,on said it had added 100 new third-party and 100 new to its for the operating.,The has added 100 new third-party and 100 new to the's ().,equivalent
+140,140,1361,equivalent,said violated the's 1998 anti-spam by sending unsolicited without a toll-free for to call to stop additional.,said violated the 1998 anti-spam because these unsolicited were sent without a free for to to stop additional.,equivalent
+141,141,1365,not_equivalent,The and spent resting at her in and will have more.,resting in her in and will have more to determine her exact.,equivalent
+142,142,1371,not_equivalent,"The 3 is 5,200 strong and the largest at.",", 34, was assigned to the 2nd , 3rd.",not_equivalent
+143,143,1373,equivalent,"\"" The of becoming undesirably low remains the for the foreseeable,``the said in a accompanying the unanimous.","\"" The of becoming undesirably low remains the for the foreseeable,``the policy-setting said.",equivalent
+144,144,1375,not_equivalent,"\"" It is bad for Symbian,``said, at.","\"" has displayed clear``to, said, an at in.",not_equivalent
+145,145,1384,not_equivalent,", a for, had no about the.",", for, , said the had not seen the and could not comment.",not_equivalent
+146,146,1414,equivalent,But said the under its financial was``tight``and that there could be another if breached any of its.,But said the under its financial was``tight``and that there could be a if did breach any.,equivalent
+147,147,1423,equivalent,He added:``I've never heard of more by a.,The said: I ’ ve never of more reprehensible by a.,equivalent
+148,148,1428,equivalent,"was assigned to 2nd , 3rd, based at.",", 34, was assigned to the 2nd , 3rd.",not_equivalent
+149,149,1436,equivalent,"Other, however, defended the, saying it would still help and the improve to address the.","Some . defended the, saying that although pared down it would still help and the address the.",equivalent
+150,150,1470,not_equivalent,"raised a record-breaking $49.5 million for his over the last three, with from 262,000, the's said.","has raised $83.9 million since beginning his in, and has $70 million of that left to spend, his said.",not_equivalent
+151,151,1477,equivalent,An is declared when the reaches .20 per million of for one.,A 1 is declared when reach 0.20 per million.,equivalent
+152,152,1480,equivalent,"\"" He may not have been there,``the said on.","\"" He may not have been there,``said a speaking on of.",equivalent
+153,153,1487,equivalent,"The are in to protect and, and they can only fire in and have been unable to stem the.",The troops - whose is to protect and - can only fire in self-defense and have been unable to stem the.,equivalent
+154,154,1489,equivalent,"North American grabbed early, as begins to slow and economic take the.","North American pointed to a strong to the first of the, as and economic take the.",not_equivalent
+155,155,1500,equivalent,itself paid a $10 million last to settle similar.,itself previously paid a $10-million to settle the.,equivalent
+156,156,1540,equivalent,"\"" This makes for both,``said.","\"" This makes for both,``said in a prepared.",equivalent
+157,157,1550,not_equivalent,The killed two and injured more than 150.,The killed one and injured more than 100 other.,equivalent
+158,158,1556,not_equivalent,"'s, , sobbed and hugged's during the.","At the's, , sobbed and hugged's as consoled her.",equivalent
+159,159,1562,equivalent,"are to be available from both and, said.",are available worldwide from and.,equivalent
+160,160,1567,equivalent,"About 1,500 will be deployed for the.","Around 1,500 are to be deployed at for the's.",equivalent
+161,161,1579,equivalent,Gamarekian told The she remembers only the's first - and refused to reveal it.,"She told the she remembers only the's first, which she refused to reveal.",equivalent
+162,162,1592,equivalent,"One of the s key, who had a falling out with the, provided an of the at a closed.","One of the's key, who has had a with the, provided an of the at a's closed.",equivalent
+163,163,1596,equivalent,"A nationally certified teacher with a's, makes a of $65,000 in his 30th.","A nationally certified teacher with a's, , in his 30th, makes $65,000.",equivalent
+164,164,1612,equivalent,"A arrested for allegedly threatening to shoot and kill a from was ordered held on $100,000 during an early.","The arrested for allegedly threatening to shoot was held on $100,000, a for the said.",equivalent
+165,165,1616,equivalent,"They were being held in the on $100,000.","They remained in on on $100,000.",equivalent
+166,166,1628,equivalent,", the chief, was not expected to attend.",", 61, its chief executive and, did not attend.",equivalent
+167,167,1639,not_equivalent,"'s, , said the's were preposterous.","'s, , said she will address the.",not_equivalent
+168,168,1646,equivalent,"The 19 gave for the 7 for the to recall ., saying it would not affect.","The on 19 sanctioned the 7 for recall, saying it would not affect voting.",equivalent
+169,169,1660,not_equivalent,"hailed the as``a new as far as the, and are concerned ``.","\"" It's a new as far as the, and are concerned, making the criminal better . ``",not_equivalent
+170,170,1664,not_equivalent,"closed at $30.65 a, down about 42, on the.",'s closed at $30.65 on on the.,not_equivalent
+171,171,1699,equivalent,At least 27 have been killed in hostile since's.,At least 26 American have been killed in hostile since major was officially declared over on 1.,not_equivalent
+172,172,1703,equivalent,"A recent showed with a narrow in, and he plans a there later on.","A recent showed in a virtual four-way at the in, and he plans a there later on.",equivalent
+173,173,1722,equivalent,"17's last was British, who was shot on an in 2000.","17's last was British, who was shot and killed at point-blank on a busy in 2000.",equivalent
+174,174,1737,not_equivalent,The charged that one discussed false with at two other.,"The found further that a discussed false with at two other, which the 't.",not_equivalent
+175,175,1745,equivalent,", a slightly wounded by, said the first targeted the's.",", who was slightly wounded by, said the had focused on the's.",equivalent
+176,176,1746,equivalent,"For the second in a, rises in accounted for much of the, accounting for 51 of the overall.","For the second in a, rises in dominated the, accounting for 51 of the overall.",equivalent
+177,177,1748,not_equivalent,: I buy for right away?,has added a new - an to buy for.,not_equivalent
+178,178,1755,equivalent,"The also said it has the to buy 380 more, that would be split evenly between the two.","The has the to buy 380 more, split evenly between the two.",equivalent
+179,179,1782,equivalent,",'s, said if the had been administered earlier would have retained more of his.",", the's, said had the been administered to earlier, he would have retained more of his.",equivalent
+180,180,1792,not_equivalent,"The operates more than 3,400, and has annual of about $15.8 billion.","The, which has been under new since late 1999, has more than 3,400 and $15.8 billion in annual.",not_equivalent
+181,181,1794,not_equivalent,"All developed some or all of the of: , vomiting, abdominal and.","of the include bloody, , vomiting and abdominal.",equivalent
+182,182,1796,equivalent,Federal have turned from sour to sweet on a proposed $2.8 billion of and's.,Federal have changed their on a proposed $2.8 billion of and's.,equivalent
+183,183,1800,equivalent,Environmental are using this ’ s to highlight the huge in light across the.,Environmental used the to highlight the in light across.,equivalent
+184,184,1812,not_equivalent,"Available 7, the supports the, , and operating.","The currently works with, , and.",not_equivalent
+185,185,1818,equivalent,and have both said the Liberal will introduce soon to decriminalize of small of for personal.,and both have said the will introduce to decriminalize of small of.,equivalent
+186,186,1822,not_equivalent,"But demonstrated he's also capable of big, scoring 77 over the final two against the.",scored 77 in the final two of the first-round against the.,not_equivalent
+187,187,1834,equivalent,killed himself after being exposed as the for a which claimed the had embellished of's banned to justify the.,He killed himself after being exposed as the for a which claimed the exaggerated the for against.,equivalent
+188,188,1854,not_equivalent,"And it's going to be a wild,``said, a Republican.","Now the is just mechanical,``said, a Republican.",not_equivalent
+189,189,1890,equivalent,"While the had one, and about three for the, with several between each.","Instead of one long to separate the, and about three, with several between each.",not_equivalent
+190,190,1903,equivalent,had contended that turning over the would violate his against.,"had refused to turn over the, asserting his against.",equivalent
+191,191,1911,not_equivalent,The didn say how many in were in rural.,"has reported 191 and eight, though the did not say how many were in rural.",not_equivalent
+192,192,1916,equivalent,Nearly 300 mutinous who seized a and demanding the gave up and retreated peacefully after some 19.,Mutinous who seized a and demanding the ended a 19-hour late and returned to without a fired.,equivalent
+193,193,1923,equivalent,"In three, has slipped from a top-five, when its was around $24, to 37th.","In the of three, has slipped from a top-five 5 when its hovered around $24 to 37th on the.",equivalent
+194,194,1924,not_equivalent,"About two later, his, wrapped in a, was found dumped a few away.","Then his was dumped a few away, found in a on.",equivalent
+195,195,1932,equivalent,broke up over upon on 1.,broke apart in the above on 1.,equivalent
+196,196,1967,equivalent,"A or two later , 259, or 10 per, of the reported that they had started to smoke, or had taken just a few.","Within two , 259, or 10, of the reported they had started to smoke or had at least taken a few.",equivalent
+197,197,1976,not_equivalent,"The was guardian of the, used to stamp all official from the.","will hold on, for now, to the's, used to sign off from the.",not_equivalent
+198,198,1979,equivalent,", a 50-year-old Washington-area, says she began taking two ago in to avoid mild that affects her elderly.",She started taking two ago - partly to stave off mild that affects her elderly.,equivalent
+199,199,1983,equivalent,"The two are not related, but have referred to each other as and.","He's not related to, but the two have referred to each other as and.",equivalent
+200,200,1995,equivalent,said last in a that``neither I nor my are anti-Semitic.,said in a that he and his are not anti-Semitic.,equivalent
+201,201,1997,not_equivalent,"The's largest said it recognized the the multiple posed for, and set out to make it easier for them to apply the.",The's largest said it recognized the the multiple posed for trying to apply them.,not_equivalent
+202,202,1999,equivalent,"The industrial average ended up 64.64, or 0.71, at 9,191.09, according to the latest available.","The blue-chip industrial average added 38, or 0.42, to 9,165.",not_equivalent
+203,203,2000,equivalent,"The came just two after swept, taking the largest single of on the 30-seat.",The for followed that gave the largest of on the 30-seat.,not_equivalent
+204,204,2009,equivalent,Large and dangerous already were being felt along of the.,Already large and dangerous have arrived along the mid-Atlantic.,equivalent
+205,205,2024,not_equivalent,"Based on a separate of, the fell in to 6.1 from 6.2.","discounted a slight in the national, which fell in to 6.1 from 6.2.",not_equivalent
+206,206,2047,equivalent,"\"" We will work with the to ensure a smooth . ``",He said federal would work with the to ensure a``smooth . ``,equivalent
+207,207,2051,equivalent,could be heard in the when the was displayed.,could be heard as the was projected onto the.,equivalent
+208,208,2067,equivalent,"had of $73.1 million, or 33 a, compared with $20.8 million, or 10, in the year-ago.","Quarterly climbed to $73.1 million, or 33 a, from $20.8 million, or 10, a earlier, the said.",equivalent
+209,209,2077,not_equivalent,"\"" I had one bad of that put me out of to win,``said.","\"" I had one bad of that put me out of,``said, referring to his 42 on the front nine.",not_equivalent
+210,210,2111,not_equivalent,The had a of of plus or minus 2.,It had a of sampling of plus or minus four and was conducted through.,not_equivalent
+211,211,2124,equivalent,"of, the's senior, later said the is serious but called's too drastic.",", the's senior, later said the is serious but called's too drastic a to be considered.",equivalent
+212,212,2126,equivalent,"The broad &'s 500 <eased 0.37 of a, or 0.03, at 1,121.","The &'s 500 slipped 0.26, or 0.02, to 1,121.96.",equivalent
+213,213,2163,not_equivalent,", and also are going smoke-free, joining a growing of around the.","Along with, , and also are going smoke-free.",equivalent
+214,214,2165,equivalent,"That is evident from their, three in a, to get a big enough to elect a.","Three in a, they failed to get a big enough to elect a.",equivalent
+215,215,2181,equivalent,We firmly believe we have an to use the common' ' as the of our . ``,We firmly believe that we have an to use the common' ' to name our.,equivalent
+216,216,2196,equivalent,who knew of the said last that was also looking at.,"Late last, told also was looking at buying.",equivalent
+217,217,2205,equivalent,"But appropriated the to the 2003 and 2004 without notifying or even the considering the 50-cent, found.","appropriated the to later' without notifying or the when the 50-cent was being considered, he said.",equivalent
+218,218,2223,not_equivalent,", who had suffered kidney from of high, died at around 9 : 30, said.",", who had kidney from of high, had been undergoing and had been hospitalized since a.",not_equivalent
+219,219,2231,equivalent,About 10 of high and 16 of elementary must be proficient at.,"In , 16 of elementary and middle and 9.6 of high must be proficient.",equivalent
+220,220,2243,equivalent,The legal follows three of intense may be bidding for the.,The legal follows three of wild in's over that may be bidding for the.,equivalent
+221,221,2247,equivalent,"The European, the's antitrust, is expected to issue its next unless a is reached.",The European is expected to issue its in the next unless a is reached.,equivalent
+222,222,2249,equivalent,"\"" So Sebastian did his best to convincingly to a that he didn 't in to survive,``she told.","\"" Sebastian did his best to confess convincingly to a he didn 't in to survive,``declared.",equivalent
+223,223,2250,not_equivalent,Twenty of and 23 of black performed at or higher.,"In , 16 of elementary and middle and 9.6 of high must be proficient.",not_equivalent
+224,224,2264,equivalent,He is charged in three in including a at the 1996 and one in.,He is charged in three in - including a at the 1996 - along with the in.,not_equivalent
+225,225,2267,equivalent,The were remanded in and are due to appear again before on 8.,They were remanded in and will appear in again on 8.,equivalent
+226,226,2272,equivalent,"\"" No who becomes the for's top, will need an all-star,``said in a.","No who becomes the for stock-car top, will need an all-star, said.",equivalent
+227,227,2286,equivalent,The were upset that had stolen second in the sixth with leading 7-1.,The were apparently upset when during the sixth with the up 7-1.,equivalent
+228,228,2289,equivalent,He said his hatred for such grew from these and had helped him was the.,His for these had germinated from these and helped cement his that was the.,equivalent
+229,229,2297,equivalent,"\"" There is no for one for all to create the,``said.","Thus, he said, there did not have to one to create the economic.",equivalent
+230,230,2301,equivalent,"The was made during the of a attended by top, , and many from Italian, said.","The came during the on of a attended by top, and many of Italian, said.",equivalent
+231,231,2307,equivalent,"The additional total to this to 100,000.","The of 60,000 brings the of for the to 100,000.",not_equivalent
+232,232,2328,equivalent,"' was found inside his third-floor at 196, in.","The dead, , was found in his third-floor.",equivalent
+233,233,2343,equivalent,"The's were bloodshot and a blood-alcohol produced a of 0.18 - well above's of presumed of 0.10, the said.","He failed a and a blood-alcohol produced a of 0.18 well above's of presumed of 0.10, the said.",not_equivalent
+234,234,2346,equivalent,"But wants to operate on to, and.","said that his would be to operate a fully commercial on to, and.",equivalent
+235,235,2350,not_equivalent,He tried to fight off and was taken to a after a him but was later released.,"tried to fight off and was hospitalized after a him, . said.",equivalent
+236,236,2352,equivalent,"The, which said was not a, may be for the of without.","said the was not a, and said it offered little to the of without.",not_equivalent
+237,237,2361,not_equivalent,"Asked if the could leave on, in, , told they could not because they did not have proper.","Asked if the could leave on, told:``Of they may not go.",not_equivalent
+238,238,2381,equivalent,said the also drew some downside as Japanese are expected to keep snapping up foreign amid the's against the.,said the also drew some downside as Japanese are expected to keep snapping up foreign amid ever-falling domestic.,equivalent
+239,239,2392,not_equivalent,has until the of the to satisfy the it has no for nuclear.,The have until the of the to answer all the's about their past nuclear.,equivalent
+240,240,2394,equivalent,"Her, , the of's, had her brought back and she was married against her will.","Her, , had her brought back and she was promptly married against her will.",equivalent
+241,241,2396,not_equivalent,had advanced to the third of the 76th annual.,"One by one they strolled to the, all 251 in the 76th.",not_equivalent
+242,242,2398,equivalent,"., the's largest financial, on promoted to and chief of its global.",() on named and chief of its global.,not_equivalent
+243,243,2415,equivalent,"\"" They've been in the for over six,``says.","The usually stay in for between six to eight,``added.",equivalent
+244,244,2417,equivalent,Let me just say this: the that we have of of was drawn up and accepted by the joint.,"\"" The that we had of of was drawn up and accepted by the,``he said.",equivalent
+245,245,2428,equivalent,said no actual or other harmful will be used.,said no real or harmful will be used in the.,equivalent
+246,246,2432,equivalent,"Thus far ,'s appears ready to stand behind her.","For now, the's appears to be standing behind.",equivalent
+247,247,2439,not_equivalent,"But late, the issued a saying there would be no and no big.","But late, the and the said there would be no.",equivalent
+248,248,2443,equivalent,There's also a that because does not implement an appropriate on a.,The second is a of not implementing a on a.,equivalent
+249,249,2446,equivalent,Another $100-million in will come from and pay.,The expects to save another $100-million a through and pay.,equivalent
+250,250,2457,equivalent,He called on to establish a royal on child.,The also called on to hold a royal into child.,equivalent
+251,251,2469,not_equivalent,"\"" We think that the of should support the free of all,``said, objecting to's.","We think that the of should support the free of all, he said.",not_equivalent
+252,252,2472,equivalent,", 39, underwent the at the where she has been living for several, said her ,.","The was removed from , 39, at the where she has lived for several.",equivalent
+253,253,2494,not_equivalent,"After 18, found that stopped plaque in the'.","After 18, the had no in the in their.",equivalent
+254,254,2501,equivalent,",'s second-largest, last offered a for.","last offered to buy the for a, or $NZ158 million.",not_equivalent
+255,255,2519,not_equivalent,"\"" This was literally neglected to,``said.",said the many in the did not include.,not_equivalent
+256,256,2539,equivalent,", the's largest private, has expanded its to protect and lesbian, said.","., the's largest private, will now include and in its, said.",not_equivalent
+257,257,2547,equivalent,", and local in's four largest--,, and--were severely disrupted , 1 reported.",", and suburban in's four largest--,, and--were severely disrupted, said.",equivalent
+258,258,2551,equivalent,"In the undergraduate, said the of was not``narrowly tailored``to achieve the's asserted in.",Rehnquist wrote that the was not narrowly tailored to achieve the in educational.,equivalent
+259,259,2568,not_equivalent,"is basically about to, such as the improved ().",The in the current was known as the ().,not_equivalent
+260,260,2572,equivalent,"A in central derailed a Seoul-bound and 28 were injured, said.","In central, a caused a Seoul-bound to derail, injuring 28, local said.",equivalent
+261,261,2577,not_equivalent,They will help draft a to attack that will implement over three to four.,The will help draft a by the of the to attack.,not_equivalent
+262,262,2582,equivalent,"But that would probably be impossible to pass in the, where Republican have refused to go above $350 billion.","Such an would probably be unable to summon a of the, where Republican have refused to go above $350 billion.",equivalent
+263,263,2588,equivalent,"In the with, said about 1,000 had gone to the demanding.","In, . said about 1,000 arrived at the demanding.",equivalent
+264,264,2597,not_equivalent,rose 54 to $7.74 on the.,"of rose 54, or about 8, to close at $7.74.",equivalent
+265,265,2610,equivalent,", expected, would set the for on the beginning.",That would clear the for in the full on.,not_equivalent
+266,266,2627,equivalent,"was charged with leaving the of a fatal, a.",", 67, was booked on a of leaving the of a fatal.",equivalent
+267,267,2649,not_equivalent,said his was conscious and alert and in stable after the.,", who remained in stable after the, talked of the.",not_equivalent
+268,268,2655,not_equivalent,"The, who is in her, donated on 7.",The--who has no of--donated 7.,not_equivalent
+269,269,2656,equivalent,Quattrone said his is innocent.,"In a, his said``is innocent.",equivalent
+270,270,2697,not_equivalent,"In the leading up to the, several received anonymous threatening.","Several connected to the have received threatening, accompanied by rifle.",not_equivalent
+271,271,2698,equivalent,The over online was disclosed in filed last with the and made available by the.,The over online was disclosed in made available by the.,equivalent
+272,272,2713,equivalent,was charged with intentionally causing and attempting to cause to protected.,is charged with one of intentionally causing to a protected.,not_equivalent
+273,273,2719,equivalent,"\"" The and the public to know much more of the of the's seemingly massive,``the said.","\"" The and the public to know more of the' seemingly massive,``he said.",equivalent
+274,274,2727,equivalent,The will hear on on whether can be sued under the with for refusing to rehire rehabilitated.,The high will hear on whether can be sued under the for refusing to rehire rehabilitated.,equivalent
+275,275,2730,equivalent,The said can avoid undelivered by having deposited directly into their or.,The said can avoid with lost or stolen by having deposited directly into personal or.,equivalent
+276,276,2731,equivalent,"\"" More than 70,000 and from in were deployed in.","In all, more than 70,000 based in were deployed to.",equivalent
+277,277,2732,equivalent,slipped 0.8 to 433.50 ($ 6.85) each in on the.,slipped 48 to $41.72 in on the.,not_equivalent
+278,278,2734,equivalent,"Because of the, the now says it lost $1.04 billion, or 32 a, in the ended 30.","Including the, the, Calif.-based said it lost $1.04 billion, or 32 per, in the ending 30.",equivalent
+279,279,2751,not_equivalent,'s raised new that a weak could shackle the budding economic despite a slight in the overall.,"slashed for a seventh straight in, raising new that a weak could shackle the budding economic.",not_equivalent
+280,280,2767,equivalent,designated $20 million to establish the.,The was launched with $20 million from the.,equivalent
+281,281,2775,equivalent,"in the have hit an all-time high with more than 40,000 diagnosed with the each, revealed.","of in have reached a, with the of diagnosed with the passing the 40,000 for the first.",equivalent
+282,282,2777,equivalent,"\"" It was never our to sell the,``said, a of medical.","\"" It was never the of us to sell,``federal said in.",equivalent
+283,283,2784,not_equivalent,", the's largest, has 115,000 active and another 340,000 and.","They cover more than 300,000 UAW and 500,000 and.",not_equivalent
+284,284,2793,not_equivalent,"is hereby sentenced to of the of for one with for served,``said to tumultuous in the.","\"" is hereby sentenced to of the of for one with for served . ``",equivalent
+285,285,2821,equivalent,"\"" We are committed to helping the get on the to a free,``said in a to the on.","\"" We are committed to helping the get on the to a free,``he said.",equivalent
+286,286,2822,equivalent,said he was disappointed that the 't see the severe acute syndrome as of federal disaster-relief.,said he was disappointed the 't see the as of federal.,equivalent
+287,287,2827,equivalent,The 12-nation has risen by 33 against the over the past 15.,The is up 9 against the in the past six.,not_equivalent
+288,288,2828,equivalent,"In 2000, the —, , and were acquitted of all in the.","The--,, and--were acquitted in 2000 of.",equivalent
+289,289,2829,equivalent,I was surprised it turned out me talking and the just.,"\"" I was surprised it turned out me talking and the just . . . It was mostly a . ``",not_equivalent
+290,290,2834,equivalent,The's currently consists of 17 and 15.,hold a 17-15 in the's.,not_equivalent
+291,291,2841,not_equivalent,also said will retire as and chief and from the.,"He replaces , 61, who retired as and chief.",not_equivalent
+292,292,2863,equivalent,We'll be listening carefully to the's at the next.,"\"" We'll be listening carefully to the ()'s at the next . ``",equivalent
+293,293,2875,equivalent,"In that, will report to, and of.","As executive of new, will report to ,'s and chief.",equivalent
+294,294,2876,equivalent,But with the due to leave for personal there was a he might not be present when the final was made.,"But with the due to leave, a early, he may not be present when the final is made.",equivalent
+295,295,2892,not_equivalent,"A pro-independence, , of the, came in second with 31 of the.",", of the Liberal of, won 31 of the while the independent got four.",not_equivalent
+296,296,2894,not_equivalent,"tried unsuccessfully to take over in 1995, but did win on its.",Kerkorian and had also tried to take over in 1995.,not_equivalent
+297,297,2932,not_equivalent,spoke at a that included about 20 of the.,About 20 of the were invited to the.,not_equivalent
+298,298,2987,equivalent,"faced a financial late last after it lost its most lucrative, held with insolvent.","s began late last when it lost its most lucrative, with the insolvent.",equivalent
+299,299,2994,equivalent,But I would rather be talking about high than low . ``,"\"" I would rather be talking about positive rather than negative.",equivalent
+300,300,3003,equivalent,"It was not immediately known how many were on 141, which could carry 141 and.","It was still not known exactly how many were on the, which could carry 141 and.",equivalent
+301,301,3010,equivalent,The remains pinned in a narrow after a powerful drove the broad &'s 500 .SPX up more than 20 since.,The remains pinned in a narrow after a powerful pushed the broad & 500 up more than 20 since.,equivalent
+302,302,3013,equivalent,"said they believed the planned to crash the 1737, which was carrying 47 and six.","believe he wanted to crash 1737, which had 47 and six.",equivalent
+303,303,3021,equivalent,"As sat down to hear the, he looked over to his nine and shouted``is' ' three.","As he sat down to hear the, looked over to his nine and shouted ``! ``, or ``! ``, a religious.",equivalent
+304,304,3119,equivalent,"In hardest-hit, has disappeared from once bustling, ubiquitous stand mostly empty and are eerily quiet.","In hardest-hit, has disappeared from once-bustling and and are virtually empty.",equivalent
+305,305,3120,equivalent,"In a, said he``no longer believes that deliberately intended to trade on my when naming . ``","no longer believes that deliberately intended to trade on his by calling its own ``,``according to a in.",equivalent
+306,306,3125,not_equivalent,"says plays an important in the of, including managing the and both within and between.",",: said plays an important in the of.",not_equivalent
+307,307,3130,equivalent,"The attacks via a in the, an on 16 had warned about.","The attacks via a in the, which warned of 16.",equivalent
+308,308,3140,not_equivalent,"The premium adds 2003 , 2000, and 2000.","The premium adds, and a specialized of 2004.",not_equivalent
+309,309,3142,not_equivalent,"In the year-ago, the recorded a of $16.2 million, or 15 per, on of $1.14 billion.","In the second last, reported a of $16.2 million, or 15 a.",not_equivalent
+310,310,3145,not_equivalent,claimed that the's sensing cannot be fooled by and does not require.,Its sensing electronically reads a; says it can 't be fooled by and doesn.,equivalent
+311,311,3153,equivalent,"shipped out more than a million of the new, making the largest of a single in e-commerce.","shipped more than a million by, making the largest of a single in e-commerce.",equivalent
+312,312,3155,equivalent,The's affected third-quarter per by a.,The said this impacted by a a.,equivalent
+313,313,3167,not_equivalent,"After the two-hour on 14, ., executive and managing pledged quick to.","The will make to, and.",not_equivalent
+314,314,3177,equivalent,It's been a busy of for assigned to keep their safe and.,It's been a busy of for enterprise tasked with the of keeping their safe and.,equivalent
+315,315,3183,not_equivalent,reclined in a soft wearing a woolly near the blackened.,"\"" It's great to be back,``said, dressed in a woolly near the blackened.",not_equivalent
+316,316,3184,equivalent,. proposed the after rejected his $1.2 billion . 9.,"After rejected his $1.2 billion . 9, forecast significant in.",not_equivalent
+317,317,3193,equivalent,"\"" It is probably not the easiest to come in and take over the shuttle, but then again, I look forward to the,``he said.","\"" It's probably not the easiest to come in and take over the shuttle, but I look forward to the,``told at.",equivalent
+318,318,3210,not_equivalent,'s in the and safeguard its regained in 1991.,was forcibly incorporated in the in 1940 and regained its only in 1991.,equivalent
+319,319,3216,not_equivalent,Judge-Executive said a was struck by lightning and was taken to the.,"A, was struck by lightning and was in stable at.",equivalent
+320,320,3237,not_equivalent,"suspected that , 20, had been abducted either by or by.","claimed for's, but suspect that the 20-year-old was abducted either by or.",not_equivalent
+321,321,3239,not_equivalent,"During this's to ,'s opened 38 new, including two.","During the third ,'s opened 38 new and now has 932 in 45.",not_equivalent
+322,322,3251,not_equivalent,"The technology-laced declined 25.78, or 1.56, to 1,627.84.","The broader &'s 500 gave up 11.91, or 1.19, at 986.60.",not_equivalent
+323,323,3261,equivalent,"said the would also feature a 4.5-inch ,.",It also features a 4.5 in back-lit and.,not_equivalent
+324,324,3281,not_equivalent,"did not mention that two Democratic, of and of, voted to shelve the.","Two, of and of, voted with the 40.",not_equivalent
+325,325,3289,equivalent,"Some of the's will join, but haven 't been finalized, said, corporate of's.","Some of the will join, but havent been finalized, said, corporate of.",equivalent
+326,326,3312,not_equivalent,has said it plans to open at least 40 in the in the coming; expect four or more to be in.,"At least 40 of the will be in, and expect four or more to be in.",equivalent
+327,327,3313,equivalent,"is battling to unionize 17,000 of its and to let organize the by signing, rather than by a lengthy.","is battling to unionize 17,000 of its and's to let its organize by signing, rather than by a lengthy.",equivalent
+328,328,3316,equivalent,"The would resort to rolling``at strategic of our and without warning to the,``he said.","\"" From now onwards we will embark on rolling at strategic of our and without any to the,``he said.",equivalent
+329,329,3319,equivalent,Federal said the still did not know the real the were rejected at the of on 21.,He said the still did not know the real the original pulled out on 21.,equivalent
+330,330,3323,equivalent,", of and for the, Ohio-based, said that is one among many that are considering.",", of and for the, Ohio-based, said are considering the.",equivalent
+331,331,3351,equivalent,said was the best among several offers the received from and.,said's was the best among several received from and.,equivalent
+332,332,3356,not_equivalent,"The other fell but shimmed down the to a second-story and used the to scale a razor-wire, said.","After the other fell, used the to scale a 10-foot, razor-wire, said.",equivalent
+333,333,3364,equivalent,"The, expected to last a, will determine whether faces a court-martial.",The of the is to determine whether should be court-martialled.,equivalent
+334,334,3376,equivalent,He said he has begun a to seize's and has frozen more than $13 million had when it closed.,He said he has initiated a in and frozen more than $13 million had when it closed.,equivalent
+335,335,3382,equivalent,"Speaking for the first ,'s maternal said his was unaware he had was in or that he had remarried.","'s maternal said his was unaware he had been sent to, or that he had remarried in.",equivalent
+336,336,3392,equivalent,"\"" Close between our, close between our at the of the ongoing against . ``","Close between regional and was at the of the against, he said.",equivalent
+337,337,3399,not_equivalent,The of a held by Colombian of her after hearing that he might be freed in the next few.,The of a being held by Colombian spoke of their that he would be freed in for his birthday next.,equivalent
+338,338,3401,not_equivalent,We strongly disagree with's and it as a desperate to curry with the.,characterized's as``a desperate to curry with the . ``,not_equivalent
+339,339,3404,equivalent,"After more than two' under the, the four were found guilty of in's . 1 last.","After more than two in by the, the four were found guilty last of.",equivalent
+340,340,3411,equivalent,", 46, a from, said:``They are obviously hurting, so we are basically going over there to help them . ``","\"" They are obviously hurting so we are basically going over there to help them,``, 46, said.",equivalent
+341,341,3412,equivalent,"The and former first has said she will not run for the in 2004, but has not ruled out a in later.",The former first has said she will not run for the in 2004 but has not ruled out a later on.,equivalent
+342,342,3423,not_equivalent,It does not affect the current 9.0.,has had before.,not_equivalent
+343,343,3433,not_equivalent,"The took at 4 on 18, just before the first.","The was about 4 on 18, just before the first rained down on the.",equivalent
+344,344,3441,equivalent,"stemming from the . 11 helped push up to human and large of the by 15 and 28.6, respectively.",stemming from the . 11 helped push up to human by 15 and to large of the by 28.6.,equivalent
+345,345,3452,equivalent,"In, said he was struck by a being driven by an who was tailing him in.","Last, was struck by a being driven by an who was tailing him in's.",equivalent
+346,346,3457,equivalent,"\"" I will support a constitutional which would honor between a and a, codify that,``he said.","\"" If necessary, I will support a constitutional which would honour between a and a, codify that . ``",equivalent
+347,347,3470,equivalent,of the and of will announce a technological that could threaten multi-billion.,the of a technological that could threaten multi-billion.,not_equivalent
+348,348,3476,not_equivalent,"'s semifinal is, whom he beat in last's final.",will play next in a of last's final.,not_equivalent
+349,349,3483,equivalent,A former of a local pleaded guilty to setting off a that knocked out a during the last.,A former pleaded guilty to bombing a during the 2002.,equivalent
+350,350,3501,not_equivalent,are known to help in weight by stimulating - and cutting - but come with the unwanted of speeding up the.,"are known to help in weight by stimulating, and they can help cut too.",not_equivalent
+351,351,3506,equivalent,said it wasn 't his to determine if was``an evil``but maintained that``he has committed an evil . ``,said he couldn 't if was``an evil``but said he``has committed an evil . ``,equivalent
+352,352,3518,not_equivalent,"The rose $2.88, or 6.6, to close at $46.50 on the.",of rose $2.88 to $46.50 in composite.,equivalent
+353,353,3523,equivalent,It also offers a built-in so that flash can be used without having to install an additional.,"The has a built-in, for, so that flash can be installed without an additional.",equivalent
+354,354,3531,not_equivalent,"It decided instead to issue them before the opened after the of its late by's, the.",It decided instead to issue them before the opened to counteract the of its late by's to one above.,equivalent
+355,355,3538,not_equivalent,fell 2.5 or $1.11 to $42.57 and were the's biggest.,"Its fell $9.61 to $50.26, ranking as the's most-active and its biggest.",not_equivalent
+356,356,3555,equivalent,"It will be followed in by a third,``The . ``","The is the second of a, which will wrap up in with``The . ``",not_equivalent
+357,357,3563,equivalent,and the and on pressed against and two of its former for alleged improper mutual.,and federal filed civil against and two in the ever-expanding mutual.,not_equivalent
+358,358,3575,equivalent,"He is blocking them until the assigns four additional to, an in.",He is holding them up until the agrees to assign four additional to the.,equivalent
+359,359,3583,equivalent,pared to compensate for sluggish.,"In to sluggish, pared.",not_equivalent
+360,360,3584,not_equivalent,"The, published in the, is likely to also apply to, its said.","The, conducted on the of developing, was being published in the.",not_equivalent
+361,361,3589,equivalent,My is not based on any one . ``,said his was``not based on any one . ``,equivalent
+362,362,3599,equivalent,", 27, is being retried on stemming from the which led to's.",", 27, is being retried on civil stemming from the that led to's.",equivalent
+363,363,3615,not_equivalent,"\"" The who have been causing are still in.","The who have been causing are still in, they are attacking us . ``",not_equivalent
+364,364,3636,equivalent,"Next at about 2 (), hospital in and near will notice a sudden in complaining of flu-like.","Around the same, in and near will notice a sudden in complaining of flu-like.",equivalent
+365,365,3639,equivalent,". ,'s, and were among the posting that fell below's modest.","Wal- ,'s, ., and posted that fell below's modest.",equivalent
+366,366,3643,not_equivalent,The also fixes a that because does not implement an appropriate on a.,The second is a of not implementing a on a.,equivalent
+367,367,3647,equivalent,", a former, is charged with in the of his 27-year-old and the boy she was carrying.",", 31, is now charged with in the of his 27-year-old and their unborn.",equivalent
+368,368,3654,not_equivalent,run a and the's developed with.,The was developed with the of.,not_equivalent
+369,369,3662,not_equivalent,"He replaces, who announced his in.",announced his to resign on 23.,not_equivalent
+370,370,3668,equivalent,"told's, , a, and, , of the shortly after was apprehended.","Shortly after his, told's, , a, and, , a medical, about the.",equivalent
+371,371,3673,equivalent,They were among about 40 attending the traditional Jewish colored by some non-traditional.,He said about 40 attended the traditional Jewish colored by some nontraditional.,equivalent
+372,372,3689,equivalent,had been relatively free of the viral until a at a in late caused the of to skyrocket.,had been relatively free of the viral until a severe at a in late.,equivalent
+373,373,3699,equivalent,attended a in for the of called to active.,was making an at a for of assigned to duty in and.,not_equivalent
+374,374,3705,not_equivalent,",'s, said he would attend the and would ask to speak on the.",",'s legal, said the would have no on the.",not_equivalent
+375,375,3720,not_equivalent,"The was at 1.5281 versus the Swiss, up 0.2 on the, after hitting its highest since around 1.5292 earlier in the.",The was steady versus the Swiss after hitting its highest since of 1.5261 earlier in the.,not_equivalent
+376,376,3729,not_equivalent,"On the, she said she was referring only to the.","On the, she testified that she was referring to the before the alleged.",not_equivalent
+377,377,3732,not_equivalent,"said the would probably be expanded to include, for, a Christian and perhaps another.",The has already met several and said it probably will be expanded to include a Christian and perhaps another.,not_equivalent
+378,378,3733,equivalent,'s was to take his on to give a to parliament on the.,'s said his would take his on to give a to parliament on the the prime attended last.,not_equivalent
+379,379,3741,equivalent,"\"" There were more surrounding the than the's up in the,``said.","\"" There are more surrounding the than surrounded the's in the.",equivalent
+380,380,3748,equivalent,". , 53, was named as's.","'s longtime, . , 53, was named as his.",equivalent
+381,381,3753,equivalent,"are also meeting with the for (), which establishes for the.","Canadian were also expected to meet with the for (), which establishes for the.",equivalent
+382,382,3755,not_equivalent,"closed at $30.65 a, down about 42, on the.",'s closed at $30.65 on on the.,not_equivalent
+383,383,3773,equivalent,"The will focus on the of diagnostic, therapeutic and vaccine for, ,, hemorrhagic and.","The will focus on, and for, ,, hemorrhagic and.",equivalent
+384,384,3774,equivalent,The is to determine whether there is enough to to a general court-martial.,The of the is to determine whether should be court-martialled.,equivalent
+385,385,3775,not_equivalent,"In the, kill about 460,000, in about 80,000.","In the, kill about 460,000 yearly, according to the of.",equivalent
+386,386,3778,equivalent,Ninety-five of international to the is carried by.,carry 95 of international to the.,equivalent
+387,387,3783,not_equivalent,"\"" It's a major for, and it's a major for other.",The could be a for other.,not_equivalent
+388,388,3788,equivalent,that were lowering their starting in exacerbated a that was already under on.,that the of was lowering starting in exacerbated a already under.,equivalent
+389,389,3792,equivalent,"They note that after several of on upbeat, are looking for stronger of a before sending higher.","After several of on upbeat, many are looking for more concrete of an economic.",not_equivalent
+390,390,3839,equivalent,"Most had expected a more dire, with many anticipating the fifth of in six.","Most had been expecting a far more dire, with many expecting to see the fifth of in six in.",equivalent
+391,391,3868,equivalent,"But, a financial watch closely, decreased 21 to $107.6 million.",", a key of, fell 21 to $107.6 million.",equivalent
+392,392,3876,equivalent,", brand-name, of the and, is receiving this's for to American.",", of the and, is receiving this's for to American from the.",equivalent
+393,393,3887,equivalent,The Denver-based natural and said the was discovered after it received a from the.,"The natural and said the was discovered in to a from the, or.",equivalent
+394,394,3889,equivalent,"The, which the imposed in 2002, will officially end at, instead of 2005 as initially planned.","The, which imposed in 2002, were to officially end at (0500), instead of 2005 as initially planned.",equivalent
+395,395,3922,equivalent,'s online reported on that and the could announce a as early as.,"has learned that the could come as early as , 19.",not_equivalent
+396,396,3961,equivalent,"Only one of the five in the of the escaped being burned, the said on its.","Only one of the five in the in by the, escaped being burned, the said on its.",equivalent
+397,397,3975,equivalent,of have rocketed 64 since made its first on 10.,"Since the initial, have risen about 35.",equivalent
+398,398,3989,equivalent,"The, reached after less than four of, followed a 2, during which represented himself.","The quick followed a 2 1 2, during which the represented himself.",equivalent
+399,399,3997,equivalent,It's happened five in the last 11: A puts this Southwestern in the during the.,"It's happened five in the last: A puts this in the during, its busiest.",not_equivalent
+400,400,3998,not_equivalent,"The broader &'s 500 edged down 9, or 0.98, to 921.","The technology-laced shed 15, or 0.98, to 1,492.",not_equivalent
+401,401,4014,equivalent,The emphasized that's does not import any raw or from for's in the.,'s said in a that it does not import any raw or from for in the.,equivalent
+402,402,4020,equivalent,", a former, was appointed chief.",was appointed the new chief.,equivalent
+403,403,4023,not_equivalent,"Their will expire at 12 : 01 a.m. instead of 12 : 01, said Rian, organizing for and 700.","\"" It has outraged the,``said Rian, organizing of and 700.",not_equivalent
+404,404,4028,equivalent,But plaque increased by 2.7 in.,The of in' rose by 3.,not_equivalent
+405,405,4040,equivalent,"in the, the - under by its ,'s, since its - will appear in.","Tomorrow the, kept under by's since its, will appear in.",equivalent
+406,406,4049,not_equivalent,"The & rose 87.74 on the, while the composite gained 44.49.","On the, the industrial rose 11.56, while the gained 39.42.",not_equivalent
+407,407,4053,equivalent,Ex-KGB added that the were considered' of an alien'.,In Soviet the'``was considered of an alien.,equivalent
