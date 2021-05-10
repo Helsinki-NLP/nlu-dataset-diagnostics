@@ -16,10 +16,6 @@
 """ Finetuning the library models for sequence classification on GLUE."""
 # You can also adapt this script on your own text classification task. Pointers for this are left as comments.
 
-
-# Modified version of the Huggingface example sequence classification script.
-# Modified by Aarne Talman, https://github.com/aarnetalman (aarne.talman@helsinki.fi)
-
 import logging
 import os
 import random
@@ -28,6 +24,7 @@ from dataclasses import dataclass, field
 from typing import Optional
 
 import numpy as np
+#os.environ['TRANSFORMERS_CACHE'] = '/scratch/project_2001569/aarne/glue2/.cache/huggingface'
 
 from datasets import load_dataset, load_metric
 
@@ -98,6 +95,16 @@ class DataTrainingArguments:
     corrupt_dataset: Optional[str] = field(
         default = None
     )
+
+    # corrupt_train: bool = field(
+    #     default=False
+    # )
+    # corrupt_dev: bool = field(
+    #     default=False
+    # )
+    # corrupt_test: bool = field(
+    #     default=False
+    # )
     overwrite_cache: bool = field(
         default=False, metadata={"help": "Overwrite the cached preprocessed datasets or not."}
     )
@@ -254,7 +261,7 @@ def main():
     # download the dataset.
     if data_args.task_name is not None:
         # Downloading and loading a dataset from the hub.
-        datasets = load_dataset("corrupt_glue", data_args.task_name)
+        datasets = load_dataset("glue", data_args.task_name)
     else:
         # Loading a dataset from your local files.
         # CSV/JSON training and evaluation files are needed.
@@ -348,7 +355,6 @@ def main():
             else:
                 sentence1_key, sentence2_key = non_label_column_names[0], None
 
-    # Corrupt corrupt_glue datasets by removing occurrences of a specific word category / POS
     def corrupt_data(sentence1, sentence2=None):
         tokenized_sent1 = nltk.word_tokenize(sentence1)
         tagged_sent1 = nltk.pos_tag(tokenized_sent1, tagset='universal')
@@ -452,7 +458,7 @@ def main():
     if training_args.do_predict or data_args.task_name is not None or data_args.test_file is not None:
         if "test" not in datasets and "test_matched" not in datasets:
             raise ValueError("--do_predict requires a test dataset")
-        test_dataset = datasets["test_matched" if data_args.task_name == "mnli" else "test"]
+        test_dataset = datasets["validation_matched" if data_args.task_name == "mnli" else "validation"]
         if data_args.max_test_samples is not None:
             test_dataset = test_dataset.select(range(data_args.max_test_samples))
 
@@ -463,7 +469,7 @@ def main():
 
     # Get the metric function
     if data_args.task_name is not None:
-        metric = load_metric("corrupt_glue", data_args.task_name)
+        metric = load_metric("glue", data_args.task_name)
     # TODO: When datasets metrics include regular accuracy, make an else here and remove special branch from
     # compute_metrics
 
