@@ -1,8 +1,0 @@
-cola	64.05468	matthews_correlation
-mnli-m	87.88589	accuracy
-mrpc	90.93137	accuracy
-qnli	92.64141	accuracy
-qqp	91.32327	accuracy
-rte	70.03610	accuracy
-sst2	94.61009	accuracy
-stsb	90.08314	pearson_correlation
