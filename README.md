@@ -2,7 +2,7 @@
 
 This repository contains data and scripts to reproduce the results from our paper:
 
-Aarne Talman, Marianna Apidianaki, Stergios Chatzikyriakidis, Jörg Tiedemann. 2022. How Does Data Corruption Affect Natural Language Understanding Models? A Study on GLUE datasets.
+Aarne Talman, Marianna Apidianaki, Stergios Chatzikyriakidis, Jörg Tiedemann. 2022. [How Does Data Corruption Affect Natural Language Understanding Models? A Study on GLUE datasets](https://arxiv.org/abs/2201.04467).
 
 
 *A central question in natural language understanding (NLU) research is whether high performance demonstrates the models' strong reasoning capabilities. We present an extensive series of controlled experiments where pre-trained language models are exposed to data that have undergone specific corruption transformations. The transformations involve removing instances of specific word classes and often lead to non-sensical sentences. Our results show that performance remains high for most GLUE tasks when the models are fine-tuned or tested on corrupted data, suggesting that the models leverage other cues for prediction even in non-sensical contexts. Our proposed data transformations can be used as a diagnostic tool for assessing the extent to which a specific dataset constitutes a proper testbed for evaluating models' language understanding capabilities.*
