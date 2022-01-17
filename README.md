@@ -18,7 +18,7 @@ Run the experiments using the following command:
 bash run_experiment.sh
 ```
 
-`run_experiment.sh` starts a fine-tuning job for each configuration and only works in an environment where you have access to a lot of GPU instances managed by a orchestration system like SLURM. To run a single configuration, you can modify `train.sh` and tun it:
+`run_experiment.sh` starts a fine-tuning job for each configuration and only works in an environment where you have access to a lot of GPU instances managed with an orchestration system like SLURM. To run a single configuration, you can modify `train.sh` and tun it:
 
 ```bash
 bash train.sh
